@@ -1,0 +1,514 @@
+{"text": "ありがと助かった", "cls": "none", "prev": "型エラーの箇所を一覧にしました。", "complete": true}
+{"text": "おつかれ", "cls": "none", "prev": null, "complete": true}
+{"text": "じゃあまた明日", "cls": "none", "prev": "今日の作業ログを保存しました。", "complete": true}
+{"text": "んーー", "cls": "none", "prev": null, "complete": true}
+{"text": "あーあ", "cls": "none", "prev": null, "complete": true}
+{"text": "おっけ", "cls": "none", "prev": null, "complete": true}
+{"text": "サンキュー", "cls": "none", "prev": "コミットメッセージを整えました。", "complete": true}
+{"text": "はいはい", "cls": "none", "prev": null, "complete": true}
+{"text": "よしっ", "cls": "none", "prev": null, "complete": true}
+{"text": "おはようございます 今日もよろしくお願いします", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとうございます、レビュー助かりました", "cls": "none", "prev": "指摘した3点を修正案にまとめました。", "complete": true}
+{"text": "お疲れ様でした 今日はここまでにします", "cls": "none", "prev": null, "complete": true}
+{"text": "またあとでね", "cls": "none", "prev": "ビルドが終わったら知らせます。", "complete": true}
+{"text": "どうもです", "cls": "none", "prev": "eslint の警告を消しました。", "complete": true}
+{"text": "うん ありがとね", "cls": "none", "prev": "リベースが完了しました。", "complete": true}
+{"text": "いやー助かったわマジで", "cls": "none", "prev": "コンフリクトを解消しました。", "complete": true}
+{"text": "じゃ 落ちるね", "cls": "none", "prev": null, "complete": true}
+{"text": "ふぅー", "cls": "none", "prev": null, "complete": true}
+{"text": "えーっとー まいっか", "cls": "none", "prev": null, "complete": true}
+{"text": "あ ごめんごめん なんでもない", "cls": "none", "prev": "はい、何でしょう。", "complete": true}
+{"text": "さっきのありがとう PR通ったよってお礼だけ", "cls": "none", "prev": null, "complete": true}
+{"text": "こんにちは", "cls": "none", "prev": null, "complete": true}
+{"text": "こんばんは 夜遅くにすみません", "cls": "none", "prev": null, "complete": true}
+{"text": "ただいま戻りました", "cls": "none", "prev": null, "complete": true}
+{"text": "じゃあ休憩入るね", "cls": "none", "prev": "テストの実行が終わりました。", "complete": true}
+{"text": "ごちそうさま じゃ再開しよ", "cls": "none", "prev": null, "complete": true}
+{"text": "なんだっけ", "cls": "none", "prev": null, "complete": true}
+{"text": "ええと", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみ、ビルド回したまま寝るわ", "cls": "none", "prev": "ビルドは30分ほどかかります。", "complete": true}
+{"text": "ありがとう その説明で十分です", "cls": "none", "prev": "循環参照の起きる理由は以上です。", "complete": true}
+{"text": "はーい", "cls": "none", "prev": null, "complete": true}
+{"text": "ういっす", "cls": "none", "prev": null, "complete": true}
+{"text": "お先に失礼します", "cls": "none", "prev": "お疲れ様でした。", "complete": true}
+{"text": "今日はもう終わり ばいばい", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとう 続きは明日やります", "cls": "none", "prev": "残りの型エラーは12件です。", "complete": true}
+{"text": "なるほどね ありがと", "cls": "none", "prev": "preload を通す理由はセキュリティ境界のためです。", "complete": true}
+{"text": "いえいえ", "cls": "none", "prev": "ご指摘ありがとうございます。", "complete": true}
+{"text": "ごめん 寝落ちしてた", "cls": "none", "prev": "先ほどの続きを進めますか?", "complete": true}
+{"text": "うーん まあいいや", "cls": "none", "prev": null, "complete": true}
+{"text": "うん、", "cls": "flow", "prev": "テストを回しますか?", "complete": true}
+{"text": "それでお願い", "cls": "flow", "prev": "先に lint だけ直しましょうか。", "complete": true}
+{"text": "うん そうだね", "cls": "flow", "prev": "この関数は分割したほうがよさそうです。", "complete": true}
+{"text": "はい お願いします", "cls": "flow", "prev": "PR の説明文を下書きしましょうか?", "complete": true}
+{"text": "あー それでいい", "cls": "flow", "prev": "エラーはログに出すだけにしますか?", "complete": true}
+{"text": "そうそう", "cls": "flow", "prev": "落ちているのはユニットテストのほうですね?", "complete": true}
+{"text": "うん、それで進めて", "cls": "flow", "prev": "モックに差し替えて先に進めます。", "complete": true}
+{"text": "おっけー", "cls": "flow", "prev": "ビルドが終わったら知らせますね。", "complete": true}
+{"text": "じゃあそれで", "cls": "flow", "prev": "型を any から unknown に変えます。", "complete": true}
+{"text": "いや 今はいい", "cls": "flow", "prev": "テストも一緒に書きますか?", "complete": true}
+{"text": "まあいっか", "cls": "flow", "prev": "この警告は無視して大丈夫だと思います。", "complete": true}
+{"text": "うんうん", "cls": "flow", "prev": "レビューで指摘があった箇所ですね。", "complete": true}
+{"text": "はい。", "cls": "flow", "prev": "CI の結果を確認しますか?", "complete": true}
+{"text": "どっちでもいいよ", "cls": "flow", "prev": "ファイル名はケバブケースにしますか?", "complete": true}
+{"text": "うん たぶんそれ", "cls": "flow", "prev": "原因はキャッシュの期限切れではないでしょうか。", "complete": true}
+{"text": "そうしよっか", "cls": "flow", "prev": "先にマージして後でリファクタしませんか。", "complete": true}
+{"text": "うーん いや いいや", "cls": "flow", "prev": "スナップショットを更新しますか?", "complete": true}
+{"text": "あ はい大丈夫です", "cls": "flow", "prev": "この変更は既存のテストに影響しません。", "complete": true}
+{"text": "じゃあお願いしまーす", "cls": "flow", "prev": "デプロイ手順もまとめておきましょうか。", "complete": true}
+{"text": "やっといて", "cls": "flow", "prev": "import の順番を並び替えます。", "complete": true}
+{"text": "いいね それ", "cls": "flow", "prev": "リトライを3回に増やすのはどうでしょう。", "complete": true}
+{"text": "そうだね、いったんそれで", "cls": "flow", "prev": "エラー時は例外を投げる形にします。", "complete": true}
+{"text": "うん見た", "cls": "flow", "prev": "レビューコメントは確認されましたか?", "complete": true}
+{"text": "まだー", "cls": "flow", "prev": "CI は通りましたか?", "complete": true}
+{"text": "たぶんね", "cls": "flow", "prev": "この修正で直ると思います。", "complete": true}
+{"text": "うん その認識で合ってる", "cls": "flow", "prev": "つまり夜間バッチだけ失敗するということですね。", "complete": true}
+{"text": "ううん 違わないよそれで", "cls": "flow", "prev": "エンドポイントは /v2 でしたよね?", "complete": true}
+{"text": "はいはい それで", "cls": "flow", "prev": "設定は env から読む形にします。", "complete": true}
+{"text": "じゃあ後者で", "cls": "flow", "prev": "ポーリングと WebSocket のどちらにしますか?", "complete": true}
+{"text": "一個目", "cls": "flow", "prev": "候補は二つあります。どちらにしますか?", "complete": true}
+{"text": "なしで", "cls": "flow", "prev": "コミットメッセージに本文も付けますか?", "complete": true}
+{"text": "そうだねー うん", "cls": "flow", "prev": "まずローカルで再現させましょう。", "complete": true}
+{"text": "うん 頼んだ", "cls": "flow", "prev": "型エラーの箇所を一覧にします。", "complete": true}
+{"text": "いや大丈夫、自分でやる", "cls": "flow", "prev": "コンフリクトの解消を手伝いましょうか?", "complete": true}
+{"text": "了解 それで", "cls": "flow", "prev": "テストは並列で流します。", "complete": true}
+{"text": "ああ うん", "cls": "flow", "prev": "その関数は既に非推奨になっています。", "complete": true}
+{"text": "そうそう そっち", "cls": "flow", "prev": "GitHub Actions のほうのワークフローですね?", "complete": true}
+{"text": "あ それはいいや", "cls": "flow", "prev": "eslint の設定も更新しますか?", "complete": true}
+{"text": "はい、続けてください", "cls": "flow", "prev": "残りのファイルも同じように直しますか?", "complete": true}
+{"text": "タイマー25分", "cls": "ack", "prev": null, "complete": true}
+{"text": "もっかい言って", "cls": "ack", "prev": "npx vitest run --reporter verbose です。", "complete": true}
+{"text": "ちょっと待って", "cls": "ack", "prev": null, "complete": true}
+{"text": "メモして", "cls": "ack", "prev": null, "complete": true}
+{"text": "音もうちょい小さく", "cls": "ack", "prev": null, "complete": true}
+{"text": "ゆっくり喋って", "cls": "ack", "prev": "手順は五つあります。まず依存を入れて", "complete": true}
+{"text": "止めて", "cls": "ack", "prev": "次に config.ts を開いて", "complete": true}
+{"text": "続けて", "cls": "ack", "prev": null, "complete": true}
+{"text": "いま言ったコマンド もう一回読み上げて", "cls": "ack", "prev": "git rebase -i HEAD~3 で整理できます。", "complete": true}
+{"text": "さっきのエラーメッセージ覚えといて、あとで使うから", "cls": "ack", "prev": null, "complete": true}
+{"text": "ポモドーロ えっと 50分で回して", "cls": "ack", "prev": null, "complete": true}
+{"text": "15分後にレビュー再開って教えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "「retry上限は3」ってメモしといてください", "cls": "ack", "prev": null, "complete": true}
+{"text": "今の話 TODOに入れといて", "cls": "ack", "prev": "テストの並列化は後回しでもよさそうです。", "complete": true}
+{"text": "短く言ってください", "cls": "ack", "prev": "この設計には三つの利点と二つの欠点があり", "complete": true}
+{"text": "声もうちょい大きく", "cls": "ack", "prev": null, "complete": true}
+{"text": "話すの止めてもらっていいですか", "cls": "ack", "prev": "さらに、依存注入を使うと", "complete": true}
+{"text": "リマインダー、3時にPRのマージ確認って入れといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "それは忘れて", "cls": "ack", "prev": "先ほどの Rust 化の話を覚えておきます。", "complete": true}
+{"text": "次の話に行こう", "cls": "ack", "prev": null, "complete": true}
+{"text": "要点だけもう一回お願いします", "cls": "ack", "prev": "以上がマイグレーションの注意点です。", "complete": true}
+{"text": "あー そのコマンドクリップボードに入れといて", "cls": "ack", "prev": "docker compose up -d で立ち上がります。", "complete": true}
+{"text": "さっきの手順 順番に読み上げて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今日の作業ログに「認証周りの調査」って足しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "マイク切って", "cls": "ack", "prev": null, "complete": true}
+{"text": "通知しばらく止めといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "その提案は保留にしといてください", "cls": "ack", "prev": "GraphQL への移行を提案します。", "complete": true}
+{"text": "さっきの三つ目だけ覚えといて", "cls": "ack", "prev": "三つ目はキャッシュの期限を延ばす案です。", "complete": true}
+{"text": "今のは無視で", "cls": "ack", "prev": null, "complete": true}
+{"text": "テスト回しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "とりあえずコミットしといて メッセージは適当でいい", "cls": "ack", "prev": "変更は4ファイルです。", "complete": true}
+{"text": "フォーマッタかけといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "そのブランチ名 コピーしといて", "cls": "ack", "prev": "ブランチは fix/auth-timeout です。", "complete": true}
+{"text": "ビルド終わったら音で知らせて", "cls": "ack", "prev": null, "complete": true}
+{"text": "1時間したら休憩って言って", "cls": "ack", "prev": null, "complete": true}
+{"text": "今日のメモ、名前「バグ調査」にしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "スタンドアップ用に 今言ったの三行にまとめといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "覚えといて Node は 20 系って", "cls": "ack", "prev": null, "complete": true}
+{"text": "あとで思い出させて 依存の更新", "cls": "ack", "prev": "package.json に古い依存が残っています。", "complete": true}
+{"text": "CIの結果見てきて", "cls": "work", "prev": null, "complete": true}
+{"text": "さっきのビルド落ちた理由調べて", "cls": "work", "prev": "ビルドが失敗しました。", "complete": true}
+{"text": "PR来てる?", "cls": "work", "prev": null, "complete": true}
+{"text": "issue検索して えっと ログイン失敗のやつ", "cls": "work", "prev": null, "complete": true}
+{"text": "main の最新のコミット 誰のか見て", "cls": "work", "prev": null, "complete": true}
+{"text": "エラーググって", "cls": "work", "prev": "ECONNRESET が出ています。", "complete": true}
+{"text": "依存の脆弱性チェックして", "cls": "work", "prev": null, "complete": true}
+{"text": "ログ見といて", "cls": "work", "prev": null, "complete": true}
+{"text": "テストのカバレッジ、今何パーか調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "レビュー待ちのPR 何件あるか教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "README の環境構築の手順 探してきて", "cls": "work", "prev": null, "complete": true}
+{"text": "なんかさ 昨日の夜のデプロイのログ 見れる?", "cls": "work", "prev": null, "complete": true}
+{"text": "あの feature/auth ブランチの差分教えてもらえますか", "cls": "work", "prev": null, "complete": true}
+{"text": "npm の audit 走らせて結果教えて", "cls": "work", "prev": "依存を更新しました。", "complete": true}
+{"text": "GitHub の通知 なんか来てる?", "cls": "work", "prev": null, "complete": true}
+{"text": "staging のヘルスチェック叩いてみて", "cls": "work", "prev": "デプロイが終わりました。", "complete": true}
+{"text": "この関数 どこから呼ばれてるか調べて", "cls": "work", "prev": "formatDate は utils にあります。", "complete": true}
+{"text": "eslint の no-explicit-any の説明、公式から引っ張ってきて", "cls": "work", "prev": null, "complete": true}
+{"text": "昨日落ちてたテスト 今も落ちてる?見てきて", "cls": "work", "prev": null, "complete": true}
+{"text": "Sentry のエラー 今日ぶんまとめて", "cls": "work", "prev": null, "complete": true}
+{"text": "package.json の vitest のバージョン確認して", "cls": "work", "prev": "vitest の新しい API を使います。", "complete": true}
+{"text": "docker のコンテナ どれ動いてる?", "cls": "work", "prev": null, "complete": true}
+{"text": "直近1週間で誰が一番コミットしてる?", "cls": "work", "prev": null, "complete": true}
+{"text": "ライセンス MITで問題ないか調べといて", "cls": "work", "prev": "このライブラリを追加します。", "complete": true}
+{"text": "ポート 5174 使ってるプロセス調べて", "cls": "work", "prev": "ポートが使用中というエラーです。", "complete": true}
+{"text": "あのー リリースノート v2.3 のやつ取ってきて", "cls": "work", "prev": null, "complete": true}
+{"text": "flaky なテスト 履歴から洗い出して", "cls": "work", "prev": null, "complete": true}
+{"text": "Slack に障害の報告来てないか見て", "cls": "work", "prev": "エラー率が上がっています。", "complete": true}
+{"text": "TypeScript 5.5 の変更点 要約して", "cls": "work", "prev": null, "complete": true}
+{"text": "田中さんのレビューコメント、全部拾ってきて", "cls": "work", "prev": null, "complete": true}
+{"text": "型エラー数えて", "cls": "work", "prev": "tsc を実行しました。", "complete": true}
+{"text": "そのファイル開いて見せて", "cls": "work", "prev": "エラーは router.ts の 40 行目です。", "complete": true}
+{"text": "本番のメモリ使用量 今どんなもん?", "cls": "work", "prev": null, "complete": true}
+{"text": "デプロイの予定 カレンダーに入ってる?", "cls": "work", "prev": null, "complete": true}
+{"text": "明日のリリース、なんか届いてない、メールで", "cls": "work", "prev": null, "complete": true}
+{"text": "コミットログ見せて", "cls": "work", "prev": "ブランチを切り替えました。", "complete": true}
+{"text": "ブランチ一覧出して", "cls": "work", "prev": null, "complete": true}
+{"text": "差分見せて", "cls": "work", "prev": "3ファイルを変更しました。", "complete": true}
+{"text": "ドキュメントの中で レート制限の記述探して", "cls": "work", "prev": null, "complete": true}
+{"text": "誰がこの行書いたか blame して", "cls": "work", "prev": "この行で null 参照が起きています。", "complete": true}
+{"text": "なんでこれ落ちるの", "cls": "think", "prev": "テストが2件失敗しました。", "complete": true}
+{"text": "どっちが向いてると思う", "cls": "think", "prev": "案は Redis とインメモリの二つです。", "complete": true}
+{"text": "説明して", "cls": "think", "prev": "ここで競合状態が起きています。", "complete": true}
+{"text": "この設計どう思う", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで?", "cls": "think", "prev": "この関数は削除したほうがいいです。", "complete": true}
+{"text": "どうすればいい", "cls": "think", "prev": "マイグレーションが途中で止まっています。", "complete": true}
+{"text": "ってどういう意味", "cls": "think", "prev": "この型は共変ではありません。", "complete": true}
+{"text": "何がまずいの", "cls": "think", "prev": "この書き方はおすすめしません。", "complete": true}
+{"text": "このテスト なんで通っちゃうんだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "useEffect と useMemo ここはどっち使うべき", "cls": "think", "prev": null, "complete": true}
+{"text": "リトライにジッター入れる意味 教えて", "cls": "think", "prev": null, "complete": true}
+{"text": "えっとー モノレポにするメリットって何", "cls": "think", "prev": null, "complete": true}
+{"text": "このPR 分けたほうがいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "例外投げるのと結果型で返すの、どっちが読みやすいと思います?", "cls": "think", "prev": null, "complete": true}
+{"text": "なんかさ このバグ 原因なんだと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "mock 多すぎる気がするんだけど どう思う", "cls": "think", "prev": null, "complete": true}
+{"text": "インデックス貼るべき?貼らないべき?", "cls": "think", "prev": "このクエリは 2 秒かかっています。", "complete": true}
+{"text": "循環参照ってなんで起きるんですか", "cls": "think", "prev": null, "complete": true}
+{"text": "関数名 fetchUser と loadUser どっちが自然?", "cls": "think", "prev": null, "complete": true}
+{"text": "このレビューコメント どう返すのがいいかな", "cls": "think", "prev": "「この抽象化は早すぎる」というコメントです。", "complete": true}
+{"text": "リファクタ先にやる?機能先にやる?", "cls": "think", "prev": null, "complete": true}
+{"text": "Rust で書き直す価値あると思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで preload 通さないといけないの", "cls": "think", "prev": "renderer から直接 fs は呼べません。", "complete": true}
+{"text": "依存注入って この規模でも要る?", "cls": "think", "prev": null, "complete": true}
+{"text": "テストが遅いんだけど どこから手をつけたらいい", "cls": "think", "prev": null, "complete": true}
+{"text": "マイグレーション、一回で流すのと分けるの、どっちが安全ですか", "cls": "think", "prev": null, "complete": true}
+{"text": "説明してほしい この正規表現", "cls": "think", "prev": "この行でメールアドレスを検証しています。", "complete": true}
+{"text": "なんで async にしたの ここ", "cls": "think", "prev": "この関数を async に変更しました。", "complete": true}
+{"text": "ブランチ切り直したほうがいいのかな", "cls": "think", "prev": "コミットが 40 個たまっています。", "complete": true}
+{"text": "これ O(n²) になってる?なんで?", "cls": "think", "prev": null, "complete": true}
+{"text": "コミット 細かく分けたほうがいいと思います?", "cls": "think", "prev": null, "complete": true}
+{"text": "eslint の警告 全部直す価値ある?", "cls": "think", "prev": "警告は 87 件あります。", "complete": true}
+{"text": "あー なんかいい命名ないかな", "cls": "think", "prev": null, "complete": true}
+{"text": "型を緩めるか キャストするか どっちがマシ", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで CI だけ落ちてローカルは通るんだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "この関数、どう分割したらいい?", "cls": "think", "prev": "この関数は 300 行あります。", "complete": true}
+{"text": "GraphQL に移す判断 どう考えたらいいですか", "cls": "think", "prev": null, "complete": true}
+{"text": "どう思う?", "cls": "think", "prev": "PR の説明を読みました。", "complete": true}
+{"text": "どうしたらいい?", "cls": "think", "prev": "本番のメモリが上限に近づいています。", "complete": true}
+{"text": "ペアプロ いつ頼むのが効率いいと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "CI通った?", "cls": "check", "prev": "テストを実行しました。", "complete": true}
+{"text": "マージした?", "cls": "check", "prev": "PR のレビューが承認されました。", "complete": true}
+{"text": "落ちたのは3件だっけ", "cls": "check", "prev": "ユニットテストが失敗しています。", "complete": true}
+{"text": "さっきのってもうコミットした?", "cls": "check", "prev": "設定ファイルを更新しました。", "complete": true}
+{"text": "main に push してない?", "cls": "check", "prev": "コミットを作成しました。", "complete": true}
+{"text": "Node 20だよね", "cls": "check", "prev": "ローカルの環境を確認しました。", "complete": true}
+{"text": "これ vitest で動く?", "cls": "check", "prev": "テストファイルを追加しました。", "complete": true}
+{"text": "あれ リベースした?", "cls": "check", "prev": "ブランチを最新にしました。", "complete": true}
+{"text": "ステージング 今デプロイ中?", "cls": "check", "prev": "デプロイのワークフローを開始しました。", "complete": true}
+{"text": "あー ポートは 3000 でいい?", "cls": "check", "prev": "開発サーバーを起動します。", "complete": true}
+{"text": "その関数 まだ使われてる?", "cls": "check", "prev": "古いヘルパーが残っています。", "complete": true}
+{"text": "レビュー、田中さんに振った?", "cls": "check", "prev": "PR を作成しました。", "complete": true}
+{"text": "型エラー ゼロになった?", "cls": "check", "prev": "型の修正を反映しました。", "complete": true}
+{"text": "これ 明日のリリースに入るんだっけ", "cls": "check", "prev": "この PR はマージ済みです。", "complete": true}
+{"text": "snapshot 更新済み?", "cls": "check", "prev": "UI コンポーネントを変更しました。", "complete": true}
+{"text": "さっき言ったのって preload の話?", "cls": "check", "prev": "その API はレンダラーからは呼べません。", "complete": true}
+{"text": "env の名前、API_KEY で合ってる?", "cls": "check", "prev": "環境変数から読み込む形にしました。", "complete": true}
+{"text": "テスト 並列で流した?", "cls": "check", "prev": "テストの実行が終わりました。", "complete": true}
+{"text": "コンフリクト もう解消されてる?", "cls": "check", "prev": "main の変更を取り込みました。", "complete": true}
+{"text": "直った?", "cls": "check", "prev": "修正をコミットしました。", "complete": true}
+{"text": "lint通った?", "cls": "check", "prev": "整形を実行しました。", "complete": true}
+{"text": "3回だっけ", "cls": "check", "prev": "リトライの上限を設定しました。", "complete": true}
+{"text": "これって本番の話?", "cls": "check", "prev": "エラー率が上がっています。", "complete": true}
+{"text": "依存 入れ直した?", "cls": "check", "prev": "package.json を変更しました。", "complete": true}
+{"text": "うんと そのコミット 署名付いてる?", "cls": "check", "prev": "コミットを作成しました。", "complete": true}
+{"text": "昨日のバグ もうクローズした?", "cls": "check", "prev": "issue の一覧を更新しました。", "complete": true}
+{"text": "これ、5.5 で動くんでしたっけ", "cls": "check", "prev": "TypeScript をアップグレードしました。", "complete": true}
+{"text": "キャッシュ 消した?", "cls": "check", "prev": "ビルドをやり直します。", "complete": true}
+{"text": "デフォルトブランチって main?", "cls": "check", "prev": "リポジトリをクローンしました。", "complete": true}
+{"text": "あれ それ非推奨じゃなかった?", "cls": "check", "prev": "fs.exists を使って確認しました。", "complete": true}
+{"text": "カバレッジ 下がってない?", "cls": "check", "prev": "テストを一部削除しました。", "complete": true}
+{"text": "動いてる?", "cls": "check", "prev": "サーバーを再起動しました。", "complete": true}
+{"text": "その API レート制限あるんだっけ", "cls": "check", "prev": "外部 API を直接呼ぶ形にしました。", "complete": true}
+{"text": "ログ、レベル debug で出てる?", "cls": "check", "prev": "ログ出力を追加しました。", "complete": true}
+{"text": "明日の朝までに終わる?", "cls": "check", "prev": "残りのファイルを順に直しています。", "complete": true}
+{"text": "佐藤さんも見た?", "cls": "check", "prev": "レビューコメントに返信しました。", "complete": true}
+{"text": "空だっけ そのテーブル", "cls": "check", "prev": "マイグレーションを実行しました。", "complete": true}
+{"text": "あ それって main のログ?", "cls": "check", "prev": "エラーが出ています。", "complete": true}
+{"text": "その修正 もうデプロイされてる?", "cls": "check", "prev": "本番のエラーは止まりました。", "complete": true}
+{"text": "これでいい?", "cls": "check", "prev": "変更内容を確認してください。", "complete": true}
+{"text": "今日は在宅でやります", "cls": "understand", "prev": null, "complete": true}
+{"text": "ブランチ切り替えた", "cls": "understand", "prev": "作業ブランチはどれにしますか?", "complete": true}
+{"text": "テスト書き終わった", "cls": "understand", "prev": null, "complete": true}
+{"text": "PR出した", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日リファクタの日にした", "cls": "understand", "prev": null, "complete": true}
+{"text": "mainにマージされたよ", "cls": "understand", "prev": "PR #118 はレビュー待ちでした。", "complete": true}
+{"text": "明日から佐々木さんもこのリポジトリ触るって", "cls": "understand", "prev": null, "complete": true}
+{"text": "来週レビューの担当 僕になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "えっと CIの設定を Node 22 に上げました", "cls": "understand", "prev": null, "complete": true}
+{"text": "あのバグ、原因はタイムゾーンだった", "cls": "understand", "prev": "日付のずれの件ですね。", "complete": true}
+{"text": "今回のリリースは 3 日に延びたらしい", "cls": "understand", "prev": null, "complete": true}
+{"text": "今auth見てる", "cls": "understand", "prev": "今はどこを作業していますか?", "complete": true}
+{"text": "eslint の設定 共通のやつに揃えた", "cls": "understand", "prev": null, "complete": true}
+{"text": "先にテストから書いてる", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日は PR 2 本見た", "cls": "understand", "prev": "今日のレビューは何本でしたか?", "complete": true}
+{"text": "依存の更新 月曜にやることにした", "cls": "understand", "prev": "古い依存が 6 件あります。", "complete": true}
+{"text": "さっきの関数 名前 parseConfig に変えたから", "cls": "understand", "prev": null, "complete": true}
+{"text": "DB は Postgres のままにする方針になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "ペアプロ 午後3時からになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "これ いったん draft にしといた", "cls": "understand", "prev": "PR の状態を確認しました。", "complete": true}
+{"text": "リトライは 3 回にしました", "cls": "understand", "prev": "リトライ回数はどうしますか?", "complete": true}
+{"text": "あー 今日はレビューだけの日", "cls": "understand", "prev": null, "complete": true}
+{"text": "ステージングに反映済みです", "cls": "understand", "prev": null, "complete": true}
+{"text": "障害は 10 分で復旧したって", "cls": "understand", "prev": "昨夜、本番でエラーが出ていました。", "complete": true}
+{"text": "なんかさ 明日から新しい CI に移行するらしいよ", "cls": "understand", "prev": null, "complete": true}
+{"text": "あの issue 山田さんが引き取った", "cls": "understand", "prev": "issue #203 は未アサインです。", "complete": true}
+{"text": "ローカルで再現した", "cls": "understand", "prev": "本番だけで起きる可能性があります。", "complete": true}
+{"text": "3つにまとめた", "cls": "understand", "prev": null, "complete": true}
+{"text": "マイグレーションは夜間に流す予定です", "cls": "understand", "prev": null, "complete": true}
+{"text": "うん 修正入れたよ", "cls": "understand", "prev": "先ほどの型エラーの件です。", "complete": true}
+{"text": "その件 issue にしといた", "cls": "understand", "prev": "この不具合は記録しておいたほうがよさそうです。", "complete": true}
+{"text": "昼から staging 使うから", "cls": "understand", "prev": null, "complete": true}
+{"text": "今 v2.4 のブランチ見てます", "cls": "understand", "prev": null, "complete": true}
+{"text": "テストは全部 vitest に移しました", "cls": "understand", "prev": "jest の設定が残っています。", "complete": true}
+{"text": "ワークフロー 2本に分けたよ", "cls": "understand", "prev": null, "complete": true}
+{"text": "ライブラリは MIT だった", "cls": "understand", "prev": "ライセンスの確認が必要です。", "complete": true}
+{"text": "さっきの PR、closed になってた", "cls": "understand", "prev": null, "complete": true}
+{"text": "昨日夜中にデプロイして 今のところ問題なし", "cls": "understand", "prev": null, "complete": true}
+{"text": "型は直した", "cls": "understand", "prev": "any のままだと警告が出ます。", "complete": true}
+{"text": "来月から週2で出社になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "こっちのほうが読みやすい", "cls": "agree", "prev": "二つの書き方を並べました。", "complete": true}
+{"text": "その設計 いいと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "それは違う気がする", "cls": "agree", "prev": "原因はネットワークだと思います。", "complete": true}
+{"text": "確かにそっちのが安全だね", "cls": "agree", "prev": "トランザクションで囲むほうが安全です。", "complete": true}
+{"text": "名前はこっちが好き", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん 分けたほうがいいね", "cls": "agree", "prev": "この関数は 200 行あります。", "complete": true}
+{"text": "このライブラリ 正直微妙", "cls": "agree", "prev": null, "complete": true}
+{"text": "そのPR、良かったよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "早すぎるマージはよくないと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "テスト先に書くの やっぱ正解だわ", "cls": "agree", "prev": null, "complete": true}
+{"text": "any 使うのは まあ なしですね", "cls": "agree", "prev": "一時的に any で通す手もあります。", "complete": true}
+{"text": "えっと モノレポは今の規模なら合ってると思います", "cls": "agree", "prev": null, "complete": true}
+{"text": "私はリトライ入れるのに賛成", "cls": "agree", "prev": "リトライを入れるか検討中です。", "complete": true}
+{"text": "それ やりすぎじゃない?", "cls": "agree", "prev": "全ファイルに型注釈を付けます。", "complete": true}
+{"text": "mock 減らしたのは良い判断だと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "例外より結果型のほうが好みかな", "cls": "agree", "prev": null, "complete": true}
+{"text": "田中さんのレビュー 的確だよね", "cls": "agree", "prev": "田中さんから 3 件コメントが付きました。", "complete": true}
+{"text": "今のうちに Rust 化するのは反対", "cls": "agree", "prev": null, "complete": true}
+{"text": "関数、長すぎると思うんだよねこれ", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん その順番でいいと思う", "cls": "agree", "prev": "lint、型、テストの順に直しました。", "complete": true}
+{"text": "コメント多すぎる気がする", "cls": "agree", "prev": null, "complete": true}
+{"text": "正直このフレームワーク もう古い", "cls": "agree", "prev": null, "complete": true}
+{"text": "週1でリファクタ枠取るの いいアイデアだね", "cls": "agree", "prev": "チームで週 1 のリファクタ枠が提案されています。", "complete": true}
+{"text": "細かくコミットするの 私は好き", "cls": "agree", "prev": null, "complete": true}
+{"text": "昨日の障害対応、良かったと思う", "cls": "agree", "prev": "障害の振り返りをまとめました。", "complete": true}
+{"text": "ここは早期リターンのほうが綺麗", "cls": "agree", "prev": null, "complete": true}
+{"text": "その命名 わかりにくいよ", "cls": "agree", "prev": "変数名を data2 にしました。", "complete": true}
+{"text": "CI に 15 分は長すぎる", "cls": "agree", "prev": "CI は 15 分で終わりました。", "complete": true}
+{"text": "ペアプロ 思ったより効率いいね", "cls": "agree", "prev": null, "complete": true}
+{"text": "スナップショットテスト あんま信用してない", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん あの判断は正しかった", "cls": "agree", "prev": "先週ロールバックした件ですね。", "complete": true}
+{"text": "Prettier のデフォルトで十分だと思うけどな", "cls": "agree", "prev": null, "complete": true}
+{"text": "draft で出すの 賛成です", "cls": "agree", "prev": "まず draft で出す案があります。", "complete": true}
+{"text": "これ 正しい", "cls": "agree", "prev": "修正案を提示しました。", "complete": true}
+{"text": "いいね", "cls": "agree", "prev": "エラーハンドリングを一箇所にまとめました。", "complete": true}
+{"text": "微妙だな", "cls": "agree", "prev": "この命名でどうでしょう。", "complete": true}
+{"text": "だめだと思う", "cls": "agree", "prev": "金曜の夜にデプロイする案です。", "complete": true}
+{"text": "それ好き", "cls": "agree", "prev": null, "complete": true}
+{"text": "賛成です", "cls": "agree", "prev": "テストを先に書く方針にしますか。", "complete": true}
+{"text": "よくない", "cls": "agree", "prev": "グローバル変数で状態を持ちます。", "complete": true}
+{"text": "全然直らない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "もう無理", "cls": "empathy", "prev": "型エラーは残り 150 件です。", "complete": true}
+{"text": "疲れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "またコンフリクトかよ", "cls": "empathy", "prev": "リベース中に競合が発生しました。", "complete": true}
+{"text": "CI遅すぎ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "わかんない", "cls": "empathy", "prev": "スタックトレースはこちらです。", "complete": true}
+{"text": "つらい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "3時間ハマってる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "このエラー もう5回目なんだけど", "cls": "empathy", "prev": "同じエラーが再発しています。", "complete": true}
+{"text": "レビュー、また差し戻された", "cls": "empathy", "prev": null, "complete": true}
+{"text": "flaky なテストのせいで一日潰れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "あー なんかさ 本番だけ落ちるの意味わかんない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "型エラーが 200 件とか やる気なくなる", "cls": "empathy", "prev": "strict を有効にしました。", "complete": true}
+{"text": "昨日からずっとビルド通らなくて 正直きつい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "なんで俺だけレビュー担当なの", "cls": "empathy", "prev": "レビュー待ちが 7 件あります。", "complete": true}
+{"text": "依存の更新で全部壊れた、最悪", "cls": "empathy", "prev": null, "complete": true}
+{"text": "デッドライン明日なのに半分も終わってない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "えっと また mock 書き直しなんだよね めんどい", "cls": "empathy", "prev": "API の形が変わりました。", "complete": true}
+{"text": "ドキュメントなさすぎて泣ける", "cls": "empathy", "prev": null, "complete": true}
+{"text": "徹夜でデプロイ もうやりたくない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "分かってたのに 同じバグ二回目", "cls": "empathy", "prev": "先月と同じ箇所です。", "complete": true}
+{"text": "ペアプロの相手いなくて詰んでる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "あの人のコード、読むだけで消耗する", "cls": "empathy", "prev": null, "complete": true}
+{"text": "リリース また延びた はぁ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "ログ 何も出てなくてお手上げ", "cls": "empathy", "prev": "ログには該当する記録がありません。", "complete": true}
+{"text": "マージしたら本番落ちてさ 胃が痛い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "眠い 集中できない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "環境構築 丸一日かかってまだ動かない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "これ直してもまた別のとこ壊れるんでしょ", "cls": "empathy", "prev": "この修正で直るはずです。", "complete": true}
+{"text": "自信ない このPR", "cls": "empathy", "prev": "PR を作成しました。", "complete": true}
+{"text": "頭回らん", "cls": "empathy", "prev": null, "complete": true}
+{"text": "なんかもう issue 溜まりすぎて見たくない", "cls": "empathy", "prev": "未対応の issue は 42 件です。", "complete": true}
+{"text": "テスト書くの 正直しんどいです", "cls": "empathy", "prev": null, "complete": true}
+{"text": "一人で追うの限界かも", "cls": "empathy", "prev": "原因はまだ特定できていません。", "complete": true}
+{"text": "会議ばっかでコード書けない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "上手くいかないなあ", "cls": "empathy", "prev": "ビルドがまた失敗しました。", "complete": true}
+{"text": "やばい 間に合わない", "cls": "empathy", "prev": "リリースまであと 2 時間です。", "complete": true}
+{"text": "あー 消しちゃった ブランチ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "デバッグ、終わりが見えない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "直った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "マージされた", "cls": "cheer", "prev": "PR はレビュー待ちでした。", "complete": true}
+{"text": "やった", "cls": "cheer", "prev": "CI がすべて成功しました。", "complete": true}
+{"text": "できた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "全部緑", "cls": "cheer", "prev": null, "complete": true}
+{"text": "動いた!", "cls": "cheer", "prev": "サーバーを起動しました。", "complete": true}
+{"text": "CI 一発で通ったわ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "3日ハマってたバグ やっと取れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "レビュー 指摘ゼロで承認", "cls": "cheer", "prev": null, "complete": true}
+{"text": "テスト全部通りました、やっと", "cls": "cheer", "prev": "残りは 2 件でした。", "complete": true}
+{"text": "なんかさ ビルド時間半分になった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "本番デプロイ ノートラブルで終わり", "cls": "cheer", "prev": null, "complete": true}
+{"text": "カバレッジ 90 超えた", "cls": "cheer", "prev": "カバレッジは 82% でした。", "complete": true}
+{"text": "えっと 初めて PR がそのままマージされた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "型エラー、ゼロになった!", "cls": "cheer", "prev": "残り 3 件でした。", "complete": true}
+{"text": "例のメモリリーク 原因わかった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "リファクタ終わった すっきり", "cls": "cheer", "prev": null, "complete": true}
+{"text": "田中さんに褒められた コード", "cls": "cheer", "prev": null, "complete": true}
+{"text": "障害 10 分で復旧できた", "cls": "cheer", "prev": "本番でエラーが出ています。", "complete": true}
+{"text": "新しい CI めっちゃ速い", "cls": "cheer", "prev": null, "complete": true}
+{"text": "環境構築 1時間で終わった", "cls": "cheer", "prev": "手順は README にあります。", "complete": true}
+{"text": "flaky なやつ ついに安定した", "cls": "cheer", "prev": null, "complete": true}
+{"text": "issue 全部片付いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今週の PR、全部レビュー終わり", "cls": "cheer", "prev": null, "complete": true}
+{"text": "デモ うまくいきました", "cls": "cheer", "prev": "デモは 2 時からでしたね。", "complete": true}
+{"text": "パフォーマンス 倍になったよ", "cls": "cheer", "prev": "クエリを見直しました。", "complete": true}
+{"text": "移行 無事終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "これ うまくいくじゃん", "cls": "cheer", "prev": "キャッシュを入れてみました。", "complete": true}
+{"text": "再現できた やっと", "cls": "cheer", "prev": null, "complete": true}
+{"text": "自分の設計 採用されたって", "cls": "cheer", "prev": null, "complete": true}
+{"text": "リリース間に合った", "cls": "cheer", "prev": "締め切りは 18 時でした。", "complete": true}
+{"text": "週末前に全部終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "e2e も通った いける", "cls": "cheer", "prev": "ユニットテストは通っています。", "complete": true}
+{"text": "昨日のやつ、直ってた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "マイグレーション 一発で通った", "cls": "cheer", "prev": "本番のマイグレーションを実行しました。", "complete": true}
+{"text": "自分で書いたテストが本番のバグ拾った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "Rust 版 10 倍速い", "cls": "cheer", "prev": "ベンチマークの結果が出ました。", "complete": true}
+{"text": "初コミット 通りました", "cls": "cheer", "prev": null, "complete": true}
+{"text": "え 消えてる", "cls": "surprise", "prev": "ブランチの一覧です。", "complete": true}
+{"text": "うそでしょ", "cls": "surprise", "prev": "本番のデータが 3 割消えています。", "complete": true}
+{"text": "まじで?", "cls": "surprise", "prev": "そのライブラリは先月アーカイブされました。", "complete": true}
+{"text": "なにこれ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "本番落ちてる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "なんで動いてるの", "cls": "surprise", "prev": "テストは通っています。", "complete": true}
+{"text": "え 通った?", "cls": "surprise", "prev": "CI はすべて成功しました。", "complete": true}
+{"text": "先週の PR まだマージされてなかった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "main に直接 push されてる 誰か", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの人、辞めるらしいよ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "このライブラリ メンテ止まってたんだ", "cls": "surprise", "prev": "最終更新は 2 年前です。", "complete": true}
+{"text": "テスト 実は一個も走ってなかった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え ログ全部消えてる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "なんかさ CI 無料枠なくなってたらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "デプロイ 5 分で終わった いつも 30 分なのに", "cls": "surprise", "prev": null, "complete": true}
+{"text": "このバグ 3 年前からあったって", "cls": "surprise", "prev": "blame の結果です。", "complete": true}
+{"text": "えっと、あのフレームワーク、来月で終了だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "コード 誰も読んでなかったのか", "cls": "surprise", "prev": "レビューは全て承認のみでした。", "complete": true}
+{"text": "本番の DB バックアップなかったって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "隣のチーム 全部 Go に書き換えてたらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "山田さんがレビューしてくれてた 知らなかった", "cls": "surprise", "prev": "レビュアーは山田さんです。", "complete": true}
+{"text": "え そんな仕様だったの", "cls": "surprise", "prev": "空文字は成功扱いになります。", "complete": true}
+{"text": "これで通るんだ へー", "cls": "surprise", "prev": "型チェックは通りました。", "complete": true}
+{"text": "まさかテストが原因だとは", "cls": "surprise", "prev": "テストが本番の DB に書き込んでいました。", "complete": true}
+{"text": "パッケージ、1日で 100 万 DL 行ってるって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "型チェック ずっと off になってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "先月から本番 ずっとデバッグモードだった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 金曜にリリース?", "cls": "surprise", "prev": "リリースは今週金曜に前倒しです。", "complete": true}
+{"text": "この関数 呼ばれてなかったんだ", "cls": "surprise", "prev": "参照は 0 件です。", "complete": true}
+{"text": "まさか 自分のコミットが原因とは", "cls": "surprise", "prev": "bisect の結果、原因は 3 日前のコミットです。", "complete": true}
+{"text": "あの issue、5 年放置されてたの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "ほんとに?", "cls": "surprise", "prev": "そのテストは 10 秒ではなく 10 分かかっています。", "complete": true}
+{"text": "へー そうなんだ", "cls": "surprise", "prev": "Electron は preload なしでも動きます。", "complete": true}
+{"text": "マジか", "cls": "surprise", "prev": "main の履歴が書き換えられています。", "complete": true}
+{"text": "うわー", "cls": "surprise", "prev": "ディスクの空きが 0 です。", "complete": true}
+{"text": "知らなかった", "cls": "surprise", "prev": "この設定はもう効きません。", "complete": true}
+{"text": "あれ?", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え もう?", "cls": "surprise", "prev": "ビルドが完了しました。", "complete": true}
+{"text": "あの Electron もう 40 になってたの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "ステージング 実は本番と同じ DB 見てた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "いや違う テストのほう", "cls": "correct", "prev": "ビルドのログを確認しました。", "complete": true}
+{"text": "そうじゃなくて main じゃなくて develop", "cls": "correct", "prev": "main ブランチにマージしました。", "complete": true}
+{"text": "田中さんじゃなくて高橋さん", "cls": "correct", "prev": "田中さんにレビューを依頼しました。", "complete": true}
+{"text": "さっき言ったのは 3 回じゃなくて 5 回", "cls": "correct", "prev": "リトライは 3 回に設定しました。", "complete": true}
+{"text": "ちがうちがう vitest", "cls": "correct", "prev": "jest でテストを実行します。", "complete": true}
+{"text": "いやそれ本番じゃなくて staging の話", "cls": "correct", "prev": "本番環境のログを確認します。", "complete": true}
+{"text": "違う、消すのは古いほう", "cls": "correct", "prev": "新しいワークフローを削除します。", "complete": true}
+{"text": "あ それじゃなくて PR の 42 番", "cls": "correct", "prev": "PR #4 を開きました。", "complete": true}
+{"text": "えっと ポートは 3000 じゃなくて 5174", "cls": "correct", "prev": "ポート 3000 で起動します。", "complete": true}
+{"text": "言い間違えた Node は 20", "cls": "correct", "prev": "Node 18 で動かします。", "complete": true}
+{"text": "いやいや 消してじゃなくて コメントアウトして", "cls": "correct", "prev": "その行を削除しました。", "complete": true}
+{"text": "違う それ eslint じゃなくて prettier の話", "cls": "correct", "prev": "eslint の設定を変更しますね。", "complete": true}
+{"text": "聞き間違いだよ リベースじゃなくてリバート", "cls": "correct", "prev": "リベースを開始します。", "complete": true}
+{"text": "そうじゃなくて 月曜", "cls": "correct", "prev": "金曜日にデプロイを予定します。", "complete": true}
+{"text": "いや 関数名は parse じゃなくて parseConfig", "cls": "correct", "prev": "関数名を parse に変更しました。", "complete": true}
+{"text": "あー ごめん 僕が言ったのは Postgres", "cls": "correct", "prev": "MySQL 用のマイグレーションを作ります。", "complete": true}
+{"text": "ちょっと違う、mock は残して", "cls": "correct", "prev": "mock を削除しました。", "complete": true}
+{"text": "違うよ レビューは受ける側", "cls": "correct", "prev": "レビューをお願いする相手を探します。", "complete": true}
+{"text": "じゃなくて 山田さんの PR", "cls": "correct", "prev": "あなたの PR を開きました。", "complete": true}
+{"text": "それは違って 直すのは型のほう", "cls": "correct", "prev": "テストを修正します。", "complete": true}
+{"text": "いや unknown じゃなくて never", "cls": "correct", "prev": "型を unknown に変えます。", "complete": true}
+{"text": "さっきのはタイポで v2.3 ね", "cls": "correct", "prev": "v2.8 のリリースノートを探します。", "complete": true}
+{"text": "違う フロントの話", "cls": "correct", "prev": "バックエンドのエラーですね。", "complete": true}
+{"text": "そっちじゃない 二つ目のエラー", "cls": "correct", "prev": "最初のエラーを説明しますね。", "complete": true}
+{"text": "うんと そうじゃなくて draft のまま", "cls": "correct", "prev": "PR を ready for review にしました。", "complete": true}
+{"text": "逆 逆", "cls": "correct", "prev": "A を B にリネームします。", "complete": true}
+{"text": "いや、俺のじゃなくてチームのリポジトリ", "cls": "correct", "prev": "あなたのリポジトリを検索しました。", "complete": true}
+{"text": "違います GitHub Actions のほうです", "cls": "correct", "prev": "CircleCI の設定を開きます。", "complete": true}
+{"text": "あ それ違う 昨日の障害", "cls": "correct", "prev": "今日の障害について調べます。", "complete": true}
+{"text": "じゃなくて コミットメッセージのほう直して", "cls": "correct", "prev": "コードを修正しました。", "complete": true}
+{"text": "そうじゃない preload じゃなくて renderer", "cls": "correct", "prev": "preload に追加します。", "complete": true}
+{"text": "いや 削除じゃなくて非推奨にするだけ", "cls": "correct", "prev": "その API を削除しますね。", "complete": true}
+{"text": "違う、Slack じゃなくてメールで", "cls": "correct", "prev": "Slack に投稿します。", "complete": true}
+{"text": "ちがう", "cls": "correct", "prev": "つまりテストを消すということですね?", "complete": true}
+{"text": "そうじゃない", "cls": "correct", "prev": "any に変更しました。", "complete": true}
+{"text": "逆だよ", "cls": "correct", "prev": "本番から staging にコピーします。", "complete": true}
+{"text": "5.4ね", "cls": "correct", "prev": "TypeScript 5.5 に更新しました。", "complete": true}
+{"text": "42番", "cls": "correct", "prev": "PR #24 を開きました。", "complete": true}
+{"text": "佐藤さんじゃない", "cls": "correct", "prev": "佐藤さんにアサインしました。", "complete": true}
+{"text": "いやそのファイルじゃない", "cls": "correct", "prev": "config.ts を開きました。", "complete": true}
+{"text": "えっとね", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのさ 昨日のビルドの", "cls": "hold", "prev": null, "complete": false}
+{"text": "で なんか", "cls": "hold", "prev": "ログには何も出ていません。", "complete": false}
+{"text": "さっきのPRなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "えっとー テストの話なんですけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの レビューのことで", "cls": "hold", "prev": "はい、どうしました?", "complete": false}
+{"text": "うんと そのエラーがさ", "cls": "hold", "prev": "TypeError が出ています。", "complete": false}
+{"text": "ちょっと相談があって", "cls": "hold", "prev": null, "complete": false}
+{"text": "なんかさー CI がさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのー 型のところなんだけど", "cls": "hold", "prev": "型の修正が終わりました。", "complete": false}
+{"text": "昨日デプロイしてて", "cls": "hold", "prev": null, "complete": false}
+{"text": "で そのあと main を見たら", "cls": "hold", "prev": null, "complete": false}
+{"text": "えっと 依存の更新をしようと思ってて", "cls": "hold", "prev": null, "complete": false}
+{"text": "リファクタの件なんですけど あの", "cls": "hold", "prev": "リファクタの案を出しました。", "complete": false}
+{"text": "ちょっと待って えっと", "cls": "hold", "prev": "次に進みますか?", "complete": false}
+{"text": "あー それでね", "cls": "hold", "prev": "PR を開きました。", "complete": false}
+{"text": "そういえばさ 山田さんが", "cls": "hold", "prev": null, "complete": false}
+{"text": "実は先週から", "cls": "hold", "prev": null, "complete": false}
+{"text": "ログ見てたら なんか", "cls": "hold", "prev": null, "complete": false}
+{"text": "今ちょうど vitest 回してて", "cls": "hold", "prev": "今は何を作業中ですか?", "complete": false}
+{"text": "mock のことなんだけどさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの staging の話なんですけど えっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "コミットしようとしたらさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "なんて言うか その", "cls": "hold", "prev": "この設計はどう思いますか?", "complete": false}
+{"text": "それでね その関数が", "cls": "hold", "prev": "parseConfig の件ですね。", "complete": false}
+{"text": "あのね eslint がね", "cls": "hold", "prev": null, "complete": false}
+{"text": "うーんとね リリースの日程が", "cls": "hold", "prev": "リリースは金曜の予定です。", "complete": false}
+{"text": "まずさ ブランチを", "cls": "hold", "prev": "手順を教えてください。", "complete": false}
+{"text": "昨日の障害の件 あれって", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと聞きたいんだけど preload の", "cls": "hold", "prev": null, "complete": false}
+{"text": "なんか いま気づいたんだけど", "cls": "hold", "prev": "テストは通っています。", "complete": false}
+{"text": "あー あと", "cls": "hold", "prev": "以上で修正は完了です。", "complete": false}
+{"text": "そうそう それでさ 田中さんが", "cls": "hold", "prev": "田中さんのレビューの件ですね。", "complete": false}
+{"text": "今 PR 見てて思ったんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "えっと Node のバージョンをね", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの ちょっと前の話に戻るんですけど", "cls": "hold", "prev": "次はテストの話に移ります。", "complete": false}
+{"text": "で テスト書いてたら", "cls": "hold", "prev": null, "complete": false}
+{"text": "うんと まず一個目が", "cls": "hold", "prev": "問題点を挙げてください。", "complete": false}
+{"text": "これなんだけど あの", "cls": "hold", "prev": null, "complete": false}
+{"text": "質問なんですけど その リトライの", "cls": "hold", "prev": "リトライを 3 回にしました。", "complete": false}

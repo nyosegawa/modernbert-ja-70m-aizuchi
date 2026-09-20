@@ -1,0 +1,516 @@
+{"text": "明日の予定教えて", "cls": "work", "prev": "おはようございます。今日は晴れです。", "complete": true}
+{"text": "今週の会議は", "cls": "work", "prev": "おはようございます。", "complete": true}
+{"text": "来月の空き見て", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の予定は", "cls": "work", "prev": "今日は水曜日です。", "complete": true}
+{"text": "締切一覧出して", "cls": "work", "prev": null, "complete": true}
+{"text": "予定見せて", "cls": "work", "prev": null, "complete": true}
+{"text": "会議何時から", "cls": "work", "prev": "会議の登録は完了しています。", "complete": true}
+{"text": "次の予定は", "cls": "work", "prev": "10時のレビュー会が終わりました。", "complete": true}
+{"text": "明日空きある?", "cls": "work", "prev": null, "complete": true}
+{"text": "来週の締切なに", "cls": "work", "prev": null, "complete": true}
+{"text": "来週の空いてる日、田中さんに送っといて", "cls": "work", "prev": "来週の空きは火曜と木曜です。", "complete": true}
+{"text": "明日の会議、場所どこ", "cls": "work", "prev": null, "complete": true}
+{"text": "佐藤さんとの次のミーティングいつ", "cls": "work", "prev": "佐藤さんとの面談を登録しました。", "complete": true}
+{"text": "あ、なんかさ、先週の水曜って何してたか見れる?", "cls": "work", "prev": "先週の予定を表示しますか?", "complete": true}
+{"text": "歯医者の予約いつだったか調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "木曜の午後で空いてるとこ探してほしいんだけど", "cls": "work", "prev": "木曜の午前は会議で埋まっています。", "complete": true}
+{"text": "10月の三連休の予定、全部出してもらえます?", "cls": "work", "prev": null, "complete": true}
+{"text": "3時に会議入れたいんだけど、空いてるか見てくれる", "cls": "work", "prev": "3時の会議を登録しますか?", "complete": true}
+{"text": "鈴木さんの空き時間と自分の空き時間が重なるとこ探して", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の残りの予定 時間順に読み上げて", "cls": "work", "prev": "午前の予定は終わりました。", "complete": true}
+{"text": "来週の月曜から金曜まで何時に何があるか教えてください", "cls": "work", "prev": null, "complete": true}
+{"text": "年末年始の休みの日程 会社のカレンダーで見てきて", "cls": "work", "prev": null, "complete": true}
+{"text": "火曜のレビュー会って何人参加予定ですか", "cls": "work", "prev": "火曜のレビュー会は15時からです。", "complete": true}
+{"text": "提案書の締切 メールに書いてあったはずだから探して", "cls": "work", "prev": null, "complete": true}
+{"text": "山本さんから来た会議の招待でまだ返事してないやつ全部出して", "cls": "work", "prev": "山本さんから招待が届いています。", "complete": true}
+{"text": "次の出張いつ", "cls": "work", "prev": null, "complete": true}
+{"text": "今月あと何回打ち合わせあるか数えて", "cls": "work", "prev": "今月の予定は12件です。", "complete": true}
+{"text": "明後日の午前の予定 見ておいてもらえますか", "cls": "work", "prev": null, "complete": true}
+{"text": "高橋さんと最後に会ったのいつか カレンダーで調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "来週の予定で、オンラインじゃないやつだけ教えて", "cls": "work", "prev": "来週は会議が6件あります。", "complete": true}
+{"text": "第2四半期のマイルストーンっていつになってるか確認したいんですけど", "cls": "work", "prev": null, "complete": true}
+{"text": "部長の来週の空き 見れるなら見て", "cls": "work", "prev": null, "complete": true}
+{"text": "週末の予定は", "cls": "work", "prev": "金曜の予定は以上です。", "complete": true}
+{"text": "12月の忘年会 日程決まってるか調べてもらえる", "cls": "work", "prev": null, "complete": true}
+{"text": "誕生日が近い人 連絡先から探して来週分教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "来週のスケジュールをざっとまとめて", "cls": "work", "prev": "来週の予定を読み上げましょうか。", "complete": true}
+{"text": "今日の締切 あるなら教えて", "cls": "work", "prev": "今日は木曜日です。", "complete": true}
+{"text": "中村さんとの面談、いつに変更になったか見てくれる?", "cls": "work", "prev": "中村さんとの面談は火曜です。", "complete": true}
+{"text": "今週の会議で一番長いのどれ", "cls": "work", "prev": null, "complete": true}
+{"text": "移動時間込みで明日の空きが何時間あるか出して", "cls": "work", "prev": "明日は会議が4件あります。", "complete": true}
+{"text": "3時に会議入れて", "cls": "ack", "prev": null, "complete": true}
+{"text": "それメモしといて", "cls": "ack", "prev": "締切は来週の金曜です。", "complete": true}
+{"text": "明日9時に起こして", "cls": "ack", "prev": null, "complete": true}
+{"text": "リマインドして", "cls": "ack", "prev": "16時から面談があります。", "complete": true}
+{"text": "30分前に通知", "cls": "ack", "prev": null, "complete": true}
+{"text": "予定消して", "cls": "ack", "prev": "金曜の飲み会が登録されています。", "complete": true}
+{"text": "もう一回言って", "cls": "ack", "prev": "明日は10時から企画会議、13時から面談です。", "complete": true}
+{"text": "1時間ずらして", "cls": "ack", "prev": null, "complete": true}
+{"text": "メモしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "締切は金曜ね、登録して", "cls": "ack", "prev": null, "complete": true}
+{"text": "明日の10時に歯医者って入れといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今読んだ予定 もう一回ゆっくり言ってもらえる", "cls": "ack", "prev": "以上が今日の予定です。", "complete": true}
+{"text": "さっきの会議、来週の同じ時間に移して", "cls": "ack", "prev": "木曜15時の会議ですね。", "complete": true}
+{"text": "田中さんとのランチ 12時半に変更で", "cls": "ack", "prev": null, "complete": true}
+{"text": "来週水曜の午後は予定入れないでって覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "10分前にアラームセットしといて", "cls": "ack", "prev": "次は14時の打ち合わせです。", "complete": true}
+{"text": "打ち合わせの前にトイレ行けって言ってね", "cls": "ack", "prev": null, "complete": true}
+{"text": "その予定 タイトルを企画会議にしといてください", "cls": "ack", "prev": "無題の予定を登録しました。", "complete": true}
+{"text": "えっと、木曜の面談は削除でお願いします", "cls": "ack", "prev": null, "complete": true}
+{"text": "金曜の夜に飲み会 場所は新宿って入れて", "cls": "ack", "prev": null, "complete": true}
+{"text": "毎週月曜の朝に週次ミーティング 繰り返しで登録して", "cls": "ack", "prev": null, "complete": true}
+{"text": "あ、そうだ、来月15日休みにしといて", "cls": "ack", "prev": "来月の予定は3件です。", "complete": true}
+{"text": "今言った締切 優先度高ってつけといて", "cls": "ack", "prev": "締切を登録しました。", "complete": true}
+{"text": "提出期限のやつ 前日の夜にも知らせて", "cls": "ack", "prev": null, "complete": true}
+{"text": "声もっと小さく", "cls": "ack", "prev": "明日の予定を読み上げます。", "complete": true}
+{"text": "予定の読み上げ止めて", "cls": "ack", "prev": "10時から企画会議、11時から", "complete": true}
+{"text": "佐藤さんとの打ち合わせ、リモートに変えといてくれる", "cls": "ack", "prev": null, "complete": true}
+{"text": "午後の予定は全部キャンセルってことで消しといて", "cls": "ack", "prev": "午後は予定が3件あります。", "complete": true}
+{"text": "明後日の朝イチ 10分だけ確認って名前で入れといてください", "cls": "ack", "prev": null, "complete": true}
+{"text": "出張の日は終日って設定にして", "cls": "ack", "prev": "出張を来週水曜に登録しました。", "complete": true}
+{"text": "今の話 あとで思い出せるように残しといてもらえます", "cls": "ack", "prev": null, "complete": true}
+{"text": "うんと、20日の締切は22日に延ばして", "cls": "ack", "prev": null, "complete": true}
+{"text": "カレンダーに追加して", "cls": "ack", "prev": "来月3日に懇親会があるそうです。", "complete": true}
+{"text": "15分のタイマー", "cls": "ack", "prev": null, "complete": true}
+{"text": "会議中って設定にして", "cls": "ack", "prev": "14時になりました。", "complete": true}
+{"text": "その時間 移動って入れといて", "cls": "ack", "prev": "13時から14時は空いています。", "complete": true}
+{"text": "来週の火曜と木曜、午前中ブロックしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "通知は音なしにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "誕生日 毎年繰り返しで登録しといてくれ", "cls": "ack", "prev": "9月30日ですね。", "complete": true}
+{"text": "次のやつまで静かにしてて", "cls": "ack", "prev": "次の予定は15時です。", "complete": true}
+{"text": "どっちがいい", "cls": "think", "prev": "火曜と金曜が空いています。", "complete": true}
+{"text": "どう思う?", "cls": "think", "prev": "来週は会議が8件入っています。", "complete": true}
+{"text": "なんで被ったの", "cls": "think", "prev": "14時に予定が2件重なっています。", "complete": true}
+{"text": "何時がいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "説明して", "cls": "think", "prev": "この締切は先月の会議で決まったものです。", "complete": true}
+{"text": "どう組めばいい", "cls": "think", "prev": null, "complete": true}
+{"text": "断るべき?", "cls": "think", "prev": "土曜の勉強会に招待されています。", "complete": true}
+{"text": "何から片付ける", "cls": "think", "prev": null, "complete": true}
+{"text": "早すぎる?", "cls": "think", "prev": "7時開始で登録しますか?", "complete": true}
+{"text": "順番どうしよ", "cls": "think", "prev": null, "complete": true}
+{"text": "明日の会議、出たほうがいいと思う?", "cls": "think", "prev": "明日の企画会議は任意参加です。", "complete": true}
+{"text": "来週 水曜と木曜どっちに面談入れるのがいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "締切に間に合うと思う? 正直なとこ", "cls": "think", "prev": "締切まであと4日です。", "complete": true}
+{"text": "週末に仕事入れるの やめたほうがいいですかね", "cls": "think", "prev": null, "complete": true}
+{"text": "なんでこの時間帯にいつも会議入っちゃうんだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "時間管理ってどうやったらうまくなるの", "cls": "think", "prev": null, "complete": true}
+{"text": "会議減らすには何すればいいと思う", "cls": "think", "prev": "今週の会議は合計11時間です。", "complete": true}
+{"text": "この予定 何を準備しとけばいいですか", "cls": "think", "prev": "明日は取引先との打ち合わせがあります。", "complete": true}
+{"text": "朝一と夕方、集中する仕事どっちに置くのが良いと思います?", "cls": "think", "prev": null, "complete": true}
+{"text": "えっと、二つ同時に誘われたらどうやって選べばいいんだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "リマインドって何分前が一番いいんですかね", "cls": "think", "prev": "通知は何分前にしますか?", "complete": true}
+{"text": "来月の出張 前泊するのと当日朝に行くのどっちが楽かな", "cls": "think", "prev": null, "complete": true}
+{"text": "あのさ 1on1って隔週と毎週どっちが普通なの", "cls": "think", "prev": null, "complete": true}
+{"text": "予定を詰め込みすぎるのって なんでやめられないんだと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "締切が3つ重なってるんだけど どう捌けばいいと思います", "cls": "think", "prev": "金曜に締切が3件あります。", "complete": true}
+{"text": "移動時間って予定に入れとくべき?", "cls": "think", "prev": null, "complete": true}
+{"text": "空いてる日をあえて空けとくのって意味あるのかな", "cls": "think", "prev": "水曜は終日空いています。", "complete": true}
+{"text": "うーん、この会議、自分が出る意味ってある?", "cls": "think", "prev": "16時から全体会議です。", "complete": true}
+{"text": "休み取るなら来週と再来週どっちが迷惑かからないと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "予定の優先順位 どう決めればいいか教えてほしい", "cls": "think", "prev": null, "complete": true}
+{"text": "午後イチの会議って、なんでみんな眠くなるんだろうね", "cls": "think", "prev": "13時から定例です。", "complete": true}
+{"text": "佐藤さんとの面談 何話せばいいと思います?", "cls": "think", "prev": "明日10時に佐藤さんとの面談があります。", "complete": true}
+{"text": "締切前に休み入れるのって あり?", "cls": "think", "prev": null, "complete": true}
+{"text": "予定表を紙にするのとアプリにするの どっちがいいと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで金曜の午後って予定入れにくいんだろう", "cls": "think", "prev": "金曜の午後は空いています。", "complete": true}
+{"text": "会議を15分にするのってどう思う", "cls": "think", "prev": null, "complete": true}
+{"text": "遅刻しそうなとき、先に謝るのと着いてから謝るのどっちがいい?", "cls": "think", "prev": "次の会議まであと5分です。", "complete": true}
+{"text": "締切を自分で決めるコツってなんかある", "cls": "think", "prev": null, "complete": true}
+{"text": "今週どこで休憩取るのが良さそう?", "cls": "think", "prev": "今週は毎日会議があります。", "complete": true}
+{"text": "あー、来週の予定 何を削ったら楽になると思う?", "cls": "think", "prev": "来週の予定は14件です。", "complete": true}
+{"text": "明後日って打ち合わせあったっけ", "cls": "check", "prev": "今日は予定が2件あります。", "complete": true}
+{"text": "3時だよね?", "cls": "check", "prev": "企画会議を登録しました。", "complete": true}
+{"text": "金曜で合ってる?", "cls": "check", "prev": "提出期限は今週末です。", "complete": true}
+{"text": "入れた?", "cls": "check", "prev": "歯医者の予定を追加しますね。", "complete": true}
+{"text": "保存した?", "cls": "check", "prev": "予定を変更しました。", "complete": true}
+{"text": "木曜だっけ", "cls": "check", "prev": "佐藤さんとの面談は今週です。", "complete": true}
+{"text": "午後だよね", "cls": "check", "prev": "明日はレビュー会があります。", "complete": true}
+{"text": "今日締切?", "cls": "check", "prev": "報告書の期限が近づいています。", "complete": true}
+{"text": "もう送った?", "cls": "check", "prev": "空き時間を田中さんに共有します。", "complete": true}
+{"text": "来週だよね", "cls": "check", "prev": "出張の予定が入っています。", "complete": true}
+{"text": "明日の朝 なんか入ってたっけ", "cls": "check", "prev": "明日の予定を読み上げましょうか。", "complete": true}
+{"text": "田中さんとの打ち合わせって来週の火曜だっけ", "cls": "check", "prev": "来週は打ち合わせが3件あります。", "complete": true}
+{"text": "あの締切、まだ先だよね?", "cls": "check", "prev": "企画書の締切が登録されています。", "complete": true}
+{"text": "来月の頭 出張入ってたっけ", "cls": "check", "prev": "来月の予定は5件です。", "complete": true}
+{"text": "さっきの予定 リマインド付いてる?", "cls": "check", "prev": "明日10時の歯医者を登録しました。", "complete": true}
+{"text": "会議室 もう押さえてあるんだっけ", "cls": "check", "prev": "木曜の定例は14時からです。", "complete": true}
+{"text": "面談って毎週だったっけ", "cls": "check", "prev": "次の1on1は月曜です。", "complete": true}
+{"text": "今日の予定これで全部?", "cls": "check", "prev": "以上が今日の予定です。", "complete": true}
+{"text": "えっと、鈴木さんのやつ 月曜に移したんでしたっけ", "cls": "check", "prev": "月曜の予定を確認しますか。", "complete": true}
+{"text": "忘年会って12月の18日で確定した?", "cls": "check", "prev": "忘年会の候補日が3つあります。", "complete": true}
+{"text": "明後日って祝日でしたよね", "cls": "check", "prev": "明後日は予定がありません。", "complete": true}
+{"text": "締切 金曜の何時までだっけ", "cls": "check", "prev": "金曜が締切です。", "complete": true}
+{"text": "この会議 オンラインで合ってます?", "cls": "check", "prev": "15時から進捗会議です。", "complete": true}
+{"text": "あれ、火曜の面談ってキャンセルになったよね", "cls": "check", "prev": "火曜は面談が1件あります。", "complete": true}
+{"text": "出張の前日って空けてあったっけ", "cls": "check", "prev": "出張は来週の水曜からです。", "complete": true}
+{"text": "今の登録 繰り返しになってる?", "cls": "check", "prev": "週次会議を登録しました。", "complete": true}
+{"text": "来週の月曜、休みで入れてありますよね", "cls": "check", "prev": "来週の予定を確認しました。", "complete": true}
+{"text": "通知 前日にも来るんだっけ", "cls": "check", "prev": "締切の1時間前に通知します。", "complete": true}
+{"text": "高橋さんのやつ 10時だっけ11時だっけ", "cls": "check", "prev": "明日は高橋さんとの打ち合わせがあります。", "complete": true}
+{"text": "あの打ち合わせ もう終わった扱い?", "cls": "check", "prev": "午前の予定は完了しています。", "complete": true}
+{"text": "今週 あと会議ひとつだけですよね", "cls": "check", "prev": "木曜の定例が残っています。", "complete": true}
+{"text": "あ、締切って今週じゃなくて来週?", "cls": "check", "prev": "提出期限まであと10日です。", "complete": true}
+{"text": "変更 相手にも伝わってる?", "cls": "check", "prev": "打ち合わせを16時に変更しました。", "complete": true}
+{"text": "明日休みだっけ", "cls": "check", "prev": "明日の予定はありません。", "complete": true}
+{"text": "昼 空いてたっけ", "cls": "check", "prev": "午前は会議が続きます。", "complete": true}
+{"text": "予約したよね", "cls": "check", "prev": "会議室の手配について話していました。", "complete": true}
+{"text": "今日のランチ 山田さんとでしたっけ", "cls": "check", "prev": "12時から昼食の予定があります。", "complete": true}
+{"text": "その予定 終日になってます?", "cls": "check", "prev": "出張を登録しました。", "complete": true}
+{"text": "5分前通知でいいんだよね", "cls": "check", "prev": "通知の設定を変更しますか。", "complete": true}
+{"text": "会議、30分で合ってる?", "cls": "check", "prev": "14時からの会議を登録しました。", "complete": true}
+{"text": "明日出張", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日は在宅", "cls": "understand", "prev": "おはようございます。", "complete": true}
+{"text": "会議延びた", "cls": "understand", "prev": "次の予定は15時です。", "complete": true}
+{"text": "締切来週ね", "cls": "understand", "prev": null, "complete": true}
+{"text": "午後外出する", "cls": "understand", "prev": "午後の予定はありません。", "complete": true}
+{"text": "明日休む", "cls": "understand", "prev": null, "complete": true}
+{"text": "3時から会議", "cls": "understand", "prev": null, "complete": true}
+{"text": "来週有給", "cls": "understand", "prev": "来週の予定を確認しますか?", "complete": true}
+{"text": "出張なくなった", "cls": "understand", "prev": null, "complete": true}
+{"text": "面談は金曜", "cls": "understand", "prev": "面談の日程は未定です。", "complete": true}
+{"text": "会議、1時間から30分になったよ", "cls": "understand", "prev": "16時から17時で登録されています。", "complete": true}
+{"text": "締切が3日早まった", "cls": "understand", "prev": null, "complete": true}
+{"text": "田中さんは来週いっぱい休みだって", "cls": "understand", "prev": "田中さんとの打ち合わせを来週に入れますか?", "complete": true}
+{"text": "来月から定例が水曜に変わるって", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日の打ち合わせ リモートになった", "cls": "understand", "prev": "13時から本社で打ち合わせです。", "complete": true}
+{"text": "明日の面談 相手が課長に変わったらしい", "cls": "understand", "prev": null, "complete": true}
+{"text": "今回の締切は自分で決めたやつだから", "cls": "understand", "prev": "締切は来週の月曜ですね。", "complete": true}
+{"text": "出張 日帰りになったよ", "cls": "understand", "prev": "出張は2日間で登録されています。", "complete": true}
+{"text": "えっと、今週は月曜と木曜が出社日です", "cls": "understand", "prev": null, "complete": true}
+{"text": "来週の火曜 午前中は病院行ってきます", "cls": "understand", "prev": null, "complete": true}
+{"text": "佐藤さんとのランチは来週に延期になりました", "cls": "understand", "prev": "明日12時に佐藤さんとランチです。", "complete": true}
+{"text": "明日は朝から夕方までずっと研修", "cls": "understand", "prev": null, "complete": true}
+{"text": "あのさ 金曜の飲み会は結局7時からになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "提案の締切 今月末じゃなくて来月の10日にしたんだ", "cls": "understand", "prev": null, "complete": true}
+{"text": "打ち合わせの場所 本社じゃなくて支社になった", "cls": "understand", "prev": "明日の打ち合わせは本社の会議室です。", "complete": true}
+{"text": "今日は予定ないから、家で作業してる", "cls": "understand", "prev": "今日の予定はありません。", "complete": true}
+{"text": "来月の1週目 まるっと出張で大阪", "cls": "understand", "prev": null, "complete": true}
+{"text": "歯医者 次は3週間後って言われた", "cls": "understand", "prev": "歯医者の予定は終わりましたか?", "complete": true}
+{"text": "鈴木さんの送別会 幹事は自分がやることになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "明日の会議は資料なしで口頭だけらしい", "cls": "understand", "prev": "明日の会議の資料はまだ届いていません。", "complete": true}
+{"text": "4月から勤務時間が9時半始まりになります", "cls": "understand", "prev": null, "complete": true}
+{"text": "面接の日程 先方から候補が3つ来てる", "cls": "understand", "prev": null, "complete": true}
+{"text": "今週末は実家に帰る予定", "cls": "understand", "prev": "週末の予定はありません。", "complete": true}
+{"text": "次の1on1 部長じゃなくて課長とやることになりました", "cls": "understand", "prev": null, "complete": true}
+{"text": "うんと、来週の月曜は代休取ってます", "cls": "understand", "prev": "来週月曜に会議を入れますか?", "complete": true}
+{"text": "会議の時間 毎回15分前倒しになったって", "cls": "understand", "prev": null, "complete": true}
+{"text": "週次の定例 しばらくお休みだって", "cls": "understand", "prev": "月曜10時の定例があります。", "complete": true}
+{"text": "明日は16時で上がるね", "cls": "understand", "prev": null, "complete": true}
+{"text": "出張先 名古屋から福岡に変更になった", "cls": "understand", "prev": "来週の出張は名古屋ですね。", "complete": true}
+{"text": "今日の午後は集中作業の時間にしてる", "cls": "understand", "prev": "午後に打ち合わせを入れますか?", "complete": true}
+{"text": "それがいいね", "cls": "agree", "prev": "会議を午前に寄せる案はどうでしょう。", "complete": true}
+{"text": "朝のほうが楽", "cls": "agree", "prev": "夕方に移すこともできます。", "complete": true}
+{"text": "詰めすぎだよ", "cls": "agree", "prev": "明日は会議が6件あります。", "complete": true}
+{"text": "早いほうがいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "月曜は嫌だな", "cls": "agree", "prev": "月曜の朝に空きがあります。", "complete": true}
+{"text": "妥当だと思う", "cls": "agree", "prev": "締切は2週間後に設定されています。", "complete": true}
+{"text": "30分で十分", "cls": "agree", "prev": "会議の長さは1時間にしますか?", "complete": true}
+{"text": "木曜がベスト", "cls": "agree", "prev": null, "complete": true}
+{"text": "長すぎ", "cls": "agree", "prev": "全体会議は3時間の予定です。", "complete": true}
+{"text": "その案賛成", "cls": "agree", "prev": null, "complete": true}
+{"text": "会議は午前に固めたほうが捗ると思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "金曜の締切は現実的じゃない気がする", "cls": "agree", "prev": "締切は金曜に設定されています。", "complete": true}
+{"text": "1on1は隔週で十分だよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "移動時間、もっと余裕見といたほうがいいと思うよ", "cls": "agree", "prev": "移動は30分で見ています。", "complete": true}
+{"text": "あの定例 正直なくてもいいやつだと思うんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "リマインドは前日のほうが助かるな", "cls": "agree", "prev": "通知は当日の朝に設定しました。", "complete": true}
+{"text": "昼休みの直後に打ち合わせ入れるの 良くないと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "予定 詰め込んだほうが逆に集中できるタイプなんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "えっと、来週の火曜が一番無理がないと思います", "cls": "agree", "prev": "候補は火曜、水曜、金曜です。", "complete": true}
+{"text": "田中さんの提案してる日程 悪くないと思う", "cls": "agree", "prev": "田中さんから来週木曜の提案が来ています。", "complete": true}
+{"text": "締切は自分で決めるほうがちゃんと守れる気がします", "cls": "agree", "prev": null, "complete": true}
+{"text": "週の真ん中に休み入れるの けっこう良いと思うんだ", "cls": "agree", "prev": null, "complete": true}
+{"text": "あの会議 毎回長引くの改善したほうがいいよね", "cls": "agree", "prev": "定例は今回も30分延長しました。", "complete": true}
+{"text": "午後イチはやめといたほうがいいと思う、眠いし", "cls": "agree", "prev": "13時に入れますか?", "complete": true}
+{"text": "出張は前泊のほうが絶対いい", "cls": "agree", "prev": null, "complete": true}
+{"text": "締切 もうちょっと余裕あったほうが良い仕事できると思うんですよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "通知は音ありのほうが気づけて好き", "cls": "agree", "prev": "通知を音なしにしますか?", "complete": true}
+{"text": "うん、水曜に寄せるの賛成", "cls": "agree", "prev": "会議を水曜にまとめる案があります。", "complete": true}
+{"text": "面談は30分より45分のほうがちょうどいいかな", "cls": "agree", "prev": null, "complete": true}
+{"text": "予定表は週表示が一番見やすいと思います", "cls": "agree", "prev": null, "complete": true}
+{"text": "なんかさ 金曜の夕方に会議入れるのって微妙だよね", "cls": "agree", "prev": "金曜17時に会議が入りました。", "complete": true}
+{"text": "佐藤さんの案より鈴木さんの案のほうが現実的だと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "移動込みで考えると10時始まりが妥当ですね", "cls": "agree", "prev": "9時と10時、どちらにしますか?", "complete": true}
+{"text": "休みの前日は早く上がるのが正解だよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "月初に締切固まるの 悪くない", "cls": "agree", "prev": "締切は3件とも来月1日です。", "complete": true}
+{"text": "この時間割、割とよくできてると思います", "cls": "agree", "prev": "来週の予定案を作りました。", "complete": true}
+{"text": "出張は月1くらいがちょうどいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "会議の前に5分空けるの 地味に効果あると思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "締切をカレンダーに入れるの 意外と大事だよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "来月のほうが動きやすいと思うな、正直", "cls": "agree", "prev": "今月と来月、どちらに入れますか?", "complete": true}
+{"text": "会議多すぎ", "cls": "empathy", "prev": "今日は会議が7件あります。", "complete": true}
+{"text": "締切やばい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うわ きつい", "cls": "empathy", "prev": "明日も朝8時から会議です。", "complete": true}
+{"text": "予定詰まりすぎて疲れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "予定被った", "cls": "empathy", "prev": null, "complete": true}
+{"text": "疲れた", "cls": "empathy", "prev": "今日の予定は以上です。", "complete": true}
+{"text": "また延期か", "cls": "empathy", "prev": "面談が来週に変更されました。", "complete": true}
+{"text": "休みない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "もう無理かも", "cls": "empathy", "prev": "締切まであと2日です。", "complete": true}
+{"text": "間に合わない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "明日また出張なんだよね…", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今週 会議で埋まってて自分の仕事できてない", "cls": "empathy", "prev": "今週の空き時間は合計3時間です。", "complete": true}
+{"text": "締切が三つ同じ日なんだけど、どうしろと", "cls": "empathy", "prev": null, "complete": true}
+{"text": "休み取ろうとしたら予定入れられた", "cls": "empathy", "prev": "金曜に新しい会議が追加されました。", "complete": true}
+{"text": "朝イチの会議のせいで寝不足でさ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "面談 また延びた もう三回目", "cls": "empathy", "prev": "面談の日程が変更されました。", "complete": true}
+{"text": "来週の出張 正直行きたくないんですよね", "cls": "empathy", "prev": "来週は札幌への出張があります。", "complete": true}
+{"text": "予定表見るだけで気が重い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "えっと、締切に間に合わなくて謝ってきたとこ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "田中さんとの打ち合わせ ダブルブッキングしちゃってた", "cls": "empathy", "prev": "14時に予定が2件重なっています。", "complete": true}
+{"text": "土日も予定入ってて全然休めてないです", "cls": "empathy", "prev": null, "complete": true}
+{"text": "会議が長引いて次の会議に遅刻した", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今月、締切ばっかりでさ、もうさ", "cls": "empathy", "prev": "今月の締切は5件です。", "complete": true}
+{"text": "予定変更が多すぎて何がなんだかわからん", "cls": "empathy", "prev": null, "complete": true}
+{"text": "明日の準備 まだ何もできてないんだよね", "cls": "empathy", "prev": "明日は10時から発表です。", "complete": true}
+{"text": "5時起きの出張ほんと嫌だ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "移動ばっかりで座って仕事する時間がない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "あの定例 毎回出る意味わかんなくてつらい", "cls": "empathy", "prev": "月曜の定例が始まります。", "complete": true}
+{"text": "うんと、休みの申請また通らなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "締切前でずっと胃が痛い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "予定入れすぎた 自分のせいなんだけど", "cls": "empathy", "prev": "今週は空きがありません。", "complete": true}
+{"text": "リマインド見逃して会議すっぽかした…", "cls": "empathy", "prev": null, "complete": true}
+{"text": "来週の面接 緊張で眠れなそう", "cls": "empathy", "prev": "来週水曜に面接が登録されています。", "complete": true}
+{"text": "今日 昼食べる時間もなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "会議が30分早まってて 慌てて走った", "cls": "empathy", "prev": null, "complete": true}
+{"text": "締切延ばしてって言えなくて抱えてる", "cls": "empathy", "prev": "締切は明後日です。", "complete": true}
+{"text": "出張が急に決まって週末の予定キャンセルした", "cls": "empathy", "prev": null, "complete": true}
+{"text": "予定 頭に入らなくてもう疲れた", "cls": "empathy", "prev": "以上が来週の予定です。", "complete": true}
+{"text": "部長の予定に合わせてたら自分の時間全部なくなった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "三週間連続で休日出勤なんだけど、さ", "cls": "empathy", "prev": "土曜に出勤の予定があります。", "complete": true}
+{"text": "締切間に合った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "会議終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "休み取れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "提出できた", "cls": "cheer", "prev": "締切は今日の17時です。", "complete": true}
+{"text": "やっと空いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "会議なくなった!", "cls": "cheer", "prev": "15時から全体会議です。", "complete": true}
+{"text": "全部終わった", "cls": "cheer", "prev": "今日は締切が3件ありました。", "complete": true}
+{"text": "有給通った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "面接受かった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "来週の会議、全部なくなった。最高", "cls": "cheer", "prev": "来週の予定を確認しますか?", "complete": true}
+{"text": "締切 1週間延びたんだって 助かる", "cls": "cheer", "prev": "締切は金曜ですね。", "complete": true}
+{"text": "今日の予定 午前で全部片付いたよ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "出張 行かなくてよくなった", "cls": "cheer", "prev": "来週は大阪出張があります。", "complete": true}
+{"text": "面談 いい感じで終わりました", "cls": "cheer", "prev": "面談はいかがでしたか。", "complete": true}
+{"text": "三連休 予定ゼロにできた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "初めて予定通りに一日終えられた気がする", "cls": "cheer", "prev": null, "complete": true}
+{"text": "発表うまくいったよ", "cls": "cheer", "prev": "発表お疲れさまでした。", "complete": true}
+{"text": "えっと、企画会議で提案通りました", "cls": "cheer", "prev": null, "complete": true}
+{"text": "田中さんとの打ち合わせ 10分で終わった", "cls": "cheer", "prev": "打ち合わせは1時間の予定でした。", "complete": true}
+{"text": "締切3日前に出せたの 自分えらい", "cls": "cheer", "prev": null, "complete": true}
+{"text": "来月の出張 行きたかった福岡になった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "予定詰めたけど全部こなせた", "cls": "cheer", "prev": "今日は予定が8件ありました。", "complete": true}
+{"text": "部長との面談で昇進の話出た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今週 一回も遅刻しなかった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "休みの申請 その場で通してもらえた", "cls": "cheer", "prev": "来月の休みを登録しますか?", "complete": true}
+{"text": "会議の資料 前日に仕上がったの久しぶり", "cls": "cheer", "prev": null, "complete": true}
+{"text": "明日の予定、何もない。うれしい", "cls": "cheer", "prev": "明日の予定はありません。", "complete": true}
+{"text": "やった 金曜半休取れる", "cls": "cheer", "prev": null, "complete": true}
+{"text": "空き時間ぴったり合って 佐藤さんとランチ決まった", "cls": "cheer", "prev": "佐藤さんの空きは木曜の12時です。", "complete": true}
+{"text": "締切前なのに余裕ある 初めてかも", "cls": "cheer", "prev": null, "complete": true}
+{"text": "定例が隔週になった うれしい", "cls": "cheer", "prev": null, "complete": true}
+{"text": "発表の日程 希望どおり来月になりました", "cls": "cheer", "prev": "発表の日程は調整中でした。", "complete": true}
+{"text": "面接 手応えあった", "cls": "cheer", "prev": "面接お疲れさまでした。", "complete": true}
+{"text": "今日の会議 めっちゃ話まとまった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "来週の予定 きれいに整理できた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "歯医者 今日で終わりだって", "cls": "cheer", "prev": "次の歯医者は来月ですか?", "complete": true}
+{"text": "締切 無事クリア", "cls": "cheer", "prev": null, "complete": true}
+{"text": "出張先の予定 全部うまく組めた", "cls": "cheer", "prev": "出張中の予定を確認しますか?", "complete": true}
+{"text": "早く帰れる、今日は", "cls": "cheer", "prev": "17時以降の予定はありません。", "complete": true}
+{"text": "え、今日だったの", "cls": "surprise", "prev": "締切は本日です。", "complete": true}
+{"text": "まじで明日?", "cls": "surprise", "prev": "面接は明日の10時です。", "complete": true}
+{"text": "うそでしょ", "cls": "surprise", "prev": "会議が朝7時に変更されました。", "complete": true}
+{"text": "もう来週?", "cls": "surprise", "prev": "発表まであと6日です。", "complete": true}
+{"text": "中止だって!", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっ、今から?", "cls": "surprise", "prev": "会議が5分後に始まります。", "complete": true}
+{"text": "急すぎ", "cls": "surprise", "prev": "明日から出張が追加されました。", "complete": true}
+{"text": "聞いてない", "cls": "surprise", "prev": "16時に全体会議が入っています。", "complete": true}
+{"text": "三つ同時?", "cls": "surprise", "prev": "14時に予定が3件重なっています。", "complete": true}
+{"text": "部長来るの?", "cls": "surprise", "prev": "参加者に部長が追加されました。", "complete": true}
+{"text": "明日の会議 突然社長が出るらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "締切 今日だったって今知った", "cls": "surprise", "prev": null, "complete": true}
+{"text": "田中さん 来月で辞めるんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "会議、朝の7時からになったらしいよ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え、あの定例ずっと前になくなってたの", "cls": "surprise", "prev": "月曜の定例は先月で終了しています。", "complete": true}
+{"text": "出張 行き先が急に海外になった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "面談の相手 前の上司だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "休みだと思ってた日 出勤日だったんですけど", "cls": "surprise", "prev": "23日は出勤日です。", "complete": true}
+{"text": "えっと、締切が来週じゃなくて明日だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "会議室 いつの間にか別の部署に取られてた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "予定表に知らない会議が5つ入ってる", "cls": "surprise", "prev": "来週の予定を表示しました。", "complete": true}
+{"text": "佐藤さん 同じ日に結婚式らしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "出張 来週って聞いてたのに明後日だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの面接 まさかの2時間だった", "cls": "surprise", "prev": "面接お疲れさまでした。", "complete": true}
+{"text": "締切 なぜか2週間延びてた", "cls": "surprise", "prev": "締切は来月の15日です。", "complete": true}
+{"text": "うわ、明日祝日なの知らなかった", "cls": "surprise", "prev": "明日は祝日です。", "complete": true}
+{"text": "会議 全員欠席になってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "予定入れた覚えないのに歯医者って書いてある", "cls": "surprise", "prev": "明日は歯医者の予定があります。", "complete": true}
+{"text": "鈴木さん いきなり来週から海外赴任だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっ、その打ち合わせ自分も出るの", "cls": "surprise", "prev": "15時の打ち合わせに招待されています。", "complete": true}
+{"text": "今日の午後 いつの間にか全部埋まってる", "cls": "surprise", "prev": "午後は予定が4件あります。", "complete": true}
+{"text": "忘年会 まさかの平日昼だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "締切 去年と同じ日だったの初めて気づいた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "面談の場所 まさかの社長室", "cls": "surprise", "prev": "面談の場所は社長室です。", "complete": true}
+{"text": "明日の予定 全部キャンセルされてた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "出張 まさかの日帰りで北海道", "cls": "surprise", "prev": null, "complete": true}
+{"text": "その会議 10年前から続いてるらしい", "cls": "surprise", "prev": "水曜の定例は毎週開催です。", "complete": true}
+{"text": "予定が来年まで埋まってるの 知らなかった", "cls": "surprise", "prev": "来年3月まで予定が入っています。", "complete": true}
+{"text": "課長 今日で最終日だったんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "会議の招待 300人宛てだった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "うん", "cls": "flow", "prev": "明日の予定を読み上げますか?", "complete": true}
+{"text": "それでお願い", "cls": "flow", "prev": "木曜14時に変更しますか?", "complete": true}
+{"text": "そうだね", "cls": "flow", "prev": "午前中は空けておくのが良さそうですね。", "complete": true}
+{"text": "はい", "cls": "flow", "prev": "通知を30分前に設定しますか?", "complete": true}
+{"text": "いや、いい", "cls": "flow", "prev": "リマインドも付けておきましょうか?", "complete": true}
+{"text": "そう", "cls": "flow", "prev": "田中さんとの打ち合わせのことですね?", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "来週の空きを共有しましょうか。", "complete": true}
+{"text": "うん その時間で", "cls": "flow", "prev": "火曜の午後で調整しますか?", "complete": true}
+{"text": "大丈夫", "cls": "flow", "prev": "会議が重なっていますが問題ないですか?", "complete": true}
+{"text": "あ、はい、そうです", "cls": "flow", "prev": "締切は今月末で合っていますか?", "complete": true}
+{"text": "じゃあそっちで", "cls": "flow", "prev": "水曜と木曜、どちらが良いですか?", "complete": true}
+{"text": "うん 明日ので", "cls": "flow", "prev": "今日の予定と明日の予定、どちらを読みますか?", "complete": true}
+{"text": "いや大丈夫 そのままで", "cls": "flow", "prev": "15分ずらしましょうか?", "complete": true}
+{"text": "そうそう それ", "cls": "flow", "prev": "佐藤さんとのランチのことですか?", "complete": true}
+{"text": "とりあえずそれで進めて", "cls": "flow", "prev": "候補日を3つ田中さんに送りますか?", "complete": true}
+{"text": "うん、いいよ、それで", "cls": "flow", "prev": "定例を隔週にしますか?", "complete": true}
+{"text": "全部で", "cls": "flow", "prev": "今週の予定を全部読みますか、会議だけにしますか?", "complete": true}
+{"text": "あー やめとく", "cls": "flow", "prev": "金曜にも通知を入れますか?", "complete": true}
+{"text": "はい お願い", "cls": "flow", "prev": "来月の出張を登録しますか?", "complete": true}
+{"text": "そうしてもらえる", "cls": "flow", "prev": "面談の30分前にリマインドしましょうか?", "complete": true}
+{"text": "うん なしで", "cls": "flow", "prev": "場所は入れますか?", "complete": true}
+{"text": "いいね、それ", "cls": "flow", "prev": "午後をまとめて空けておく案はどうですか?", "complete": true}
+{"text": "どっちでもいい", "cls": "flow", "prev": "10時と11時、どちらにしますか?", "complete": true}
+{"text": "ううん まだ", "cls": "flow", "prev": "提出は終わりましたか?", "complete": true}
+{"text": "うん そうしよ", "cls": "flow", "prev": "先に締切の近いものから片付けますか?", "complete": true}
+{"text": "えっと、はい", "cls": "flow", "prev": "明日は9時開始でよろしいですか?", "complete": true}
+{"text": "後で", "cls": "flow", "prev": "今読み上げますか?", "complete": true}
+{"text": "そうです 金曜のほう", "cls": "flow", "prev": "木曜と金曜、どちらの面談ですか?", "complete": true}
+{"text": "いや 今日はいいや", "cls": "flow", "prev": "明日の準備の時間も入れておきますか?", "complete": true}
+{"text": "オッケー", "cls": "flow", "prev": "変更を相手にも送りますね。", "complete": true}
+{"text": "うん 頼む", "cls": "flow", "prev": "空き時間を探しておきましょうか?", "complete": true}
+{"text": "じゃあ30分で", "cls": "flow", "prev": "会議の長さは30分と1時間、どちらにしますか?", "complete": true}
+{"text": "あ、そっちで", "cls": "flow", "prev": "本社と支社、どちらの会議室ですか?", "complete": true}
+{"text": "はい それで大丈夫です", "cls": "flow", "prev": "14時からで登録しますね。", "complete": true}
+{"text": "うん 一応", "cls": "flow", "prev": "前日にも通知を入れますか?", "complete": true}
+{"text": "いや いらない", "cls": "flow", "prev": "移動時間も予定に入れますか?", "complete": true}
+{"text": "まあそれで", "cls": "flow", "prev": "月曜の午後に寄せる案でよいですか?", "complete": true}
+{"text": "うん聞かせて", "cls": "flow", "prev": "空いている日を候補として挙げましょうか?", "complete": true}
+{"text": "そうね、それで", "cls": "flow", "prev": "来週にまとめて延期しますか?", "complete": true}
+{"text": "いや、月曜", "cls": "correct", "prev": "火曜日の予定は3件あります。", "complete": true}
+{"text": "違う 田中さん", "cls": "correct", "prev": "佐藤さんとの打ち合わせを登録しました。", "complete": true}
+{"text": "3時じゃなくて4時", "cls": "correct", "prev": "15時に会議を入れました。", "complete": true}
+{"text": "来週のほう", "cls": "correct", "prev": "今週の予定を読み上げます。", "complete": true}
+{"text": "午後だよ", "cls": "correct", "prev": "午前10時で登録しました。", "complete": true}
+{"text": "いや 消すんじゃなくて延ばして", "cls": "correct", "prev": "締切を削除しました。", "complete": true}
+{"text": "明日じゃない", "cls": "correct", "prev": "明日の予定は2件です。", "complete": true}
+{"text": "消さないで", "cls": "correct", "prev": "予定を削除しますね。", "complete": true}
+{"text": "締切のほう", "cls": "correct", "prev": "会議の予定を変更しました。", "complete": true}
+{"text": "歯医者、じゃなくて眼科", "cls": "correct", "prev": "歯医者の予約を登録しました。", "complete": true}
+{"text": "いや そうじゃなくて 時間じゃなくて場所を変えたいの", "cls": "correct", "prev": "時間を16時に変更しました。", "complete": true}
+{"text": "違う違う、来月の10日", "cls": "correct", "prev": "今月10日で登録しました。", "complete": true}
+{"text": "さっき言ったのは水曜の話", "cls": "correct", "prev": "木曜の予定を確認しました。", "complete": true}
+{"text": "あ、ごめん、鈴木さんじゃなくて高橋さん", "cls": "correct", "prev": "鈴木さんの空き時間を確認します。", "complete": true}
+{"text": "削除じゃなくて移動って言ったんだけど", "cls": "correct", "prev": "木曜の面談を削除しました。", "complete": true}
+{"text": "30分じゃなくて1時間ずらして", "cls": "correct", "prev": "30分後ろにずらしました。", "complete": true}
+{"text": "出張じゃなくて研修ね", "cls": "correct", "prev": "出張として登録しました。", "complete": true}
+{"text": "それ先週のやつでしょ 今週の", "cls": "correct", "prev": "先週の定例は月曜でした。", "complete": true}
+{"text": "いや リマインドは要るって", "cls": "correct", "prev": "リマインドなしで登録しました。", "complete": true}
+{"text": "東京じゃなくて大阪の会議室", "cls": "correct", "prev": "東京本社の会議室を予約しますね。", "complete": true}
+{"text": "違うよ 毎週じゃなくて隔週", "cls": "correct", "prev": "毎週月曜の繰り返しで登録しました。", "complete": true}
+{"text": "12時半、って言った", "cls": "correct", "prev": "12時でランチを登録しました。", "complete": true}
+{"text": "えっと 面談じゃなくて面接", "cls": "correct", "prev": "面談の予定を追加しました。", "complete": true}
+{"text": "全日じゃなくて午前だけ", "cls": "correct", "prev": "終日の休みとして登録しました。", "complete": true}
+{"text": "金曜のほうじゃなくて木曜の会議のこと", "cls": "correct", "prev": "金曜の会議は15時からです。", "complete": true}
+{"text": "締切は明日じゃなくて明後日", "cls": "correct", "prev": "締切は明日ですね。", "complete": true}
+{"text": "違う 佐藤さんとのランチのこと聞いてた", "cls": "correct", "prev": "佐藤さんとの会議は火曜です。", "complete": true}
+{"text": "あの、9時半じゃなくて9時", "cls": "correct", "prev": "9時半から登録しました。", "complete": true}
+{"text": "その予定じゃなくて 一個下のやつ", "cls": "correct", "prev": "企画会議を削除しました。", "complete": true}
+{"text": "いや 来週の月曜のことじゃなくて再来週", "cls": "correct", "prev": "来週月曜は空いています。", "complete": true}
+{"text": "会議じゃなくて 休みを入れてって言ったの", "cls": "correct", "prev": "会議を追加しました。", "complete": true}
+{"text": "場所は新宿じゃなくて渋谷", "cls": "correct", "prev": "新宿で登録しました。", "complete": true}
+{"text": "通知は前日じゃなくて当日の朝", "cls": "correct", "prev": "前日の夜に通知します。", "complete": true}
+{"text": "田中って 営業の田中さんのほう", "cls": "correct", "prev": "開発の田中さんの予定を確認しました。", "complete": true}
+{"text": "削らないでって言ったよね", "cls": "correct", "prev": "空いている時間を減らしました。", "complete": true}
+{"text": "明日、じゃなくて明後日の話", "cls": "correct", "prev": "明日の予定を読み上げます。", "complete": true}
+{"text": "一件じゃなくて全部消してほしかった", "cls": "correct", "prev": "1件削除しました。", "complete": true}
+{"text": "違う 締切は自分のじゃなくてチームのほう", "cls": "correct", "prev": "あなたの締切は金曜です。", "complete": true}
+{"text": "11月じゃない 12月", "cls": "correct", "prev": "11月の予定を表示しました。", "complete": true}
+{"text": "入れてじゃなくて 空いてるか見てって言った", "cls": "correct", "prev": "会議を登録しました。", "complete": true}
+{"text": "ありがとう", "cls": "none", "prev": "明日の予定を登録しました。", "complete": true}
+{"text": "じゃあね", "cls": "none", "prev": null, "complete": true}
+{"text": "助かった", "cls": "none", "prev": "締切を金曜に設定しました。", "complete": true}
+{"text": "よろしく", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみ", "cls": "none", "prev": "明日は9時から会議です。", "complete": true}
+{"text": "あー", "cls": "none", "prev": null, "complete": true}
+{"text": "どうも", "cls": "none", "prev": "空き時間を送っておきました。", "complete": true}
+{"text": "お疲れさま", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがと 助かったよ", "cls": "none", "prev": "来週の予定をまとめました。", "complete": true}
+{"text": "了解、ありがとね", "cls": "none", "prev": "通知を30分前にしました。", "complete": true}
+{"text": "はいはい", "cls": "none", "prev": null, "complete": true}
+{"text": "ふーん", "cls": "none", "prev": "今週の会議は4件です。", "complete": true}
+{"text": "なんでもない", "cls": "none", "prev": null, "complete": true}
+{"text": "予定…えっと…あ、やっぱいいや", "cls": "none", "prev": null, "complete": true}
+{"text": "今日も一日よろしくね", "cls": "none", "prev": null, "complete": true}
+{"text": "じゃ 行ってきます", "cls": "none", "prev": "13時から打ち合わせです。", "complete": true}
+{"text": "おはよう 今日も頼むね", "cls": "none", "prev": null, "complete": true}
+{"text": "サンキュー", "cls": "none", "prev": "予定を変更しました。", "complete": true}
+{"text": "えーっと…あー…うん", "cls": "none", "prev": null, "complete": true}
+{"text": "ただいま", "cls": "none", "prev": null, "complete": true}
+{"text": "またあとで", "cls": "none", "prev": "次の予定は16時です。", "complete": true}
+{"text": "おっけー ありがとう", "cls": "none", "prev": "リマインドを設定しました。", "complete": true}
+{"text": "ごめん、なんでもないです", "cls": "none", "prev": null, "complete": true}
+{"text": "あ、そっか、いや大丈夫", "cls": "none", "prev": null, "complete": true}
+{"text": "助かります ありがとうございました", "cls": "none", "prev": "以上が来月の予定です。", "complete": true}
+{"text": "ねえ", "cls": "none", "prev": null, "complete": true}
+{"text": "あのー", "cls": "none", "prev": null, "complete": true}
+{"text": "お疲れ 今日はもう寝るわ", "cls": "none", "prev": "今日の予定は終わりました。", "complete": true}
+{"text": "こんにちは", "cls": "none", "prev": null, "complete": true}
+{"text": "うんうん ありがと", "cls": "none", "prev": "以上が今日の予定です。", "complete": true}
+{"text": "じゃあまた明日", "cls": "none", "prev": null, "complete": true}
+{"text": "はー、ねむ", "cls": "none", "prev": null, "complete": true}
+{"text": "行ってきます", "cls": "none", "prev": "面談の時間です。", "complete": true}
+{"text": "よろしくお願いします", "cls": "none", "prev": null, "complete": true}
+{"text": "まあいいや", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとう また予定聞くね", "cls": "none", "prev": "今週の予定は以上です。", "complete": true}
+{"text": "どうもです 助かりました", "cls": "none", "prev": "出張の予定を登録しました。", "complete": true}
+{"text": "あ、はいはい、どうも", "cls": "none", "prev": "10時の会議が終わりました。", "complete": true}
+{"text": "えっとね、来週のことなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのさ 明日の会議の", "cls": "hold", "prev": "明日は会議が2件あります。", "complete": false}
+{"text": "で、なんか", "cls": "hold", "prev": "締切を登録しました。", "complete": false}
+{"text": "締切がさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "来月の うんと", "cls": "hold", "prev": null, "complete": false}
+{"text": "田中さんとの打ち合わせなんだけど", "cls": "hold", "prev": "田中さんとの打ち合わせは木曜です。", "complete": false}
+{"text": "あ そうだ 金曜の", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと予定の話してもいい? ってか", "cls": "hold", "prev": null, "complete": false}
+{"text": "明日なんだけどさ 朝の", "cls": "hold", "prev": "明日の予定を表示しますか?", "complete": false}
+{"text": "出張のことでさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "えー、あの、歯医者の予約が", "cls": "hold", "prev": null, "complete": false}
+{"text": "会議の時間 あれさ", "cls": "hold", "prev": "会議は14時からです。", "complete": false}
+{"text": "来週の水曜か木曜あたりに", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのね 休みをね", "cls": "hold", "prev": null, "complete": false}
+{"text": "今週の予定、なんかこう", "cls": "hold", "prev": "今週は予定が9件あります。", "complete": false}
+{"text": "うんとね 部長から聞いたんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "締切のやつ 確か", "cls": "hold", "prev": "締切は来週の月曜です。", "complete": false}
+{"text": "3時からの会議 あれって", "cls": "hold", "prev": "15時から企画会議です。", "complete": false}
+{"text": "さっき言ってた面談なんだけどさ", "cls": "hold", "prev": "面談を金曜に登録しました。", "complete": false}
+{"text": "来月の頭 たぶんなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "明日の午後にさ 佐藤さんと", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと待って えっと", "cls": "hold", "prev": "水曜と木曜、どちらにしますか?", "complete": false}
+{"text": "なんか 予定が", "cls": "hold", "prev": null, "complete": false}
+{"text": "今日の夕方 もしかしたら", "cls": "hold", "prev": "夕方の予定はありません。", "complete": false}
+{"text": "出張の日程 まだ決まってないんだけど たぶん", "cls": "hold", "prev": null, "complete": false}
+{"text": "会議室のことで あの", "cls": "hold", "prev": "会議室は予約済みです。", "complete": false}
+{"text": "木曜のさ あれ", "cls": "hold", "prev": null, "complete": false}
+{"text": "来週忙しくて それで", "cls": "hold", "prev": null, "complete": false}
+{"text": "予定入れたいんだけど 日にちが", "cls": "hold", "prev": null, "complete": false}
+{"text": "鈴木さんから連絡来てて なんか", "cls": "hold", "prev": "鈴木さんとの面談は未定です。", "complete": false}
+{"text": "あー 面接のことなんですけど", "cls": "hold", "prev": "面接は来週水曜です。", "complete": false}
+{"text": "休みの申請なんだけど、来月の", "cls": "hold", "prev": null, "complete": false}
+{"text": "定例のことで一個", "cls": "hold", "prev": "月曜の定例を登録しました。", "complete": false}
+{"text": "そういえば 来週の", "cls": "hold", "prev": null, "complete": false}
+{"text": "締切の前にさ 一回", "cls": "hold", "prev": "締切は金曜です。", "complete": false}
+{"text": "空いてる日をね なんていうか", "cls": "hold", "prev": "空いている日は火曜と金曜です。", "complete": false}
+{"text": "うーんと 金曜 いや木曜か の", "cls": "hold", "prev": null, "complete": false}
+{"text": "会議がね まあ", "cls": "hold", "prev": "今日の会議は終わりました。", "complete": false}
+{"text": "明日の予定なんですけど ちょっと", "cls": "hold", "prev": "明日は10時から面談です。", "complete": false}
+{"text": "あの 出張から帰ってきた次の日に", "cls": "hold", "prev": null, "complete": false}

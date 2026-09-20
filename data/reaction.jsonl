@@ -1,0 +1,506 @@
+{"text": "うん", "cls": "flow", "prev": "この内容で登録しますか?", "complete": true}
+{"text": "はい、お願いします", "cls": "flow", "prev": "会議室を予約しておきましょうか?", "complete": true}
+{"text": "それでお願い", "cls": "flow", "prev": "件名は「来週の打ち合わせ」でよいですか?", "complete": true}
+{"text": "そうだね", "cls": "flow", "prev": "先に日程を決めたほうがよさそうです。", "complete": true}
+{"text": "うん そっちで", "cls": "flow", "prev": "地図は徒歩と車、どちらで出しますか?", "complete": true}
+{"text": "大丈夫です", "cls": "flow", "prev": "このまま送信してもよろしいですか?", "complete": true}
+{"text": "えっと はい", "cls": "flow", "prev": "田中さんにも共有しますか?", "complete": true}
+{"text": "オッケー", "cls": "flow", "prev": "では15分後にもう一度お知らせします。", "complete": true}
+{"text": "うんうん 続けて", "cls": "flow", "prev": "次に予算の話に移ってもいいですか?", "complete": true}
+{"text": "そうそう", "cls": "flow", "prev": "つまり金曜の便に変更したいということですね?", "complete": true}
+{"text": "じゃあそれで", "cls": "flow", "prev": "一番早い便だと7時40分発になります。", "complete": true}
+{"text": "はいはい", "cls": "flow", "prev": "念のため確認ですが、削除は元に戻せません。", "complete": true}
+{"text": "うん いいと思う", "cls": "flow", "prev": "夕方に電話するよう佐藤さんに伝えましょうか?", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "同じ設定で来月分も作成しますか?", "complete": true}
+{"text": "あ うん それで大丈夫", "cls": "flow", "prev": "集合は渋谷駅のハチ公前でいいですか?", "complete": true}
+{"text": "いや、いい", "cls": "flow", "prev": "他にも候補を出しましょうか?", "complete": true}
+{"text": "今はいいや", "cls": "flow", "prev": "詳しい説明も読み上げますか?", "complete": true}
+{"text": "ううん いらない", "cls": "flow", "prev": "領収書も一緒に添付しますか?", "complete": true}
+{"text": "うん そう", "cls": "flow", "prev": "会場は去年と同じホテルですか?", "complete": true}
+{"text": "そうです、そのとおり", "cls": "flow", "prev": "山田さんは営業部の方ですね?", "complete": true}
+{"text": "了解 そうしよう", "cls": "flow", "prev": "混みそうなので予約は12時にずらすのがよさそうです。", "complete": true}
+{"text": "あー はい そうしてください", "cls": "flow", "prev": "古いファイルは別フォルダに移しておきますか?", "complete": true}
+{"text": "うん まあ それでいいかな", "cls": "flow", "prev": "宛先はチーム全員にしますか?", "complete": true}
+{"text": "ええ", "cls": "flow", "prev": "1時間ごとに知らせる設定でよろしいですか?", "complete": true}
+{"text": "そうしてもらえる?", "cls": "flow", "prev": "文字を少し大きくして表示することもできます。", "complete": true}
+{"text": "うん 次", "cls": "flow", "prev": "次の項目に進みますか?", "complete": true}
+{"text": "はい、それで結構です", "cls": "flow", "prev": "支払いは月末締めでまとめますか?", "complete": true}
+{"text": "いいね それ", "cls": "flow", "prev": "散歩がてら代々木公園に寄るのはどうでしょう。", "complete": true}
+{"text": "どっちでもいいよ", "cls": "flow", "prev": "表示は一覧とカレンダー、どちらにしますか?", "complete": true}
+{"text": "うん それで合ってる", "cls": "flow", "prev": "明後日の10時で登録しますね。", "complete": true}
+{"text": "あ いえ 大丈夫です", "cls": "flow", "prev": "他に追加したいことはありますか?", "complete": true}
+{"text": "後でいい", "cls": "flow", "prev": "今すぐ再起動しますか?", "complete": true}
+{"text": "ないよ", "cls": "flow", "prev": "ほかに聞きたいことはありますか?", "complete": true}
+{"text": "はい そのままで", "cls": "flow", "prev": "順番はこのままでよいですか?", "complete": true}
+{"text": "うん 任せる", "cls": "flow", "prev": "タイトルはこちらで決めてしまってもいいですか?", "complete": true}
+{"text": "なんかそれでいいや うん", "cls": "flow", "prev": "予算は3万円までで探しますか?", "complete": true}
+{"text": "いいえ、結構です", "cls": "flow", "prev": "保険のオプションもつけますか?", "complete": true}
+{"text": "そうね やっぱりそっち", "cls": "flow", "prev": "新幹線のほうが乗り換えが少ないです。", "complete": true}
+{"text": "ん うん", "cls": "flow", "prev": "では明日の朝に続きをやりましょう。", "complete": true}
+{"text": "いや そうじゃなくて", "cls": "correct", "prev": "では明日の会議を取り消しますね。", "complete": true}
+{"text": "違う違う 鈴木さんじゃなくて鈴村さん", "cls": "correct", "prev": "鈴木さんにメールを送りました。", "complete": true}
+{"text": "あ、ごめん、来週じゃなくて再来週", "cls": "correct", "prev": "来週の木曜に予定を入れました。", "complete": true}
+{"text": "3時じゃない 5時", "cls": "correct", "prev": "3時にアラームを設定しました。", "complete": true}
+{"text": "さっき言ったのは大阪じゃなくて岡山", "cls": "correct", "prev": "大阪の天気は晴れです。", "complete": true}
+{"text": "そっちじゃない", "cls": "correct", "prev": "一番上のファイルを開きました。", "complete": true}
+{"text": "え なんで削除になってんの 移動って言ったんだけど", "cls": "correct", "prev": "ファイルを削除しました。", "complete": true}
+{"text": "いやいや ドルじゃなくて円で", "cls": "correct", "prev": "1株あたり150ドルです。", "complete": true}
+{"text": "うーん、ちょっと違うな。会議の資料のほう", "cls": "correct", "prev": "先週の議事録を表示します。", "complete": true}
+{"text": "違うよ それ先月の話", "cls": "correct", "prev": "今月の売上は前年比で5パーセント増です。", "complete": true}
+{"text": "そうじゃなくて 電話番号のほう聞いたの", "cls": "correct", "prev": "山口さんのメールアドレスはこちらです。", "complete": true}
+{"text": "え、違う。日曜って言ったよね", "cls": "correct", "prev": "土曜日の予定は空いています。", "complete": true}
+{"text": "あー 聞き間違えてる カフェじゃなくてカレー", "cls": "correct", "prev": "近くのカフェを3件見つけました。", "complete": true}
+{"text": "ちがう", "cls": "correct", "prev": "英語に翻訳しました。", "complete": true}
+{"text": "いや 私の分だけでいい", "cls": "correct", "prev": "全員分の座席を予約します。", "complete": true}
+{"text": "それ 去年のやつじゃん", "cls": "correct", "prev": "決算資料はこちらです。", "complete": true}
+{"text": "ごめん言い方悪かった 消すんじゃなくて非表示にして", "cls": "correct", "prev": "通知をすべて削除しました。", "complete": true}
+{"text": "えっと、京都じゃなくて東京駅発で", "cls": "correct", "prev": "京都駅発の新幹線を検索します。", "complete": true}
+{"text": "違います 青いほう", "cls": "correct", "prev": "赤いカバーを注文リストに入れました。", "complete": true}
+{"text": "違う、来週", "cls": "correct", "prev": "今週の金曜で登録しました。", "complete": true}
+{"text": "うん じゃなくて 朝じゃなく夜の便", "cls": "correct", "prev": "朝7時の便でよろしいですね。", "complete": true}
+{"text": "あれ それ別のプロジェクトだよ", "cls": "correct", "prev": "アルファ案件の進捗をまとめました。", "complete": true}
+{"text": "9時半だって", "cls": "correct", "prev": "9時に予約を入れました。", "complete": true}
+{"text": "そうじゃない 部長にじゃなくて課長に", "cls": "correct", "prev": "部長に報告のメールを下書きしました。", "complete": true}
+{"text": "いや 円安じゃなくて円高の話", "cls": "correct", "prev": "円安が進んだ要因についてお話しします。", "complete": true}
+{"text": "ちょっと待って、それ私が言ったのと逆", "cls": "correct", "prev": "出発を1時間早めるということですね。", "complete": true}
+{"text": "ううん キロじゃなくてマイル", "cls": "correct", "prev": "距離は約42キロです。", "complete": true}
+{"text": "違う 母じゃなくて姉の誕生日", "cls": "correct", "prev": "お母様の誕生日をカレンダーに追加しました。", "complete": true}
+{"text": "あー違う違う その前の", "cls": "correct", "prev": "最新のメッセージを読み上げます。", "complete": true}
+{"text": "いや、来年の", "cls": "correct", "prev": "今年の祝日は16日あります。", "complete": true}
+{"text": "そこは半角じゃなくて全角で", "cls": "correct", "prev": "半角スペースに置き換えました。", "complete": true}
+{"text": "え ちがうって 北海道旅行のほうの写真", "cls": "correct", "prev": "沖縄旅行の写真を表示します。", "complete": true}
+{"text": "うーん そういう意味じゃなくて 金額の合計のこと", "cls": "correct", "prev": "件数の合計は42件です。", "complete": true}
+{"text": "ちがうよ 2人じゃなくて4人", "cls": "correct", "prev": "2名で予約を確定します。", "complete": true}
+{"text": "それじゃない", "cls": "correct", "prev": "駅前のラーメン屋を地図に出しました。", "complete": true}
+{"text": "違う 削除じゃなく保存って言った", "cls": "correct", "prev": "下書きを削除しました。", "complete": true}
+{"text": "ごめん、そこじゃなくて次の段落", "cls": "correct", "prev": "第1段落を書き換えました。", "complete": true}
+{"text": "いえ それは伊藤さんではなく伊東さんです", "cls": "correct", "prev": "伊藤さんに電話をかけます。", "complete": true}
+{"text": "あのさ 水曜じゃなくて水曜の翌日って言ったんだけど", "cls": "correct", "prev": "水曜日に予定を入れました。", "complete": true}
+{"text": "いや 逆 私が出すほう", "cls": "correct", "prev": "先方から資料が届く予定ですね。", "complete": true}
+{"text": "明日って雨だっけ", "cls": "check", "prev": "明日の予定は2件あります。", "complete": true}
+{"text": "それ午後?", "cls": "check", "prev": "打ち合わせは3時からです。", "complete": true}
+{"text": "え 今日だっけ", "cls": "check", "prev": "締め切りは本日です。", "complete": true}
+{"text": "保存した?", "cls": "check", "prev": "変更を反映しました。", "complete": true}
+{"text": "それ何時発?", "cls": "check", "prev": "一番早い便を候補に入れました。", "complete": true}
+{"text": "送れてます?", "cls": "check", "prev": "メールを送信しました。", "complete": true}
+{"text": "え それ確定?", "cls": "check", "prev": "会場は第2会議室になりそうです。", "complete": true}
+{"text": "その人 前に会ったことある人だっけ", "cls": "check", "prev": "面談の相手は中村さんです。", "complete": true}
+{"text": "税込み?", "cls": "check", "prev": "合計は8800円です。", "complete": true}
+{"text": "あれ、さっきのタイマーまだ動いてる?", "cls": "check", "prev": "3分のタイマーを開始しました。", "complete": true}
+{"text": "ええと それって往復の値段でいいんですよね", "cls": "check", "prev": "航空券は3万2千円です。", "complete": true}
+{"text": "今日って火曜?", "cls": "check", "prev": "次のゴミの日は水曜です。", "complete": true}
+{"text": "全部消えた?", "cls": "check", "prev": "古い通知を整理しました。", "complete": true}
+{"text": "終わった?", "cls": "check", "prev": "バックアップを実行中です。", "complete": true}
+{"text": "それって去年と同じ会場?", "cls": "check", "prev": "忘年会は12月19日です。", "complete": true}
+{"text": "え 雨降るの?", "cls": "check", "prev": "明日は傘があると安心です。", "complete": true}
+{"text": "それ 私も出席になってる?", "cls": "check", "prev": "会議の招待を受け付けました。", "complete": true}
+{"text": "あー それ何日だっけ", "cls": "check", "prev": "納品日が近づいています。", "complete": true}
+{"text": "ちゃんと登録できた?", "cls": "check", "prev": "予定を追加しました。", "complete": true}
+{"text": "え、もう届いたの?", "cls": "check", "prev": "荷物の配達が完了したそうです。", "complete": true}
+{"text": "それ 先方も了承済み?", "cls": "check", "prev": "日程を来週火曜に変更しました。", "complete": true}
+{"text": "今の 覚えた?", "cls": "check", "prev": "はい、メモしておきます。", "complete": true}
+{"text": "うんと それ一人分?", "cls": "check", "prev": "コースは6000円です。", "complete": true}
+{"text": "音 鳴った?", "cls": "check", "prev": "アラームは7時に設定済みです。", "complete": true}
+{"text": "その資料って共有済みだったっけ", "cls": "check", "prev": "レビュー用の資料は準備できています。", "complete": true}
+{"text": "えっと、それ祝日じゃなかった?", "cls": "check", "prev": "来週月曜に配送予定です。", "complete": true}
+{"text": "ワイファイ つながってる?", "cls": "check", "prev": "同期に時間がかかっています。", "complete": true}
+{"text": "在庫あるの?", "cls": "check", "prev": "その商品は5980円です。", "complete": true}
+{"text": "これって最新版でいい?", "cls": "check", "prev": "ファイルを開きました。", "complete": true}
+{"text": "え まだ返事来てない?", "cls": "check", "prev": "先方からの連絡はまだありません。", "complete": true}
+{"text": "松本さんって東京の人だっけ", "cls": "check", "prev": "松本さんとの面談は明日です。", "complete": true}
+{"text": "その時間 空いてたよね?", "cls": "check", "prev": "16時に歯医者の予約を入れられます。", "complete": true}
+{"text": "あれ、それ前も聞いた気がするけど合ってる?", "cls": "check", "prev": "駐車場の料金は1時間400円です。", "complete": true}
+{"text": "録音 止まった?", "cls": "check", "prev": "会議の録音を終了します。", "complete": true}
+{"text": "それって英語版?", "cls": "check", "prev": "マニュアルを見つけました。", "complete": true}
+{"text": "月曜でいい?", "cls": "check", "prev": "返却期限が近づいています。", "complete": true}
+{"text": "えー あれって来月からじゃなかったっけ", "cls": "check", "prev": "新しい料金プランが適用されています。", "complete": true}
+{"text": "それ 部屋番号ある?", "cls": "check", "prev": "ホテルの予約は取れています。", "complete": true}
+{"text": "今、充電中?", "cls": "check", "prev": "バッテリー残量は15パーセントです。", "complete": true}
+{"text": "あ で それ木曜で合ってる?", "cls": "check", "prev": "次回の定例は木曜の14時です。", "complete": true}
+{"text": "明日の天気教えて", "cls": "work", "prev": "今日は一日晴れです。", "complete": true}
+{"text": "今の日経平均いくら", "cls": "work", "prev": "おはようございます。市場が開きました。", "complete": true}
+{"text": "じゃあ来週の予定も見せて", "cls": "work", "prev": "今週は会議が4件あります。", "complete": true}
+{"text": "えっと トヨタの株価いくらだった", "cls": "work", "prev": null, "complete": true}
+{"text": "新宿から横浜まで電車で何分か調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "あ、じゃあ、その店の営業時間も", "cls": "work", "prev": "駅前の喫茶店を見つけました。", "complete": true}
+{"text": "去年の今日って何してたっけ カレンダー見て", "cls": "work", "prev": null, "complete": true}
+{"text": "Slackに何か来てないか確認して", "cls": "work", "prev": "会議のメモを保存しました。", "complete": true}
+{"text": "円相場 今いくら", "cls": "work", "prev": null, "complete": true}
+{"text": "週末の京都の天気どう", "cls": "work", "prev": null, "complete": true}
+{"text": "その人のプロフィール調べてもらえる?", "cls": "work", "prev": "面談の相手は西田さんです。", "complete": true}
+{"text": "ダウンロードフォルダのPDF探して", "cls": "work", "prev": null, "complete": true}
+{"text": "ビットコインの値動き見せて", "cls": "work", "prev": null, "complete": true}
+{"text": "うんと あの 先週送ったメールの返事来てるか見て", "cls": "work", "prev": null, "complete": true}
+{"text": "電車遅れてないか調べて", "cls": "work", "prev": "出発まで30分です。", "complete": true}
+{"text": "近くで今開いてる薬局", "cls": "work", "prev": "頭痛薬の在庫は切れているとメモにあります。", "complete": true}
+{"text": "それのレビュー調べて", "cls": "work", "prev": "この掃除機は3万5千円です。", "complete": true}
+{"text": "田中さんとの最後のやりとりいつだったか調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "ニュース、何かあった?", "cls": "work", "prev": "おはようございます。今日は月曜日です。", "complete": true}
+{"text": "この前の議事録探してほしい", "cls": "work", "prev": null, "complete": true}
+{"text": "うーん じゃあ別の候補も探して", "cls": "work", "prev": "候補のホテルは満室でした。", "complete": true}
+{"text": "来月の祝日 全部出して", "cls": "work", "prev": null, "complete": true}
+{"text": "あ、ついでに交通費も調べといて", "cls": "work", "prev": "出張の日程を登録しました。", "complete": true}
+{"text": "今日の為替と日経平均", "cls": "work", "prev": "本日の予定は2件です。", "complete": true}
+{"text": "そのファイルの更新日 いつだったか見て", "cls": "work", "prev": "報告書を開きました。", "complete": true}
+{"text": "空港までのバスの時刻表", "cls": "work", "prev": null, "complete": true}
+{"text": "えっと カレンダーで来週の空き時間出して", "cls": "work", "prev": "来週の会議は水曜に入りました。", "complete": true}
+{"text": "ちょっと検索して ゆうパックの料金", "cls": "work", "prev": null, "complete": true}
+{"text": "なんかさ、その会社のニュース最近ある?", "cls": "work", "prev": "その銘柄は前日比で2パーセント上がっています。", "complete": true}
+{"text": "今週のメールでまだ返信してないやつ出して", "cls": "work", "prev": null, "complete": true}
+{"text": "天気", "cls": "work", "prev": null, "complete": true}
+{"text": "株どう", "cls": "work", "prev": null, "complete": true}
+{"text": "地図出して", "cls": "work", "prev": "会場は横浜の赤レンガ倉庫です。", "complete": true}
+{"text": "受信箱見て", "cls": "work", "prev": null, "complete": true}
+{"text": "検索して", "cls": "work", "prev": "その言葉は聞き慣れないですね。", "complete": true}
+{"text": "何時の便がある?", "cls": "work", "prev": "羽田から福岡への便は複数あります。", "complete": true}
+{"text": "じゃあ そこまでの道順調べて", "cls": "work", "prev": "会場は品川のホテルです。", "complete": true}
+{"text": "予定は?", "cls": "work", "prev": null, "complete": true}
+{"text": "今 外何度?", "cls": "work", "prev": null, "complete": true}
+{"text": "もう一回言って", "cls": "ack", "prev": "集合は9時20分に東口です。", "complete": true}
+{"text": "じゃあ5分後にもう一回知らせて", "cls": "ack", "prev": "会議まであと20分です。", "complete": true}
+{"text": "あ メモして 牛乳と卵", "cls": "ack", "prev": null, "complete": true}
+{"text": "ゆっくり喋って", "cls": "ack", "prev": "では手順を順に説明します。", "complete": true}
+{"text": "止めて", "cls": "ack", "prev": null, "complete": true}
+{"text": "えっと、今のやつ全部読み上げて", "cls": "ack", "prev": "メールの下書きを作成しました。", "complete": true}
+{"text": "画面消して", "cls": "ack", "prev": null, "complete": true}
+{"text": "そのタイマー止めて", "cls": "ack", "prev": "タイマーは残り30秒です。", "complete": true}
+{"text": "30秒だけ待って", "cls": "ack", "prev": null, "complete": true}
+{"text": "明るさ上げてもらえます?", "cls": "ack", "prev": null, "complete": true}
+{"text": "さっきのやつ もう一回", "cls": "ack", "prev": "以上が今日のまとめです。", "complete": true}
+{"text": "ストップ", "cls": "ack", "prev": null, "complete": true}
+{"text": "うんと、あとで思い出させて", "cls": "ack", "prev": "洗濯物を取り込む予定でしたね。", "complete": true}
+{"text": "アラーム消して", "cls": "ack", "prev": null, "complete": true}
+{"text": "それコピーしといて", "cls": "ack", "prev": "会議のURLはこちらです。", "complete": true}
+{"text": "日本語で言って", "cls": "ack", "prev": "The meeting has been rescheduled.", "complete": true}
+{"text": "もっと短くまとめて", "cls": "ack", "prev": "以上、資料の要約でした。", "complete": true}
+{"text": "音 大きく", "cls": "ack", "prev": null, "complete": true}
+{"text": "はい じゃあ次の項目読んで", "cls": "ack", "prev": "1つ目の項目は予算についてです。", "complete": true}
+{"text": "録音始めて", "cls": "ack", "prev": null, "complete": true}
+{"text": "その数字、覚えといてください", "cls": "ack", "prev": "残高は12万3千円です。", "complete": true}
+{"text": "静かにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "あ いや 今のはなし 取り消して", "cls": "ack", "prev": "はい、7時に起こします。", "complete": true}
+{"text": "一時停止", "cls": "ack", "prev": null, "complete": true}
+{"text": "同じこと英語で", "cls": "ack", "prev": "明日の集合は8時です。", "complete": true}
+{"text": "えー あとで あとで通知して", "cls": "ack", "prev": "新しいメッセージが2件あります。", "complete": true}
+{"text": "ライト消して", "cls": "ack", "prev": null, "complete": true}
+{"text": "タイマーあと1分足して", "cls": "ack", "prev": "タイマーは残り2分です。", "complete": true}
+{"text": "ちょっと黙ってて", "cls": "ack", "prev": null, "complete": true}
+{"text": "音楽かけて", "cls": "ack", "prev": null, "complete": true}
+{"text": "メモ帳開いて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今言ったこと タイトルにして", "cls": "ack", "prev": "「来期の採用計画」ですね。", "complete": true}
+{"text": "スピーカーに切り替えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "うん、じゃあ、そのままカウントダウン始めて", "cls": "ack", "prev": "10分に設定しました。", "complete": true}
+{"text": "3時に起こして", "cls": "ack", "prev": null, "complete": true}
+{"text": "全部選択して", "cls": "ack", "prev": null, "complete": true}
+{"text": "ええと それ 太字にして", "cls": "ack", "prev": "見出しを追加しました。", "complete": true}
+{"text": "説明して", "cls": "think", "prev": "エラーコード403が返ってきました。", "complete": true}
+{"text": "うーん それってどういう意味?", "cls": "think", "prev": null, "complete": true}
+{"text": "この文章 もっと良くするにはどうしたらいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで株価下がったんだろ", "cls": "think", "prev": "ソニーの株価は前日比で3パーセント下がっています。", "complete": true}
+{"text": "どう思う?", "cls": "think", "prev": "先方は納期を1週間延ばしたいそうです。", "complete": true}
+{"text": "えっと、そもそも何が原因なの", "cls": "think", "prev": null, "complete": true}
+{"text": "どうすればいいと思います?", "cls": "think", "prev": null, "complete": true}
+{"text": "3日で終わらせるの現実的かな", "cls": "think", "prev": null, "complete": true}
+{"text": "この提案 弱いとこどこだと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "違いは何?", "cls": "think", "prev": "プランAとプランBがあります。", "complete": true}
+{"text": "それって私にとって得なの?", "cls": "think", "prev": null, "complete": true}
+{"text": "なんでだろうね", "cls": "think", "prev": "先週から返信率が落ちています。", "complete": true}
+{"text": "どういうこと?", "cls": "think", "prev": "決済が保留になっています。", "complete": true}
+{"text": "うんと 辞めるべきかな この案件", "cls": "think", "prev": null, "complete": true}
+{"text": "理由を教えて", "cls": "think", "prev": "この日は避けたほうがいいです。", "complete": true}
+{"text": "断るとしたらどう言えばいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "AとBだったらどっち先にやる?", "cls": "think", "prev": null, "complete": true}
+{"text": "なんかさ、この見出し、堅すぎない?", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで?", "cls": "think", "prev": "今日は在宅のほうがよさそうです。", "complete": true}
+{"text": "教えて その違い", "cls": "think", "prev": "税込と税抜で表示が変わります。", "complete": true}
+{"text": "そのやり方のデメリットは", "cls": "think", "prev": "一括で更新する方法があります。", "complete": true}
+{"text": "つまりどういうこと?", "cls": "think", "prev": "メモリの使用量が上限に達しました。", "complete": true}
+{"text": "どういう仕組み?", "cls": "think", "prev": null, "complete": true}
+{"text": "これ ほんとに必要?", "cls": "think", "prev": "追加の保険は月額500円です。", "complete": true}
+{"text": "あー どこから手をつけたらいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "うーん、あなたならどうする?", "cls": "think", "prev": "2社から内定が出ています。", "complete": true}
+{"text": "この数字 多いの少ないの?", "cls": "think", "prev": "先月の残業は32時間でした。", "complete": true}
+{"text": "何がまずかったんだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "なんでそんな時間かかるの", "cls": "think", "prev": "処理には約40分かかります。", "complete": true}
+{"text": "もっといい言い方ない?", "cls": "think", "prev": null, "complete": true}
+{"text": "それって法的にはどうなの", "cls": "think", "prev": null, "complete": true}
+{"text": "どっち?", "cls": "think", "prev": "赤と緑、どちらも在庫があります。", "complete": true}
+{"text": "なんで晴れなのに傘いるの", "cls": "think", "prev": "傘があると安心です。", "complete": true}
+{"text": "こういう時ってどう返すのが普通?", "cls": "think", "prev": null, "complete": true}
+{"text": "ええと どのくらい待てば直るもんなんですかね", "cls": "think", "prev": "サーバーが一時的に混み合っています。", "complete": true}
+{"text": "あの店 なんで人気なんだと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "根拠は?", "cls": "think", "prev": "来週は円高に振れる見込みです。", "complete": true}
+{"text": "長い目で見たらどっちが得?", "cls": "think", "prev": null, "complete": true}
+{"text": "今日は午後から出社する", "cls": "understand", "prev": "おはようございます。今日は月曜です。", "complete": true}
+{"text": "来週は木曜まで大阪にいる", "cls": "understand", "prev": "来週の予定は3件です。", "complete": true}
+{"text": "あー あの件 木曜に延びたって", "cls": "understand", "prev": "水曜の打ち合わせの準備はできています。", "complete": true}
+{"text": "田村さんは午後から来るらしい", "cls": "understand", "prev": null, "complete": true}
+{"text": "うちは3人で行くことになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "実家に帰るの 月末になった", "cls": "understand", "prev": "月末は予定が空いています。", "complete": true}
+{"text": "今 電車の中", "cls": "understand", "prev": null, "complete": true}
+{"text": "うん、あれね、もう先方に送ってある", "cls": "understand", "prev": "見積書の下書きができています。", "complete": true}
+{"text": "ちなみに あの店 移転したらしいよ", "cls": "understand", "prev": "駅前のパン屋は徒歩5分です。", "complete": true}
+{"text": "予算は50万で決まったって", "cls": "understand", "prev": "見積の合計は48万円です。", "complete": true}
+{"text": "私 来月から部署変わるんだ", "cls": "understand", "prev": "今週の残りのタスクは2件です。", "complete": true}
+{"text": "子どもの迎え 今日は妻が行くって", "cls": "understand", "prev": null, "complete": true}
+{"text": "会議は結局オンラインになりました", "cls": "understand", "prev": "会議室の予約は取れています。", "complete": true}
+{"text": "ああ それ もう別の人が対応してるよ", "cls": "understand", "prev": "問い合わせが1件届いています。", "complete": true}
+{"text": "今日は夕飯いらないって連絡あった", "cls": "understand", "prev": null, "complete": true}
+{"text": "うんと、あの資料、金曜提出になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "山本さんに電話しといた", "cls": "understand", "prev": "山本さんから折り返しの依頼がありました。", "complete": true}
+{"text": "打ち合わせ 30分で終わった", "cls": "understand", "prev": "お帰りなさい。", "complete": true}
+{"text": "午後はずっと外出してる", "cls": "understand", "prev": null, "complete": true}
+{"text": "そういえば佐々木さん 育休に入ったって", "cls": "understand", "prev": null, "complete": true}
+{"text": "ふーん じゃあ木曜は空いてるんだ", "cls": "understand", "prev": "木曜は予定がありません。", "complete": true}
+{"text": "そうなんだ、じゃあ午後に回すね", "cls": "understand", "prev": "午前中は雨の予報です。", "complete": true}
+{"text": "その話 上司からも聞いた", "cls": "understand", "prev": "来週から新しい料金プランが始まります。", "complete": true}
+{"text": "ちょっと寄り道して帰る", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日は電車じゃなくて車で来た", "cls": "understand", "prev": "今日は電車が遅れているそうです。", "complete": true}
+{"text": "娘が来年受験なんだよね", "cls": "understand", "prev": null, "complete": true}
+{"text": "へー じゃあ月曜は休みなんだ", "cls": "understand", "prev": "月曜日は祝日です。", "complete": true}
+{"text": "今日はもう帰ります", "cls": "understand", "prev": null, "complete": true}
+{"text": "その件 鈴木さんに任せたから", "cls": "understand", "prev": "資料の作成が残っています。", "complete": true}
+{"text": "先方 10人くらい来るって", "cls": "understand", "prev": "会議室は12名まで入れます。", "complete": true}
+{"text": "昨日から在宅勤務に切り替えてる", "cls": "understand", "prev": null, "complete": true}
+{"text": "ゴミの日 変わったらしい", "cls": "understand", "prev": "おはようございます。", "complete": true}
+{"text": "電池 あと20パーセントくらい", "cls": "understand", "prev": "画面の明るさを下げました。", "complete": true}
+{"text": "今日在宅", "cls": "understand", "prev": null, "complete": true}
+{"text": "移動中", "cls": "understand", "prev": null, "complete": true}
+{"text": "もう着いた", "cls": "understand", "prev": null, "complete": true}
+{"text": "会議終わった", "cls": "understand", "prev": "会議は14時までの予定です。", "complete": true}
+{"text": "明日休み", "cls": "understand", "prev": null, "complete": true}
+{"text": "先方来た", "cls": "understand", "prev": null, "complete": true}
+{"text": "昼は外", "cls": "understand", "prev": null, "complete": true}
+{"text": "短いほうがすっきりしてていいね", "cls": "agree", "prev": "2つ目の案は見出しを短くしています。", "complete": true}
+{"text": "うん それはいい考えだね", "cls": "agree", "prev": "田中さんは先に相手の予定を聞くそうです。", "complete": true}
+{"text": "やっぱ朝のほうが集中できるんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "この値段はちょっと高すぎる", "cls": "agree", "prev": "このモデルは12万円です。", "complete": true}
+{"text": "確かにその通りだと思う", "cls": "agree", "prev": "資料は短いほうが読まれやすいです。", "complete": true}
+{"text": "私は反対かな", "cls": "agree", "prev": null, "complete": true}
+{"text": "そのデザイン好き", "cls": "agree", "prev": null, "complete": true}
+{"text": "うーん 微妙", "cls": "agree", "prev": "件名は「ご確認のお願い」にしました。", "complete": true}
+{"text": "いいね", "cls": "agree", "prev": "背景を白に変更しました。", "complete": true}
+{"text": "正直、あの人のやり方は雑だと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "京都は秋が一番だよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "それ わかりやすい", "cls": "agree", "prev": "つまり売上は増えたが利益は減った、ということです。", "complete": true}
+{"text": "ですよね 私もそう思ってました", "cls": "agree", "prev": null, "complete": true}
+{"text": "リモートのほうが効率いいよ 絶対", "cls": "agree", "prev": null, "complete": true}
+{"text": "この曲 いまいち", "cls": "agree", "prev": null, "complete": true}
+{"text": "え、それは違うと思うな", "cls": "agree", "prev": "この場合は返金は難しいでしょう。", "complete": true}
+{"text": "うん まあ妥当な線じゃない", "cls": "agree", "prev": "落としどころは月5万円程度でしょう。", "complete": true}
+{"text": "長すぎ", "cls": "agree", "prev": "要約は以上です。", "complete": true}
+{"text": "赤より青のほうが合ってる", "cls": "agree", "prev": null, "complete": true}
+{"text": "なんか この案が一番現実的な気がする", "cls": "agree", "prev": null, "complete": true}
+{"text": "そのお店 当たりだった", "cls": "agree", "prev": null, "complete": true}
+{"text": "えっと、私はそこまで気にならないですけど", "cls": "agree", "prev": null, "complete": true}
+{"text": "面倒だけどやる価値はある", "cls": "agree", "prev": null, "complete": true}
+{"text": "悪くない", "cls": "agree", "prev": "こちらが修正後の文面です。", "complete": true}
+{"text": "それは言い過ぎだと思う", "cls": "agree", "prev": "この会社は将来性がないと言われています。", "complete": true}
+{"text": "個人的には旧バージョンのほうが使いやすかった", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん 大事だよね そこ", "cls": "agree", "prev": null, "complete": true}
+{"text": "この会議 いらなくない?", "cls": "agree", "prev": null, "complete": true}
+{"text": "さすがに3時間は長い", "cls": "agree", "prev": "所要時間はおよそ3時間です。", "complete": true}
+{"text": "全然いいと思うよ", "cls": "agree", "prev": "文章が少し硬いかもしれません。", "complete": true}
+{"text": "ダサい", "cls": "agree", "prev": "ロゴを差し替えました。", "complete": true}
+{"text": "納得", "cls": "agree", "prev": "料金は使用量に応じて変わります。", "complete": true}
+{"text": "私はその意見に賛成です", "cls": "agree", "prev": null, "complete": true}
+{"text": "そういう考え方もあるけど ちょっと甘いかな", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん、いい順番だと思う", "cls": "agree", "prev": "会議の順番はこの通りです。", "complete": true}
+{"text": "安っ", "cls": "agree", "prev": "月額は300円です。", "complete": true}
+{"text": "それは無理があるでしょ", "cls": "agree", "prev": "1日で全部終わらせる予定になっています。", "complete": true}
+{"text": "ちょっと冷たい言い方に聞こえるかも", "cls": "agree", "prev": "文面は「対応できません」としました。", "complete": true}
+{"text": "好みじゃない", "cls": "agree", "prev": "候補の壁紙はこちらです。", "complete": true}
+{"text": "同感", "cls": "agree", "prev": "この時期はいつも慌ただしいです。", "complete": true}
+{"text": "あー また延期か", "cls": "empathy", "prev": "納期は来月に変更されました。", "complete": true}
+{"text": "疲れた", "cls": "empathy", "prev": "お疲れさまです。", "complete": true}
+{"text": "はぁ、それ聞きたくなかった", "cls": "empathy", "prev": "本日の返信は届いていません。", "complete": true}
+{"text": "もう3回目なんだけど この不具合", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うんと ちょっと今日は無理かも", "cls": "empathy", "prev": null, "complete": true}
+{"text": "眠い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "え また値上げ? きつ", "cls": "empathy", "prev": "来月から電気代が上がります。", "complete": true}
+{"text": "上司がさ また急に言ってくるんだよ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "頭痛い", "cls": "empathy", "prev": "おはようございます。", "complete": true}
+{"text": "うわー、間に合わないかも", "cls": "empathy", "prev": "締め切りまであと2時間です。", "complete": true}
+{"text": "こんなに待たされるとは思わなかった", "cls": "empathy", "prev": "配達は明後日になる見込みです。", "complete": true}
+{"text": "もう何もしたくない", "cls": "empathy", "prev": "明日の予定は4件です。", "complete": true}
+{"text": "はー またやり直しですか", "cls": "empathy", "prev": "先方から修正の依頼が届いています。", "complete": true}
+{"text": "あの人と話すの 正直気が重い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "腰が痛くてさ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "ずっと雨で気が滅入る", "cls": "empathy", "prev": "今週は雨が続きます。", "complete": true}
+{"text": "だるい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "ええと、だからその返事、待ってたのに来ないんだよね", "cls": "empathy", "prev": "メールはまだ届いていません。", "complete": true}
+{"text": "なんか最近寝れなくて", "cls": "empathy", "prev": null, "complete": true}
+{"text": "また残業だよ", "cls": "empathy", "prev": "会議は18時からです。", "complete": true}
+{"text": "つらい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "せっかく作ったのに全部消えた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うーん やる気出ない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "電車止まってて動けない", "cls": "empathy", "prev": "山手線は運転を見合わせています。", "complete": true}
+{"text": "お金ない", "cls": "empathy", "prev": "今月の支出は先月より2万円多いです。", "complete": true}
+{"text": "肩がガチガチ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "面接 落ちたっぽい", "cls": "empathy", "prev": "採用担当からメールが届いています。", "complete": true}
+{"text": "はぁ やっぱりダメか", "cls": "empathy", "prev": "その日は満席です。", "complete": true}
+{"text": "うんざり", "cls": "empathy", "prev": null, "complete": true}
+{"text": "風邪ひいたみたい", "cls": "empathy", "prev": "今日は気温差が大きいです。", "complete": true}
+{"text": "この暑さ、もう無理", "cls": "empathy", "prev": "今日の最高気温は37度です。", "complete": true}
+{"text": "えっと 誰にも相談できなくて", "cls": "empathy", "prev": null, "complete": true}
+{"text": "もうやめたい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "あー また私のせいにされた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "3時間も待たされたんだよ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "限界", "cls": "empathy", "prev": null, "complete": true}
+{"text": "そっか じゃあ今週も休めないんだ", "cls": "empathy", "prev": "土曜にも予定が入っています。", "complete": true}
+{"text": "泣きそう", "cls": "empathy", "prev": null, "complete": true}
+{"text": "やった 受かった", "cls": "cheer", "prev": "結果はメールで届く予定でしたね。", "complete": true}
+{"text": "できた", "cls": "cheer", "prev": "設定画面はこちらです。", "complete": true}
+{"text": "おー ちゃんと動いたよ", "cls": "cheer", "prev": "設定を保存しました。", "complete": true}
+{"text": "契約取れたよ", "cls": "cheer", "prev": "お帰りなさい。", "complete": true}
+{"text": "やっと終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "えっと、ボーナス出るって", "cls": "cheer", "prev": null, "complete": true}
+{"text": "先方がオッケーくれた", "cls": "cheer", "prev": "先方からの返事を待っている状態でしたね。", "complete": true}
+{"text": "今日はなんかいい日だ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "うん 無事に着いた", "cls": "cheer", "prev": "到着予定は12時でした。", "complete": true}
+{"text": "娘が初めて歩いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "承認もらえた", "cls": "cheer", "prev": "申請は審査中でした。", "complete": true}
+{"text": "うわ、株上がってる、やったね", "cls": "cheer", "prev": "保有銘柄は本日3パーセント上昇しています。", "complete": true}
+{"text": "5キロ痩せた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "最高", "cls": "cheer", "prev": "今日は一日晴れです。", "complete": true}
+{"text": "よし 間に合った", "cls": "cheer", "prev": "締め切りは17時でした。", "complete": true}
+{"text": "あの人 褒めてくれたんだよ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "全部片づいた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "初受注!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "ええと テストの点 過去最高でした", "cls": "cheer", "prev": null, "complete": true}
+{"text": "やったー", "cls": "cheer", "prev": "予約が取れました。", "complete": true}
+{"text": "元気になった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "うまくいったよ あのプレゼン", "cls": "cheer", "prev": "プレゼンは午前中でしたね。", "complete": true}
+{"text": "念願のマイホーム 決まった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "いいことあった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "バグ 直った", "cls": "cheer", "prev": "エラーは3件出ていました。", "complete": true}
+{"text": "遠足、晴れそうでよかった", "cls": "cheer", "prev": "土曜は晴れの予報です。", "complete": true}
+{"text": "うん 大成功", "cls": "cheer", "prev": "イベントは昨日でしたね。", "complete": true}
+{"text": "つながった!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "優勝したよ うちの子", "cls": "cheer", "prev": null, "complete": true}
+{"text": "念のため取っといたチケット 使えることになった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "採用決まった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "おいしくできた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今週の売上、目標超えた", "cls": "cheer", "prev": "今週の目標は100万円でした。", "complete": true}
+{"text": "退院できることになった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "実は昇進した", "cls": "cheer", "prev": null, "complete": true}
+{"text": "揃った!", "cls": "cheer", "prev": "部品の到着を待っていましたね。", "complete": true}
+{"text": "ゴール決めた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "ようやく返事きた", "cls": "cheer", "prev": "返信は2週間待っていました。", "complete": true}
+{"text": "あの店閉店するんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え うそ", "cls": "surprise", "prev": "明日の便は欠航になりました。", "complete": true}
+{"text": "まじで?", "cls": "surprise", "prev": "その商品は今日で販売終了です。", "complete": true}
+{"text": "え そんなに高いの", "cls": "surprise", "prev": "修理費は8万円です。", "complete": true}
+{"text": "えっ、もう来月なの", "cls": "surprise", "prev": "更新期限は来月10日です。", "complete": true}
+{"text": "うそでしょ あの人が辞めるって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "信じられない まだ5月なのに30度だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 昨日は普通に動いてたのに", "cls": "surprise", "prev": "エラーが出ています。", "complete": true}
+{"text": "へー そんなことできるんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "ほんとに?", "cls": "surprise", "prev": "今日は木曜ではなく金曜です。", "complete": true}
+{"text": "え 今日祝日なの", "cls": "surprise", "prev": "本日は祝日のため窓口は休みです。", "complete": true}
+{"text": "うわ 雪降ってる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの人、実は社長の息子だったんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 100万?", "cls": "surprise", "prev": "参加費は100万円です。", "complete": true}
+{"text": "知らなかった それ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 隣の駅にできたの あの店", "cls": "surprise", "prev": null, "complete": true}
+{"text": "なんと", "cls": "surprise", "prev": "抽選に当選しています。", "complete": true}
+{"text": "まさか二人が結婚するとは", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えー、意外", "cls": "surprise", "prev": null, "complete": true}
+{"text": "そんなに少ないの?", "cls": "surprise", "prev": "残りの在庫は2個です。", "complete": true}
+{"text": "え 消えた?", "cls": "surprise", "prev": "ファイルが見つかりません。", "complete": true}
+{"text": "うそ もうそんな時間", "cls": "surprise", "prev": "現在の時刻は17時50分です。", "complete": true}
+{"text": "ええ あの人 来週から海外なんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "びっくりした", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え、金曜だったの、締め切り", "cls": "surprise", "prev": "締め切りは金曜の正午です。", "complete": true}
+{"text": "そんな話 初耳", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっ 無料なの", "cls": "surprise", "prev": "この機能は無料です。", "complete": true}
+{"text": "はぁ? ありえない", "cls": "surprise", "prev": "予約はキャンセルされています。", "complete": true}
+{"text": "え 佐藤さん転勤?", "cls": "surprise", "prev": null, "complete": true}
+{"text": "うそ 雨予報だったのに快晴", "cls": "surprise", "prev": null, "complete": true}
+{"text": "何それ、聞いてない", "cls": "surprise", "prev": "会議は30分前倒しになりました。", "complete": true}
+{"text": "え あの映画 続編あるの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "そんなに人来るの?", "cls": "surprise", "prev": "参加者は200名の見込みです。", "complete": true}
+{"text": "へえ 今日って満月なんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え", "cls": "surprise", "prev": "残高が0円です。", "complete": true}
+{"text": "うそだろ", "cls": "surprise", "prev": "電車は3時間止まる見込みです。", "complete": true}
+{"text": "まさか", "cls": "surprise", "prev": "先方の担当者が変わったそうです。", "complete": true}
+{"text": "え 日本にいたの あの人", "cls": "surprise", "prev": null, "complete": true}
+{"text": "ほんとか それ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "ええっ、10年前のやつまだ動いてるの", "cls": "surprise", "prev": "旧システムは現在も稼働中です。", "complete": true}
+{"text": "じゃあね", "cls": "none", "prev": "また明日お知らせします。", "complete": true}
+{"text": "おやすみ", "cls": "none", "prev": "明日は6時に起こします。", "complete": true}
+{"text": "サンキュー", "cls": "none", "prev": "メールを送信しました。", "complete": true}
+{"text": "こんにちは", "cls": "none", "prev": null, "complete": true}
+{"text": "あー", "cls": "none", "prev": null, "complete": true}
+{"text": "ただいま", "cls": "none", "prev": null, "complete": true}
+{"text": "いってきます", "cls": "none", "prev": "今日は傘があると安心です。", "complete": true}
+{"text": "はいはい ありがとね", "cls": "none", "prev": "以上です。", "complete": true}
+{"text": "お疲れさま", "cls": "none", "prev": "今日の予定は以上です。", "complete": true}
+{"text": "ふー", "cls": "none", "prev": null, "complete": true}
+{"text": "助かりました、ありがとうございます", "cls": "none", "prev": "会議室を予約しました。", "complete": true}
+{"text": "よろしくね", "cls": "none", "prev": "明日もお知らせします。", "complete": true}
+{"text": "またあとで", "cls": "none", "prev": null, "complete": true}
+{"text": "おっけー ありがと", "cls": "none", "prev": "タイマーを止めました。", "complete": true}
+{"text": "うん ありがと それだけ", "cls": "none", "prev": "リストを更新しました。", "complete": true}
+{"text": "よいしょ", "cls": "none", "prev": null, "complete": true}
+{"text": "バイバイ", "cls": "none", "prev": null, "complete": true}
+{"text": "ごくろうさま", "cls": "none", "prev": null, "complete": true}
+{"text": "ん", "cls": "none", "prev": null, "complete": true}
+{"text": "どうも", "cls": "none", "prev": "資料はこちらです。", "complete": true}
+{"text": "いってくるね", "cls": "none", "prev": null, "complete": true}
+{"text": "あー ありがとありがと", "cls": "none", "prev": "アラームを解除しました。", "complete": true}
+{"text": "おはようございます", "cls": "none", "prev": null, "complete": true}
+{"text": "ええと、うん、ありがとう", "cls": "none", "prev": "以上が今日の予定です。", "complete": true}
+{"text": "ばいばい また明日", "cls": "none", "prev": "お疲れさまでした。", "complete": true}
+{"text": "感謝", "cls": "none", "prev": "領収書を保存しました。", "complete": true}
+{"text": "うぃーす", "cls": "none", "prev": null, "complete": true}
+{"text": "こんばんは", "cls": "none", "prev": null, "complete": true}
+{"text": "うーん あ なんでもない", "cls": "none", "prev": null, "complete": true}
+{"text": "おつかれ 今日もありがとう", "cls": "none", "prev": "今日のまとめは以上です。", "complete": true}
+{"text": "あ いや なんでもないです", "cls": "none", "prev": null, "complete": true}
+{"text": "いつもありがとうね", "cls": "none", "prev": null, "complete": true}
+{"text": "先に寝ます、おやすみなさい", "cls": "none", "prev": "明日の朝は冷え込みます。", "complete": true}
+{"text": "やあ", "cls": "none", "prev": null, "complete": true}
+{"text": "また来週", "cls": "none", "prev": "次回の定例は来週の月曜です。", "complete": true}
+{"text": "はー よし", "cls": "none", "prev": null, "complete": true}
+{"text": "どうもありがとう 助かる", "cls": "none", "prev": "地図を送りました。", "complete": true}
+{"text": "えっとね", "cls": "hold", "prev": "何かお手伝いしましょうか?", "complete": false}
+{"text": "あのさ 昨日の", "cls": "hold", "prev": null, "complete": false}
+{"text": "で なんか", "cls": "hold", "prev": "以上が今日のまとめです。", "complete": false}
+{"text": "来週の会議なんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "今ちょっと調べてて", "cls": "hold", "prev": "レポートの提出は明日です。", "complete": false}
+{"text": "ええと、その件について言うと", "cls": "hold", "prev": "先方からの提案は2つあります。", "complete": false}
+{"text": "うんと あの 田中さんが", "cls": "hold", "prev": null, "complete": false}
+{"text": "それでね", "cls": "hold", "prev": "はい、続きをどうぞ。", "complete": false}
+{"text": "あー あれって", "cls": "hold", "prev": null, "complete": false}
+{"text": "実はさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと待って、えっとね、あの", "cls": "hold", "prev": null, "complete": false}
+{"text": "私が思うに その値段は", "cls": "hold", "prev": "見積の合計は35万円です。", "complete": false}
+{"text": "明日なんですけど", "cls": "hold", "prev": "今日の予定は以上です。", "complete": false}
+{"text": "いや そうじゃなくて なんていうか", "cls": "hold", "prev": "では会議を火曜に移しますね。", "complete": false}
+{"text": "この前買った掃除機が", "cls": "hold", "prev": null, "complete": false}
+{"text": "なんかさ 最近", "cls": "hold", "prev": null, "complete": false}
+{"text": "うーん まあ それは", "cls": "hold", "prev": "この案が一番安く済みます。", "complete": false}
+{"text": "あ、そうだ、あとね", "cls": "hold", "prev": "予定を登録しました。", "complete": false}
+{"text": "母がね 来月", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの ちょっと聞きたいことがあって", "cls": "hold", "prev": "はい、どうぞ。", "complete": false}
+{"text": "3時からの打ち合わせのことなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "それとさ", "cls": "hold", "prev": "アラームを7時に設定しました。", "complete": false}
+{"text": "えっと 2つあって 1つ目は", "cls": "hold", "prev": null, "complete": false}
+{"text": "まず言っときたいのが", "cls": "hold", "prev": null, "complete": false}
+{"text": "うん で それが終わったら", "cls": "hold", "prev": "洗濯が終わったらお知らせしますね。", "complete": false}
+{"text": "とりあえず今週は", "cls": "hold", "prev": null, "complete": false}
+{"text": "つまりですね", "cls": "hold", "prev": "この契約は年単位です。", "complete": false}
+{"text": "そういえば、昨日言ってた", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのー 天気のことで", "cls": "hold", "prev": "今日は一日晴れです。", "complete": false}
+{"text": "上司から言われたのが", "cls": "hold", "prev": null, "complete": false}
+{"text": "ええっと あれだ あの ほら", "cls": "hold", "prev": null, "complete": false}
+{"text": "今言った件だけど もう一個", "cls": "hold", "prev": "会議室を予約しました。", "complete": false}
+{"text": "その話なんですが、実は", "cls": "hold", "prev": "山田さんは来週から復帰予定です。", "complete": false}
+{"text": "と思ってたら", "cls": "hold", "prev": null, "complete": false}
+{"text": "でさ その後", "cls": "hold", "prev": "電車は10分遅れています。", "complete": false}
+{"text": "なんだっけ あの", "cls": "hold", "prev": null, "complete": false}
+{"text": "うちの子がね", "cls": "hold", "prev": null, "complete": false}
+{"text": "本題なんだけど 来期の予算が", "cls": "hold", "prev": null, "complete": false}
+{"text": "あ 待って さっきの", "cls": "hold", "prev": "はい、メモを保存しました。", "complete": false}
+{"text": "話変わるけど 金曜", "cls": "hold", "prev": "以上です。", "complete": false}

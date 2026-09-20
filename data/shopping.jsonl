@@ -1,0 +1,514 @@
+{"text": "ありがとう 値段わかって助かった", "cls": "none", "prev": "税込で2980円です。", "complete": true}
+{"text": "じゃあまた買い物行くとき聞くね", "cls": "none", "prev": "他に知りたいことはありますか?", "complete": true}
+{"text": "こんばんは", "cls": "none", "prev": null, "complete": true}
+{"text": "おつかれ", "cls": "none", "prev": "今日の支出は合計4200円でした。", "complete": true}
+{"text": "ありがとね", "cls": "none", "prev": "家計簿に記録しました。", "complete": true}
+{"text": "ほーい", "cls": "none", "prev": null, "complete": true}
+{"text": "助かりました また相談します", "cls": "none", "prev": "サブスクの合計は月7800円になります。", "complete": true}
+{"text": "おやすみ", "cls": "none", "prev": null, "complete": true}
+{"text": "サンキュー", "cls": "none", "prev": "レジ袋も忘れないようにメモしました。", "complete": true}
+{"text": "ただいまー", "cls": "none", "prev": null, "complete": true}
+{"text": "いってきます スーパー行ってくる", "cls": "none", "prev": null, "complete": true}
+{"text": "どうもです", "cls": "none", "prev": "ポイント残高は1520ポイントです。", "complete": true}
+{"text": "あ、なんでもない", "cls": "none", "prev": "何か買い足すものはありますか?", "complete": true}
+{"text": "あーごめん間違えて話しかけた", "cls": "none", "prev": null, "complete": true}
+{"text": "よし", "cls": "none", "prev": null, "complete": true}
+{"text": "ふーん", "cls": "none", "prev": "牛乳は先週より20円上がっています。", "complete": true}
+{"text": "おはよ", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとうございました、助かります", "cls": "none", "prev": "楽天とAmazonの価格を並べました。", "complete": true}
+{"text": "じゃあね", "cls": "none", "prev": "また何かあれば呼んでください。", "complete": true}
+{"text": "バイバイ", "cls": "none", "prev": null, "complete": true}
+{"text": "うーんと いや やっぱいいや", "cls": "none", "prev": null, "complete": true}
+{"text": "教えてくれてありがとう", "cls": "none", "prev": "セールは日曜までです。", "complete": true}
+{"text": "いつもありがとね", "cls": "none", "prev": "家賃の振込を忘れずに、とメモしました。", "complete": true}
+{"text": "こんにちはー", "cls": "none", "prev": null, "complete": true}
+{"text": "あーはいはい なんでもないです", "cls": "none", "prev": null, "complete": true}
+{"text": "ごめん 独り言", "cls": "none", "prev": null, "complete": true}
+{"text": "おっけ ありがと", "cls": "none", "prev": "電気代の引き落としは27日です。", "complete": true}
+{"text": "お世話になってます", "cls": "none", "prev": null, "complete": true}
+{"text": "ほんと助かった、ありがと", "cls": "none", "prev": "返品期限は明後日までです。", "complete": true}
+{"text": "またあとで聞くわ", "cls": "none", "prev": "冷蔵庫の在庫はまだ確認できていません。", "complete": true}
+{"text": "さっきはどうも", "cls": "none", "prev": null, "complete": true}
+{"text": "了解ありがとー", "cls": "none", "prev": "クーポンを保存しました。", "complete": true}
+{"text": "じゃ お風呂入ってくる", "cls": "none", "prev": null, "complete": true}
+{"text": "うい", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとうございます じゃあそれで進めます", "cls": "none", "prev": "この銀行なら手数料無料です。", "complete": true}
+{"text": "ではまた", "cls": "none", "prev": null, "complete": true}
+{"text": "はーい ありがとー", "cls": "none", "prev": "セブンのほうが50円安いですよ。", "complete": true}
+{"text": "お疲れさまでした", "cls": "none", "prev": "今月の予算はまだ2万円残っています。", "complete": true}
+{"text": "うん それでお願い", "cls": "flow", "prev": "Amazonの一番安いほうを候補にしますか?", "complete": true}
+{"text": "そうだね そっちで", "cls": "flow", "prev": "定期便にしたほうが5%安くなります。", "complete": true}
+{"text": "はい、お願いします", "cls": "flow", "prev": "先月分の食費を集計しましょうか?", "complete": true}
+{"text": "うん", "cls": "flow", "prev": "セール通知を土曜にセットしますか?", "complete": true}
+{"text": "あー いや 今はいいや", "cls": "flow", "prev": "Netflixの解約手続きの案内を出しますか?", "complete": true}
+{"text": "そうそう そのやつ", "cls": "flow", "prev": "無印のリュックのことですか?", "complete": true}
+{"text": "だめ 高すぎ", "cls": "flow", "prev": "この時計は12万円ですが候補に入れますか?", "complete": true}
+{"text": "じゃあそれで", "cls": "flow", "prev": "予算は月3万円に設定しますか?", "complete": true}
+{"text": "うん そうして", "cls": "flow", "prev": "電気代の内訳も一緒に出しますか?", "complete": true}
+{"text": "いや いらない", "cls": "flow", "prev": "延長保証も付けますか?", "complete": true}
+{"text": "ええ、大丈夫です", "cls": "flow", "prev": "家計簿のカテゴリを「外食」にしてよいですか?", "complete": true}
+{"text": "うーん まあいっか", "cls": "flow", "prev": "送料が600円かかりますがそのままにしますか?", "complete": true}
+{"text": "お願い", "cls": "flow", "prev": "ポイントの有効期限を通知しましょうか?", "complete": true}
+{"text": "そのままで", "cls": "flow", "prev": "定期購入の数量は2のままでいいですか?", "complete": true}
+{"text": "いいですね それで", "cls": "flow", "prev": "月末に予算の残りを知らせる形にできます。", "complete": true}
+{"text": "ううん やめとく", "cls": "flow", "prev": "この服、カートに入れておきますか?", "complete": true}
+{"text": "はい", "cls": "flow", "prev": "水道代は変動費に分類しますか?", "complete": true}
+{"text": "あ、そうです", "cls": "flow", "prev": "ご希望はSサイズでしたよね?", "complete": true}
+{"text": "うん いい感じ", "cls": "flow", "prev": "候補を3つに絞りました。", "complete": true}
+{"text": "まあそれでいいや", "cls": "flow", "prev": "一番近いドラッグストアで買うのが早いと思います。", "complete": true}
+{"text": "うんうん お願いね", "cls": "flow", "prev": "来週のセール情報をまとめておきます。", "complete": true}
+{"text": "いや 結構です", "cls": "flow", "prev": "上位モデルも比較しますか?", "complete": true}
+{"text": "そうしよう", "cls": "flow", "prev": "サブスクの見直しは週末にしますか?", "complete": true}
+{"text": "了解、それでいこう", "cls": "flow", "prev": "毎月1日に予算をリセットする設定にできます。", "complete": true}
+{"text": "うん 続けて", "cls": "flow", "prev": "ここまでで食費が3万2千円です。続けますか?", "complete": true}
+{"text": "あ はいはい", "cls": "flow", "prev": "コンビニのレシートも家計簿に入れますか?", "complete": true}
+{"text": "ううん もういいよ", "cls": "flow", "prev": "他のお店の価格も見ますか?", "complete": true}
+{"text": "いいね", "cls": "flow", "prev": "ふるさと納税の上限額を一緒に計算しましょうか?", "complete": true}
+{"text": "たぶんそれで大丈夫", "cls": "flow", "prev": "iPhoneの下取り額は3万円前後と見込みます。", "complete": true}
+{"text": "うん そのつもり", "cls": "flow", "prev": "ボーナスは貯金に回す予定ですか?", "complete": true}
+{"text": "はい、そうです", "cls": "flow", "prev": "毎週日曜に家計を振り返る、ということでよろしいですか?", "complete": true}
+{"text": "どっちでもいいや", "cls": "flow", "prev": "配送は日時指定と置き配、どちらにしますか?", "complete": true}
+{"text": "うん そこで", "cls": "flow", "prev": "ヨドバシなら在庫ありです。そこにしますか?", "complete": true}
+{"text": "まあ うん", "cls": "flow", "prev": "今月は外食を少し控えたほうがよさそうです。", "complete": true}
+{"text": "いえ それは後で", "cls": "flow", "prev": "クレカの明細も読み込んでおきますか?", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "この炊飯器の値下がり通知を設定できます。", "complete": true}
+{"text": "いいよ 任せる", "cls": "flow", "prev": "生活費の内訳はこちらで整理しておきますか?", "complete": true}
+{"text": "ううん 今日はいい", "cls": "flow", "prev": "スーパーの特売チラシを見ますか?", "complete": true}
+{"text": "うん それ", "cls": "flow", "prev": "先週見ていたダイソンの掃除機のことですか?", "complete": true}
+{"text": "卵買うの覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "買い物リストに牛乳追加", "cls": "ack", "prev": "何か追加しますか?", "complete": true}
+{"text": "今月の予算3万にしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "さっきの金額もう一回言って", "cls": "ack", "prev": "合計は8640円です。", "complete": true}
+{"text": "それメモして", "cls": "ack", "prev": "この保険は年払いだと2000円安くなります。", "complete": true}
+{"text": "家計簿に今日のランチ980円って入れといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "トイレットペーパー リストから消して", "cls": "ack", "prev": null, "complete": true}
+{"text": "電気代の引き落とし日 リマインドして", "cls": "ack", "prev": null, "complete": true}
+{"text": "えっと ティッシュも追加で", "cls": "ack", "prev": "リストに洗剤を追加しました。", "complete": true}
+{"text": "タイマー10分、セールの開始まで", "cls": "ack", "prev": null, "complete": true}
+{"text": "金曜の給料日にアラーム", "cls": "ack", "prev": null, "complete": true}
+{"text": "読み上げやめて", "cls": "ack", "prev": "1つ目、ユニクロのダウンが9990円。2つ目…", "complete": true}
+{"text": "コストコの会員更新 来月って覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "予算のカテゴリ 日用品って名前に変えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今の話 日記に書いといて", "cls": "ack", "prev": "今月は食費が予算を3000円超えています。", "complete": true}
+{"text": "サブスクの一覧に Spotify 足しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "明日の朝 財布の中身確認してってリマインド", "cls": "ack", "prev": null, "complete": true}
+{"text": "ちょっと待って", "cls": "ack", "prev": "次に、通信費の内訳を出しますね。", "complete": true}
+{"text": "もう一回", "cls": "ack", "prev": "楽天のほうが送料込みで320円安いです。", "complete": true}
+{"text": "ゆっくり読んで", "cls": "ack", "prev": "以下の5件が対象です。", "complete": true}
+{"text": "洗剤の予算、月2000円で登録しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "リスト全部消して", "cls": "ack", "prev": "買い物リストには8件あります。", "complete": true}
+{"text": "来週のセール カレンダーに入れといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "声もうちょい大きく", "cls": "ack", "prev": "今月の残り予算は1万2千円です。", "complete": true}
+{"text": "今のやつ あとで見るからメモっといて", "cls": "ack", "prev": "この冷蔵庫、今日限りで15%オフです。", "complete": true}
+{"text": "お米 5キロって数量も書いといて", "cls": "ack", "prev": "リストにお米を追加しました。", "complete": true}
+{"text": "家計簿の記録 今のは取り消して", "cls": "ack", "prev": "外食に1200円を記録しました。", "complete": true}
+{"text": "今週の買い物リスト読んで", "cls": "ack", "prev": null, "complete": true}
+{"text": "買い物リストの順番 店ごとに並べ替えて", "cls": "ack", "prev": "リストは今、追加順に並んでいます。", "complete": true}
+{"text": "3日後にサブスクの解約って通知して", "cls": "ack", "prev": null, "complete": true}
+{"text": "覚えといてください、貯金の目標は50万です", "cls": "ack", "prev": null, "complete": true}
+{"text": "予算の警告 8割超えたら出るようにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "消して さっきのメモ", "cls": "ack", "prev": "メモしました。「ネットスーパーは木曜が安い」", "complete": true}
+{"text": "マイク切って ちょっと電話する", "cls": "ack", "prev": null, "complete": true}
+{"text": "今日の買い物 合計だけ読み上げて", "cls": "ack", "prev": "今日は6件の記録があります。", "complete": true}
+{"text": "あと2つ足して、醤油と味噌", "cls": "ack", "prev": "リストは4件になりました。", "complete": true}
+{"text": "30分後にネット注文の締切って言って", "cls": "ack", "prev": null, "complete": true}
+{"text": "音消して", "cls": "ack", "prev": "セール開始まであと1分です。", "complete": true}
+{"text": "記録しといて 今月のクレカは4万2千", "cls": "ack", "prev": null, "complete": true}
+{"text": "AirPods の今の値段調べて", "cls": "work", "prev": "何を調べますか?", "complete": true}
+{"text": "卵いくら", "cls": "work", "prev": null, "complete": true}
+{"text": "電気代の請求メール来てる?", "cls": "work", "prev": "今日の請求はまだ記録がありません。", "complete": true}
+{"text": "Netflix って今いくらだっけ 調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "一番安いドラム式洗濯機 探して", "cls": "work", "prev": "洗濯機の予算は15万円でしたね。", "complete": true}
+{"text": "今月のカード明細見てきて", "cls": "work", "prev": null, "complete": true}
+{"text": "ガソリン近くで安いとこどこ", "cls": "work", "prev": null, "complete": true}
+{"text": "えっと あの ふるさと納税の上限っていくらになるか調べてほしい", "cls": "work", "prev": null, "complete": true}
+{"text": "楽天のセールいつから", "cls": "work", "prev": "楽天ポイントは3200ポイントあります。", "complete": true}
+{"text": "円安どこまで来た", "cls": "work", "prev": null, "complete": true}
+{"text": "Switch の在庫ある店探して", "cls": "work", "prev": null, "complete": true}
+{"text": "米の値段 去年と比べてどう", "cls": "work", "prev": null, "complete": true}
+{"text": "その掃除機のレビュー見てみて", "cls": "work", "prev": "この掃除機は3万4千円です。", "complete": true}
+{"text": "送料込みでどこが安いか比べて", "cls": "work", "prev": "候補はヨドバシ、ビック、Amazonの3つです。", "complete": true}
+{"text": "サブスク全部でいくら払ってるか、明細から出して", "cls": "work", "prev": "サブスクは一覧に6件登録されています。", "complete": true}
+{"text": "先月の食費 家計簿アプリから引っ張ってきて", "cls": "work", "prev": null, "complete": true}
+{"text": "クーポンのメール まだ有効か見て", "cls": "work", "prev": "先週、無印から10%オフのメールが届いていました。", "complete": true}
+{"text": "ユニクロの感謝祭いつか見て", "cls": "work", "prev": null, "complete": true}
+{"text": "家賃の振込 通帳に反映されてるか確認して", "cls": "work", "prev": "家賃の振込は25日に予定として入っています。", "complete": true}
+{"text": "ガス代の平均いくら", "cls": "work", "prev": null, "complete": true}
+{"text": "これの型落ちモデル いくらで売ってる?", "cls": "work", "prev": "最新モデルは7万9800円です。", "complete": true}
+{"text": "Amazon の注文 もう発送された?", "cls": "work", "prev": "3日前に加湿器を注文していますね。", "complete": true}
+{"text": "カードの履歴で先月一番高かったのなに", "cls": "work", "prev": null, "complete": true}
+{"text": "トマト安いスーパー教えて", "cls": "work", "prev": "今週はトマトが高いようです。", "complete": true}
+{"text": "おすすめの家計簿アプリ検索して", "cls": "work", "prev": null, "complete": true}
+{"text": "メルカリで同じやついくらで出てるか見て", "cls": "work", "prev": "新品は1万2千円です。", "complete": true}
+{"text": "中古のほうも見て", "cls": "work", "prev": "新品の価格だけ調べました。", "complete": true}
+{"text": "今日のドル円", "cls": "work", "prev": null, "complete": true}
+{"text": "給料の振込 入ってるか見て", "cls": "work", "prev": "今日は給料日ですね。", "complete": true}
+{"text": "Wi-Fi のプラン、もっと安いのないか調べて", "cls": "work", "prev": "通信費は月8500円です。", "complete": true}
+{"text": "定期券 6ヶ月だといくら", "cls": "work", "prev": null, "complete": true}
+{"text": "予算超えてる月あるか 明細見て教えて", "cls": "work", "prev": "予算は月10万円に設定されています。", "complete": true}
+{"text": "全部の候補の価格 もう一回取り直して", "cls": "work", "prev": "価格は昨日時点のものです。", "complete": true}
+{"text": "iPad の整備済み 今出てる?", "cls": "work", "prev": "整備済み品は通常2割ほど安いです。", "complete": true}
+{"text": "受信料いくら", "cls": "work", "prev": null, "complete": true}
+{"text": "来月のカレンダーに引き落とし系の予定入ってる?", "cls": "work", "prev": null, "complete": true}
+{"text": "楽天ポイント今何ポイントあるか見て", "cls": "work", "prev": null, "complete": true}
+{"text": "無印今日何時まで", "cls": "work", "prev": null, "complete": true}
+{"text": "医療費控除って幾らから戻るか調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "なんで今月こんなに使ったんだろ", "cls": "think", "prev": "今月の支出は14万円です。", "complete": true}
+{"text": "サブスク どれ切るべき?", "cls": "think", "prev": "サブスクは月に9800円かかっています。", "complete": true}
+{"text": "買うべき?", "cls": "think", "prev": "このコートは今20%オフです。", "complete": true}
+{"text": "先取り貯金ってどうやるの", "cls": "think", "prev": null, "complete": true}
+{"text": "NISA ってつまり何", "cls": "think", "prev": "NISA口座の開設案内が届いています。", "complete": true}
+{"text": "高いの一個買うのと安いの何個か買うの、どっちが得だと思います?", "cls": "think", "prev": null, "complete": true}
+{"text": "節約するならまずどこから手つけたらいい", "cls": "think", "prev": null, "complete": true}
+{"text": "えっと なんで毎回予算オーバーするのか一緒に考えて", "cls": "think", "prev": null, "complete": true}
+{"text": "冷蔵庫 今買うのと年末まで待つのとどう思う", "cls": "think", "prev": null, "complete": true}
+{"text": "リボ払いって何がだめなの", "cls": "think", "prev": null, "complete": true}
+{"text": "家計簿って毎日つけたほうがいいんですか", "cls": "think", "prev": null, "complete": true}
+{"text": "この値段って妥当?", "cls": "think", "prev": "この椅子は4万8千円です。", "complete": true}
+{"text": "中古でいいかな", "cls": "think", "prev": "新品だと6万円です。", "complete": true}
+{"text": "何が違うの この二つ", "cls": "think", "prev": "上位モデルは1万円高いです。", "complete": true}
+{"text": "どうしたら無駄遣い減る?", "cls": "think", "prev": null, "complete": true}
+{"text": "ボーナス 何に使うのが賢いと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "保険って要ると思う?", "cls": "think", "prev": "医療保険の更新は来月です。", "complete": true}
+{"text": "それってお得なの", "cls": "think", "prev": "定期便にすると5%オフになります。", "complete": true}
+{"text": "どういうこと?", "cls": "think", "prev": "この価格は実質で計算しています。", "complete": true}
+{"text": "うーん まとめ買いって本当に安くなるのかな", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで送料こんな高いの", "cls": "think", "prev": "送料は1200円です。", "complete": true}
+{"text": "家賃って収入の何割くらいが普通?", "cls": "think", "prev": null, "complete": true}
+{"text": "ポイントって貯めるのと使うのどっちが得なの", "cls": "think", "prev": null, "complete": true}
+{"text": "どこ削る?", "cls": "think", "prev": "今月は残り予算が5000円です。", "complete": true}
+{"text": "説明して この手数料", "cls": "think", "prev": "為替手数料が別途かかります。", "complete": true}
+{"text": "電子マネーと現金、どっちが管理しやすいと思います?", "cls": "think", "prev": null, "complete": true}
+{"text": "自炊のほうが安いって本当なのかな", "cls": "think", "prev": null, "complete": true}
+{"text": "あのさ なんで欲しくなっちゃうんだろうね セールって", "cls": "think", "prev": null, "complete": true}
+{"text": "どっちが長持ちする?", "cls": "think", "prev": "革のと合皮のがあります。", "complete": true}
+{"text": "貯金いくらあれば安心なんだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "何がおすすめ?", "cls": "think", "prev": "3万円以内の炊飯器を絞りました。", "complete": true}
+{"text": "なんでこれが人気なの", "cls": "think", "prev": "この加湿器は売上1位です。", "complete": true}
+{"text": "月々の固定費ってどこまで下げられると思う", "cls": "think", "prev": null, "complete": true}
+{"text": "どう思う?", "cls": "think", "prev": "この靴、2足買うと2足目が半額です。", "complete": true}
+{"text": "これ買ったら後悔するかな", "cls": "think", "prev": null, "complete": true}
+{"text": "分割にする意味ってある?", "cls": "think", "prev": "24回の分割手数料は無料です。", "complete": true}
+{"text": "どっち", "cls": "think", "prev": "白と黒、どちらも在庫ありです。", "complete": true}
+{"text": "サブスクって何個までが健全だと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "教えて クレカのポイントの仕組み", "cls": "think", "prev": null, "complete": true}
+{"text": "卵 リストに入れたっけ", "cls": "check", "prev": "買い物リストは5件です。", "complete": true}
+{"text": "今月の予算 まだ残ってる?", "cls": "check", "prev": "今日は日用品に2400円使いました。", "complete": true}
+{"text": "Netflix って解約した?", "cls": "check", "prev": "サブスクの見直しをしました。", "complete": true}
+{"text": "給料日って25日だっけ", "cls": "check", "prev": "来週の予定を確認しますか?", "complete": true}
+{"text": "それ税込?", "cls": "check", "prev": "この掃除機は2万9800円です。", "complete": true}
+{"text": "送料かかる?", "cls": "check", "prev": "Amazonの価格が最安です。", "complete": true}
+{"text": "楽天のセール 今日までだっけ", "cls": "check", "prev": "ポイントは5倍になっています。", "complete": true}
+{"text": "さっきの 記録した?", "cls": "check", "prev": "ランチ代を聞きました。", "complete": true}
+{"text": "電気代 先月より高い?", "cls": "check", "prev": "電気代は9800円でした。", "complete": true}
+{"text": "これ返品できるやつ?", "cls": "check", "prev": "注文を確定しました。", "complete": true}
+{"text": "家賃って引き落とし済み?", "cls": "check", "prev": "今日は27日です。", "complete": true}
+{"text": "ポイント まだ使える?", "cls": "check", "prev": "楽天ポイントは1200ポイントあります。", "complete": true}
+{"text": "予算、3万でいい?", "cls": "check", "prev": "食費の予算を設定できます。", "complete": true}
+{"text": "あれ それ先週買ってない?", "cls": "check", "prev": "洗剤をリストに追加しました。", "complete": true}
+{"text": "保証 2年だよね", "cls": "check", "prev": "延長保証付きで注文しました。", "complete": true}
+{"text": "えっと 水道代って2ヶ月に1回だっけ", "cls": "check", "prev": "今月の固定費は6万2千円です。", "complete": true}
+{"text": "定期便 来てる?", "cls": "check", "prev": "先週の注文は届いています。", "complete": true}
+{"text": "サブスク 合計1万超えてる?", "cls": "check", "prev": "サブスクは7件登録されています。", "complete": true}
+{"text": "その値段 昨日と同じ?", "cls": "check", "prev": "この冷蔵庫は11万8千円です。", "complete": true}
+{"text": "カードの支払い 明日?", "cls": "check", "prev": "今週の予定は3件です。", "complete": true}
+{"text": "これで合ってる?", "cls": "check", "prev": "家計簿に「外食 1800円」と記録しました。", "complete": true}
+{"text": "まだ在庫ある?", "cls": "check", "prev": "先ほど見た時点で在庫は残り2でした。", "complete": true}
+{"text": "コストコの会員 切れてない?", "cls": "check", "prev": "会員の更新は毎年5月です。", "complete": true}
+{"text": "貯金 目標の半分いった?", "cls": "check", "prev": "今月は2万円を貯金に回しました。", "complete": true}
+{"text": "分割じゃなくて一括になってる?", "cls": "check", "prev": "支払い方法はクレジットカードです。", "complete": true}
+{"text": "クーポン使った?", "cls": "check", "prev": "注文の合計は4200円でした。", "complete": true}
+{"text": "あ あの iPhone の下取りって申し込んだんだっけ", "cls": "check", "prev": "新しいiPhoneは来週届く予定です。", "complete": true}
+{"text": "今週って何も買ってない?", "cls": "check", "prev": "今週の記録を見ますか?", "complete": true}
+{"text": "電気とガス 同じ会社だっけ", "cls": "check", "prev": "光熱費の内訳を出します。", "complete": true}
+{"text": "うん、それ税抜きじゃなくて?", "cls": "check", "prev": "合計は1万円ちょうどです。", "complete": true}
+{"text": "お米 まだあるっけ", "cls": "check", "prev": "買い物リストを読み上げますね。", "complete": true}
+{"text": "これ最安?", "cls": "check", "prev": "ヨドバシで3万1千円です。", "complete": true}
+{"text": "支払い 済んでる?", "cls": "check", "prev": "ガス代の請求が来ています。", "complete": true}
+{"text": "あのメモ 残ってる?", "cls": "check", "prev": "昨日の会話を整理しました。", "complete": true}
+{"text": "予算オーバーしてないよね", "cls": "check", "prev": "今日の支出は3件です。", "complete": true}
+{"text": "日曜って店休みだっけ", "cls": "check", "prev": "近所の八百屋はセール中です。", "complete": true}
+{"text": "領収書いる?", "cls": "check", "prev": "経費として記録しますか?", "complete": true}
+{"text": "それ月額?", "cls": "check", "prev": "このプランは980円です。", "complete": true}
+{"text": "手持ち いくらだっけ", "cls": "check", "prev": "現金の記録を更新しました。", "complete": true}
+{"text": "解約 間に合う?", "cls": "check", "prev": "Amazonプライムの更新日は明後日です。", "complete": true}
+{"text": "牛乳だけ買った", "cls": "understand", "prev": null, "complete": true}
+{"text": "給料入ったよ", "cls": "understand", "prev": "今日は25日ですね。", "complete": true}
+{"text": "スーパー 木曜に変えた", "cls": "understand", "prev": null, "complete": true}
+{"text": "家賃 来月から8万になる", "cls": "understand", "prev": null, "complete": true}
+{"text": "Netflix、昨日解約した", "cls": "understand", "prev": null, "complete": true}
+{"text": "今月から予算は週で管理することにした", "cls": "understand", "prev": null, "complete": true}
+{"text": "えっと コンビニでコーヒー買ったのは180円", "cls": "understand", "prev": null, "complete": true}
+{"text": "さっきの掃除機 結局ヨドバシで買った", "cls": "understand", "prev": "ヨドバシとAmazonでは価格差が少ないです。", "complete": true}
+{"text": "電気代 今月は9千円だった", "cls": "understand", "prev": "電気代の記録をしますか?", "complete": true}
+{"text": "財布に今5千円入ってる", "cls": "understand", "prev": null, "complete": true}
+{"text": "サブスク 合計で6個ある", "cls": "understand", "prev": "サブスクの一覧を作りますか?", "complete": true}
+{"text": "靴 ネットじゃなくて店で買うことにした", "cls": "understand", "prev": "ネットだと3000円安いです。", "complete": true}
+{"text": "卵は買った", "cls": "understand", "prev": "買い物リストには卵が残っています。", "complete": true}
+{"text": "妻が買い出し行った", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日ランチは弁当持ってった", "cls": "understand", "prev": null, "complete": true}
+{"text": "あのさ 冷蔵庫 来週届くことになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "貯金は毎月2万ずつにしてる", "cls": "understand", "prev": "貯金の目標を設定しますか?", "complete": true}
+{"text": "日用品はまとめて月初に買ってる", "cls": "understand", "prev": null, "complete": true}
+{"text": "楽天のセールは今回スルーした", "cls": "understand", "prev": "楽天セールは明日までです。", "complete": true}
+{"text": "光熱費はカード払いにまとめた", "cls": "understand", "prev": null, "complete": true}
+{"text": "ふるさと納税、今年は3万分やった", "cls": "understand", "prev": null, "complete": true}
+{"text": "支払い 分割にした", "cls": "understand", "prev": "支払い方法はどうしましたか?", "complete": true}
+{"text": "お米は実家から送ってもらってる", "cls": "understand", "prev": "お米の価格を調べますか?", "complete": true}
+{"text": "会社の経費で落ちるやつだった あれ", "cls": "understand", "prev": "先週の文房具代は自費で記録しています。", "complete": true}
+{"text": "明日ボーナス出る", "cls": "understand", "prev": "来月の収入予定を教えてください。", "complete": true}
+{"text": "予算は先月と同じにした", "cls": "understand", "prev": "今月の予算はどうしますか?", "complete": true}
+{"text": "なんかポイント 3000たまってた", "cls": "understand", "prev": null, "complete": true}
+{"text": "カードは2枚使い分けてます", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日は何も買ってない", "cls": "understand", "prev": "今日の支出を記録しますか?", "complete": true}
+{"text": "保険 見直して月5000円になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "満タンにした", "cls": "understand", "prev": null, "complete": true}
+{"text": "コストコは年に2回くらい行く", "cls": "understand", "prev": null, "complete": true}
+{"text": "記帳してきた", "cls": "understand", "prev": "残高の確認はできていません。", "complete": true}
+{"text": "定期便は2ヶ月に1回にしてる", "cls": "understand", "prev": "定期便の頻度を調べますか?", "complete": true}
+{"text": "ゲーム 中古で買った", "cls": "understand", "prev": "新品は6800円です。", "complete": true}
+{"text": "引き落としは27日", "cls": "understand", "prev": "カードの引き落とし日はいつですか?", "complete": true}
+{"text": "今月は外食3回だった", "cls": "understand", "prev": null, "complete": true}
+{"text": "家計簿は妻がつけてます", "cls": "understand", "prev": "家計簿の記録を始めますか?", "complete": true}
+{"text": "服はもうしばらく買わない予定", "cls": "understand", "prev": null, "complete": true}
+{"text": "うんと 今日は現金で払った", "cls": "understand", "prev": "支払い方法を記録します。", "complete": true}
+{"text": "こっちのほうが安くていいと思う", "cls": "agree", "prev": "候補は2つあります。", "complete": true}
+{"text": "やっぱ現金のほうが管理しやすい", "cls": "agree", "prev": null, "complete": true}
+{"text": "高いけど長く使えるからありだと思う", "cls": "agree", "prev": "この鍋は1万8千円です。", "complete": true}
+{"text": "その値段なら妥当だね", "cls": "agree", "prev": "この椅子は2万4千円です。", "complete": true}
+{"text": "サブスクは3つで十分", "cls": "agree", "prev": "サブスクは今5件です。", "complete": true}
+{"text": "ネットのほうが楽", "cls": "agree", "prev": null, "complete": true}
+{"text": "うーん まとめ買いは結局使い切れないんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "定期便は便利だと思います", "cls": "agree", "prev": "定期便の設定を変えますか?", "complete": true}
+{"text": "無印の収納は値段のわりに質いい", "cls": "agree", "prev": null, "complete": true}
+{"text": "この家計簿アプリ、使いやすいですね", "cls": "agree", "prev": null, "complete": true}
+{"text": "コンビニは高いから週1にしたほうがいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "今回のセールは微妙", "cls": "agree", "prev": "楽天セールが始まりました。", "complete": true}
+{"text": "保険は掛け捨てで十分だと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "貯金は先に分けとくのが正解", "cls": "agree", "prev": null, "complete": true}
+{"text": "送料払うくらいなら店行くわ", "cls": "agree", "prev": "送料は800円です。", "complete": true}
+{"text": "やっぱ型落ちで正解だった", "cls": "agree", "prev": null, "complete": true}
+{"text": "週予算にしてから楽になった気がする", "cls": "agree", "prev": null, "complete": true}
+{"text": "悪くない", "cls": "agree", "prev": "この掃除機は2万8千円、評価は4.3です。", "complete": true}
+{"text": "コスパいいと思う", "cls": "agree", "prev": "このイヤホンは9800円です。", "complete": true}
+{"text": "高すぎる それは", "cls": "agree", "prev": "このバッグは18万円です。", "complete": true}
+{"text": "安いね", "cls": "agree", "prev": "今日は卵が98円です。", "complete": true}
+{"text": "分割は結局損だと思ってて", "cls": "agree", "prev": null, "complete": true}
+{"text": "まあ それが一番現実的かな", "cls": "agree", "prev": "固定費から見直すのが早いです。", "complete": true}
+{"text": "ポイントは貯めるより使ったほうがいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "買ってよかったやつだ これ", "cls": "agree", "prev": null, "complete": true}
+{"text": "ユニクロで十分でしょ", "cls": "agree", "prev": "ブランド品だと3倍の値段です。", "complete": true}
+{"text": "その手数料は納得いかない", "cls": "agree", "prev": "振込手数料は440円です。", "complete": true}
+{"text": "便利だけど月1000円はちょっと", "cls": "agree", "prev": "このアプリの有料版は月1000円です。", "complete": true}
+{"text": "冷蔵庫は大きいほうが結局得", "cls": "agree", "prev": null, "complete": true}
+{"text": "実家のお米のほうがおいしいし安い", "cls": "agree", "prev": null, "complete": true}
+{"text": "ドラッグストアのほうが安い気がする", "cls": "agree", "prev": null, "complete": true}
+{"text": "家計簿は毎日は無理、週1でいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "微妙", "cls": "agree", "prev": "この評価は3.2です。", "complete": true}
+{"text": "うん いい買い物だったと思う", "cls": "agree", "prev": "先週のコートは3万2千円でした。", "complete": true}
+{"text": "ちょっと高い", "cls": "agree", "prev": "送料込みで5400円です。", "complete": true}
+{"text": "中古で十分だよ", "cls": "agree", "prev": "新品は4万円です。", "complete": true}
+{"text": "物価高いよね最近", "cls": "agree", "prev": null, "complete": true}
+{"text": "現金派です やっぱり", "cls": "agree", "prev": null, "complete": true}
+{"text": "これは買い", "cls": "agree", "prev": "このモニターは今日限り30%オフです。", "complete": true}
+{"text": "得だね", "cls": "agree", "prev": "まとめ買いだと1個あたり120円になります。", "complete": true}
+{"text": "今月もう金ない", "cls": "empathy", "prev": "今月の残り予算は0円です。", "complete": true}
+{"text": "全然貯まらない", "cls": "empathy", "prev": "貯金は先月から変わっていません。", "complete": true}
+{"text": "またセールで無駄遣いしちゃった", "cls": "empathy", "prev": "セールの記録を家計簿に入れました。", "complete": true}
+{"text": "電気代高すぎて泣ける", "cls": "empathy", "prev": "電気代は1万4千円でした。", "complete": true}
+{"text": "家計簿つけるの もう疲れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "えっと なんかさ 給料日まであと10日あるのに残り5千円しかない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "欲しいのに買えない", "cls": "empathy", "prev": "このカメラは15万円です。", "complete": true}
+{"text": "値上げばっかでしんどい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "財布落とした", "cls": "empathy", "prev": "現金の残高を更新しますか?", "complete": true}
+{"text": "せっかく買ったのに壊れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "しまった、返品期限過ぎてた", "cls": "empathy", "prev": "返品期限は昨日までです。", "complete": true}
+{"text": "サブスク 解約したはずなのに引き落とされてる", "cls": "empathy", "prev": "Spotifyの引き落としが今月もあります。", "complete": true}
+{"text": "うーん お金の話するの ほんと気が重い", "cls": "empathy", "prev": "今月の収支を確認しますか?", "complete": true}
+{"text": "予算オーバー 3ヶ月連続", "cls": "empathy", "prev": "今月も予算を超えています。", "complete": true}
+{"text": "あー また高いほう買っちゃった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "家賃上がるの きつい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "貯金崩すしかないかも", "cls": "empathy", "prev": null, "complete": true}
+{"text": "買い物行くの面倒", "cls": "empathy", "prev": null, "complete": true}
+{"text": "疲れた レジ混みすぎ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "生活費だけで手一杯", "cls": "empathy", "prev": null, "complete": true}
+{"text": "これ以上削るとこない", "cls": "empathy", "prev": "固定費はすでに見直し済みです。", "complete": true}
+{"text": "ボーナス出なかった", "cls": "empathy", "prev": "冬のボーナスは12月10日の予定でしたね。", "complete": true}
+{"text": "買い物袋 重すぎて腕痛い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "なんで俺ばっか払ってるんだろ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "あのさ クレカの明細見るの怖い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "安いと思って買ったら送料で高くついた", "cls": "empathy", "prev": "送料は1200円でした。", "complete": true}
+{"text": "今月の支出、見たくない", "cls": "empathy", "prev": "今月の支出を出しましょうか?", "complete": true}
+{"text": "無駄遣いやめられないんだよね", "cls": "empathy", "prev": null, "complete": true}
+{"text": "冷蔵庫壊れて出費が痛い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "貯金の目標 届く気がしない", "cls": "empathy", "prev": "目標まであと30万円です。", "complete": true}
+{"text": "高くて手が出ない", "cls": "empathy", "prev": "この時計は22万円です。", "complete": true}
+{"text": "給料下がった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うーん たぶんまた予算超えるわ", "cls": "empathy", "prev": "残り予算は3000円です。", "complete": true}
+{"text": "スーパー行ったのに卵なかった", "cls": "empathy", "prev": "卵は買い物リストに残っています。", "complete": true}
+{"text": "ポイント 期限切れてた", "cls": "empathy", "prev": "ポイントの期限は先週でした。", "complete": true}
+{"text": "お金のこと考えると寝れない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "節約してるのに減らない", "cls": "empathy", "prev": "先月と支出はほぼ同じです。", "complete": true}
+{"text": "財布の紐ゆるすぎる 自分", "cls": "empathy", "prev": null, "complete": true}
+{"text": "しんどいです、家計", "cls": "empathy", "prev": null, "complete": true}
+{"text": "値札見て諦めた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今月 予算内で収まった!", "cls": "cheer", "prev": "今月の支出は9万2千円です。", "complete": true}
+{"text": "貯金100万いった", "cls": "cheer", "prev": "貯金の記録を更新しますか?", "complete": true}
+{"text": "欲しかった靴 半額で買えた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "やった 給料上がった", "cls": "cheer", "prev": "今月の収入を教えてください。", "complete": true}
+{"text": "セールで狙ってたやつゲット", "cls": "cheer", "prev": null, "complete": true}
+{"text": "ポイントだけで買えちゃった", "cls": "cheer", "prev": "ポイントは5000ポイントありました。", "complete": true}
+{"text": "家計簿 1ヶ月続いた", "cls": "cheer", "prev": "今日で記録が30日目です。", "complete": true}
+{"text": "無駄遣いゼロの週だった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "えっと ふるさと納税の返礼品届いた うれしい", "cls": "cheer", "prev": null, "complete": true}
+{"text": "ボーナス 思ったより多かった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "電気代、先月より3000円下がった", "cls": "cheer", "prev": "電気代は6800円でした。", "complete": true}
+{"text": "返金された!", "cls": "cheer", "prev": "返品の手続きは完了しています。", "complete": true}
+{"text": "抽選当たった あのスニーカー", "cls": "cheer", "prev": null, "complete": true}
+{"text": "サブスク3つ切って月5000円浮いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "目標達成", "cls": "cheer", "prev": "貯金は目標の50万円に達しました。", "complete": true}
+{"text": "副業で初めて売れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "中古なのに新品みたいだった いい買い物", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今日レジで値引きしてもらえた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "借金完済した", "cls": "cheer", "prev": "ローンの残高は今月分で終わりです。", "complete": true}
+{"text": "冷蔵庫 想定より2万安く買えた", "cls": "cheer", "prev": "予算は12万円でしたね。", "complete": true}
+{"text": "給料日!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "株ちょっと上がってた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "節約うまくいってる", "cls": "cheer", "prev": "今月の支出は先月より15%減っています。", "complete": true}
+{"text": "買い物リスト全部消化した", "cls": "cheer", "prev": "リストは残り0件です。", "complete": true}
+{"text": "安く買えた", "cls": "cheer", "prev": "この掃除機は2万1千円でした。", "complete": true}
+{"text": "妻に家計の報告したら褒められた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "NISA 初めての配当来た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "値下げ通知きたから即ポチった、やったー", "cls": "cheer", "prev": "モニターの値下げ通知を出しました。", "complete": true}
+{"text": "クーポン間に合った", "cls": "cheer", "prev": "クーポンの期限は今日までです。", "complete": true}
+{"text": "外食ゼロで1週間乗り切った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "臨時収入あった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "あのさ 欲しかった炊飯器 誕生日にもらえた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "うまくいった 固定費の見直し", "cls": "cheer", "prev": "固定費の見直し案を出しました。", "complete": true}
+{"text": "通った 住宅ローンの審査", "cls": "cheer", "prev": null, "complete": true}
+{"text": "ラッキー ポイント10倍だった", "cls": "cheer", "prev": "楽天でポイント10倍のキャンペーン中です。", "complete": true}
+{"text": "今週の食費 予算の半分で済んだ", "cls": "cheer", "prev": "今週の食費は5200円です。", "complete": true}
+{"text": "最安で買えたわ", "cls": "cheer", "prev": "比較した中で最安は楽天でした。", "complete": true}
+{"text": "家計簿アプリ ようやく使いこなせてきた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "貯金増えてた", "cls": "cheer", "prev": "先月より貯金が3万円増えています。", "complete": true}
+{"text": "やった 在庫復活してた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "え 卵そんな高いの", "cls": "surprise", "prev": "卵は1パック398円です。", "complete": true}
+{"text": "うそ また値上げ?", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの店 閉店するらしいよ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 電気代2万超えてんだけど", "cls": "surprise", "prev": "電気代は2万1千円です。", "complete": true}
+{"text": "マジで? 送料無料じゃないの", "cls": "surprise", "prev": "送料は別途980円です。", "complete": true}
+{"text": "知らなかった ポイントって期限あるんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "まさか値下がりしてるとは", "cls": "surprise", "prev": "先週より4000円安くなっています。", "complete": true}
+{"text": "え それ去年より倍?", "cls": "surprise", "prev": "ガソリンは1リットル198円です。", "complete": true}
+{"text": "うわ こんなに使ってた?", "cls": "surprise", "prev": "今月の外食費は4万8千円です。", "complete": true}
+{"text": "嘘でしょ、サブスク9個もある", "cls": "surprise", "prev": "サブスクは9件登録されています。", "complete": true}
+{"text": "ほんとに? 今日で終わり?", "cls": "surprise", "prev": "セールは本日までです。", "complete": true}
+{"text": "あの掃除機 もう生産終了なんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 消費税上がるの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "マジか コストコ会費上がったんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "びっくりした 家賃の更新料こんなするんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっ それ無料なの", "cls": "surprise", "prev": "この家計簿アプリは無料です。", "complete": true}
+{"text": "え 売り切れ?", "cls": "surprise", "prev": "在庫はなくなりました。", "complete": true}
+{"text": "知らなかった そんな制度あるんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "へー 意外と安いんだ", "cls": "surprise", "prev": "この保険は月1200円です。", "complete": true}
+{"text": "なにそれ 手数料取られるの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え あの人も家計簿つけてるんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "まさか俺のカード 限度額超えてた?", "cls": "surprise", "prev": "決済が拒否されました。", "complete": true}
+{"text": "信じられない 米が5キロ4千円", "cls": "surprise", "prev": null, "complete": true}
+{"text": "ええ あのブランドが半額?", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 弟が車買ったって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "3倍?", "cls": "surprise", "prev": "この商品は去年の3倍の価格です。", "complete": true}
+{"text": "え 給料日ずれるの", "cls": "surprise", "prev": "今月の給料日は土曜なので前倒しで金曜になります。", "complete": true}
+{"text": "もう引かれてる?", "cls": "surprise", "prev": "家賃は昨日引き落とされました。", "complete": true}
+{"text": "うわ 円安ここまで来てたんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "まじで そのアプリ有料になったの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え うちの近所にコストコできるの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "意外 コンビニのほうが安いんだ", "cls": "surprise", "prev": "この商品はコンビニのほうが20円安いです。", "complete": true}
+{"text": "え もう入ってる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっ そんな安いの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "なんと あのサブスク終了だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "二重に請求されてる?", "cls": "surprise", "prev": "同じ金額が2回記録されています。", "complete": true}
+{"text": "へえ そんなに貯まってたんだ", "cls": "surprise", "prev": "ポイントは1万2千ポイントあります。", "complete": true}
+{"text": "うわ", "cls": "surprise", "prev": "今月の赤字は3万円です。", "complete": true}
+{"text": "まさか あの値段で売れたの", "cls": "surprise", "prev": "メルカリで出品したカメラが8万円で売れました。", "complete": true}
+{"text": "えー そんなに払ってたの 通信費", "cls": "surprise", "prev": null, "complete": true}
+{"text": "いや違う 牛乳じゃなくて豆乳", "cls": "correct", "prev": "買い物リストに牛乳を追加しました。", "complete": true}
+{"text": "そうじゃなくて 税抜きの値段", "cls": "correct", "prev": "税込で3280円です。", "complete": true}
+{"text": "違う 楽天のほう", "cls": "correct", "prev": "Amazonの価格は1万2千円です。", "complete": true}
+{"text": "3万じゃなくて3千", "cls": "correct", "prev": "予算を3万円に設定しました。", "complete": true}
+{"text": "あ それ先月の話", "cls": "correct", "prev": "今月の電気代は9800円ですね。", "complete": true}
+{"text": "さっき言ったのは Netflix じゃなくて Hulu", "cls": "correct", "prev": "Netflixの解約手続きを案内します。", "complete": true}
+{"text": "いや、食費じゃなくて日用品に入れて", "cls": "correct", "prev": "食費に1500円を記録しました。", "complete": true}
+{"text": "ちがうちがう 25日じゃなくて15日", "cls": "correct", "prev": "給料日は25日として登録しました。", "complete": true}
+{"text": "卵じゃなくて卵焼き器ね", "cls": "correct", "prev": "卵を買い物リストに追加しました。", "complete": true}
+{"text": "えっと ドル円じゃなくてユーロ", "cls": "correct", "prev": "ドル円は1ドル158円です。", "complete": true}
+{"text": "解約じゃなくてプラン変更", "cls": "correct", "prev": "Spotifyを解約する手順を出します。", "complete": true}
+{"text": "違います、ヨドバシの新宿", "cls": "correct", "prev": "ヨドバシ秋葉原の在庫を調べました。", "complete": true}
+{"text": "いや そのバッグじゃない 黒いほう", "cls": "correct", "prev": "茶色のバッグは4万2千円です。", "complete": true}
+{"text": "週じゃなくて月の予算", "cls": "correct", "prev": "週の予算は7000円です。", "complete": true}
+{"text": "削除じゃなくて追加って言った", "cls": "correct", "prev": "洗剤をリストから削除しました。", "complete": true}
+{"text": "うんと 私が言ったのは去年の家賃", "cls": "correct", "prev": "今の家賃は8万5千円ですね。", "complete": true}
+{"text": "2個じゃなくて2箱", "cls": "correct", "prev": "ティッシュを2個追加しました。", "complete": true}
+{"text": "円じゃなくてポイント", "cls": "correct", "prev": "残高は1500円です。", "complete": true}
+{"text": "違う 支出じゃなくて収入", "cls": "correct", "prev": "今月の支出は22万円です。", "complete": true}
+{"text": "いやいや 返品じゃなくて交換", "cls": "correct", "prev": "返品の期限は明後日までです。", "complete": true}
+{"text": "それ妻のカードのほう", "cls": "correct", "prev": "あなたのカードの明細です。", "complete": true}
+{"text": "半額じゃなくて2割引きって言ったんだけど", "cls": "correct", "prev": "半額で記録しました。", "complete": true}
+{"text": "違う 来週じゃない 来月", "cls": "correct", "prev": "来週のセールをカレンダーに入れました。", "complete": true}
+{"text": "あー ごめん ガス代じゃなくて水道代", "cls": "correct", "prev": "ガス代は4200円でした。", "complete": true}
+{"text": "一括じゃなくて分割", "cls": "correct", "prev": "一括払いで注文を進めます。", "complete": true}
+{"text": "そっちじゃなくて中古のほう", "cls": "correct", "prev": "新品の価格は5万9800円です。", "complete": true}
+{"text": "貯金じゃなくて投資に回すって言った", "cls": "correct", "prev": "ボーナスは貯金に回すと記録しました。", "complete": true}
+{"text": "間違えてる それ先週のセール", "cls": "correct", "prev": "今週のセールは10%オフです。", "complete": true}
+{"text": "違う、無印じゃなくてニトリ", "cls": "correct", "prev": "無印の収納ケースは1990円です。", "complete": true}
+{"text": "5キロじゃない 10キロ", "cls": "correct", "prev": "お米5キロを追加しました。", "complete": true}
+{"text": "木曜じゃなくて金曜の特売", "cls": "correct", "prev": "木曜の特売は卵とパンです。", "complete": true}
+{"text": "あの 電気代の話はしてなくて 通信費", "cls": "correct", "prev": "電気代の内訳を出しますね。", "complete": true}
+{"text": "万じゃなくて千円", "cls": "correct", "prev": "予算を5万円で設定しました。", "complete": true}
+{"text": "リスト違う 日用品のほう", "cls": "correct", "prev": "食材リストに追加しました。", "complete": true}
+{"text": "違う 聞いてるのは去年の年収", "cls": "correct", "prev": "今年の年収は見込みで480万円です。", "complete": true}
+{"text": "いや 私じゃなくて夫のサブスク", "cls": "correct", "prev": "あなたのサブスクは5件です。", "complete": true}
+{"text": "送料じゃなく手数料", "cls": "correct", "prev": "送料は無料です。", "complete": true}
+{"text": "朝じゃなくて夜", "cls": "correct", "prev": "明日の朝、給料日のリマインドをセットしました。", "complete": true}
+{"text": "2980円じゃなくて2890円", "cls": "correct", "prev": "2980円で記録しました。", "complete": true}
+{"text": "それ 注文じゃなくてカートに入れるだけって言った", "cls": "correct", "prev": "注文を確定しました。", "complete": true}
+{"text": "えっとね 今月のお金のことなんだけど", "cls": "hold", "prev": "今月の予算はまだ2万円残っています。", "complete": false}
+{"text": "あのさ 昨日買った掃除機が", "cls": "hold", "prev": null, "complete": false}
+{"text": "で なんか", "cls": "hold", "prev": "今月の支出は先月より1万円多いです。", "complete": false}
+{"text": "サブスクの話なんですけど", "cls": "hold", "prev": "サブスクは6件登録されています。", "complete": false}
+{"text": "うんと 楽天でさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの、ちょっと家計簿のことで", "cls": "hold", "prev": null, "complete": false}
+{"text": "卵と あと", "cls": "hold", "prev": "買い物リストに何を追加しますか?", "complete": false}
+{"text": "今日スーパー行ったら", "cls": "hold", "prev": "今日の買い物を記録しますか?", "complete": false}
+{"text": "それでね 給料日が", "cls": "hold", "prev": "給料日は25日ですね。", "complete": false}
+{"text": "予算のことなんだけどさ ちょっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "えー あのー 電気代がですね", "cls": "hold", "prev": null, "complete": false}
+{"text": "ボーナスが出たらなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "あー あれ なんだっけ あの冷蔵庫の", "cls": "hold", "prev": null, "complete": false}
+{"text": "昨日ネットで注文したやつがさ", "cls": "hold", "prev": "昨日の注文は加湿器ですね。", "complete": false}
+{"text": "保険の見直しをしてて", "cls": "hold", "prev": "保険料は月8000円です。", "complete": false}
+{"text": "なんかさ コンビニで", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと相談があって お金の", "cls": "hold", "prev": null, "complete": false}
+{"text": "妻と話してたんだけど、家計を", "cls": "hold", "prev": null, "complete": false}
+{"text": "いやさ ポイントがね", "cls": "hold", "prev": "ポイントは3200ポイントあります。", "complete": false}
+{"text": "買い物リスト 牛乳と", "cls": "hold", "prev": "リストは空です。", "complete": false}
+{"text": "来月から家賃が えっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの Netflix なんですけど あれって", "cls": "hold", "prev": "動画のサブスクは2件あります。", "complete": false}
+{"text": "給料が なんていうか", "cls": "hold", "prev": "今月の収入を記録しますか?", "complete": false}
+{"text": "うーんと 値段がね たしか", "cls": "hold", "prev": "この掃除機の価格を知りたいのですね。", "complete": false}
+{"text": "財布の中身を見てたら", "cls": "hold", "prev": null, "complete": false}
+{"text": "で その店員さんがさ", "cls": "hold", "prev": "無印で買い物をしたのですね。", "complete": false}
+{"text": "貯金なんだけど 目標を", "cls": "hold", "prev": null, "complete": false}
+{"text": "あー 待って それより先に", "cls": "hold", "prev": "では今月の支出をまとめます。", "complete": false}
+{"text": "えっとですね クレジットカードの", "cls": "hold", "prev": null, "complete": false}
+{"text": "送料が なんかね", "cls": "hold", "prev": "送料は無料と表示されています。", "complete": false}
+{"text": "あの 去年の今ごろ買った", "cls": "hold", "prev": null, "complete": false}
+{"text": "スーパーで見たんだけど あれが", "cls": "hold", "prev": null, "complete": false}
+{"text": "光熱費がさ 今月", "cls": "hold", "prev": "光熱費の内訳を出しますか?", "complete": false}
+{"text": "新しいイヤホンが欲しくて それで", "cls": "hold", "prev": null, "complete": false}
+{"text": "家計簿つけてたら気づいたんだけど", "cls": "hold", "prev": "家計簿の記録は今日で20日目です。", "complete": false}
+{"text": "ちょっと待って えーっと あの店", "cls": "hold", "prev": null, "complete": false}
+{"text": "お米の値段がさ あの", "cls": "hold", "prev": "お米の価格を調べますか?", "complete": false}
+{"text": "実はさ カードが", "cls": "hold", "prev": null, "complete": false}
+{"text": "うんとね 明日買い物行くから", "cls": "hold", "prev": "明日の予定は空いています。", "complete": false}
+{"text": "あれだ ふるさと納税の", "cls": "hold", "prev": null, "complete": false}

@@ -1,0 +1,505 @@
+{"text": "おはよー 今日も暑いね", "cls": "none", "prev": null, "complete": true}
+{"text": "じゃあまたね", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみー", "cls": "none", "prev": "今日もお疲れさまでした。", "complete": true}
+{"text": "えーっと いや なんでもない", "cls": "none", "prev": null, "complete": true}
+{"text": "ただいま", "cls": "none", "prev": null, "complete": true}
+{"text": "おつかれさま", "cls": "none", "prev": "今日の予定はこれで全部終わりました。", "complete": true}
+{"text": "ありがとね じゃ寝るわ", "cls": "none", "prev": "夜は冷えるので暖かくしてくださいね。", "complete": true}
+{"text": "はいはい", "cls": "none", "prev": null, "complete": true}
+{"text": "こんばんは", "cls": "none", "prev": null, "complete": true}
+{"text": "ごめんごめん 今のなし", "cls": "none", "prev": null, "complete": true}
+{"text": "うーん まいっか", "cls": "none", "prev": null, "complete": true}
+{"text": "あー", "cls": "none", "prev": null, "complete": true}
+{"text": "よし", "cls": "none", "prev": null, "complete": true}
+{"text": "おはようございます、今日もよろしくお願いします", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとうございます 参考になりました", "cls": "none", "prev": "桜の見頃は来週あたりですね。", "complete": true}
+{"text": "お疲れ様でした また明日", "cls": "none", "prev": "ではまた明日、お話ししましょう。", "complete": true}
+{"text": "いってきます", "cls": "none", "prev": null, "complete": true}
+{"text": "あ ごめん 間違えて呼んだ", "cls": "none", "prev": null, "complete": true}
+{"text": "どうも", "cls": "none", "prev": null, "complete": true}
+{"text": "なんでもないです 気にしないで", "cls": "none", "prev": "何か聞こえた気がしましたが、呼びましたか?", "complete": true}
+{"text": "ばいばーい", "cls": "none", "prev": null, "complete": true}
+{"text": "あー眠", "cls": "none", "prev": null, "complete": true}
+{"text": "ふーん", "cls": "none", "prev": "今日の東京は最高気温が32度でした。", "complete": true}
+{"text": "ういっす", "cls": "none", "prev": null, "complete": true}
+{"text": "今日もありがとう 楽しかった", "cls": "none", "prev": "秋の話、楽しかったですね。", "complete": true}
+{"text": "お世話様です", "cls": "none", "prev": null, "complete": true}
+{"text": "あ もういいや", "cls": "none", "prev": "続きを聞かせてもらえますか?", "complete": true}
+{"text": "うん ありがと", "cls": "none", "prev": "夕方は風が冷たくなるので上着があるといいですよ。", "complete": true}
+{"text": "ハロー", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみなさい、良い夢を", "cls": "none", "prev": "おやすみなさい。", "complete": true}
+{"text": "じゃ また後で話すね", "cls": "none", "prev": "紅葉の話はまた今度にしましょうか。", "complete": true}
+{"text": "ごちそうさま", "cls": "none", "prev": null, "complete": true}
+{"text": "さむ", "cls": "none", "prev": null, "complete": true}
+{"text": "まあいいか ありがとうね", "cls": "none", "prev": "すみません、その日の記録は残っていませんでした。", "complete": true}
+{"text": "お いたいた", "cls": "none", "prev": null, "complete": true}
+{"text": "あ えっと いや やっぱいいや", "cls": "none", "prev": "はい、どうしました?", "complete": true}
+{"text": "あけましておめでとう", "cls": "none", "prev": null, "complete": true}
+{"text": "うん", "cls": "flow", "prev": "今日の出来事、聞かせてもらえますか?", "complete": true}
+{"text": "そうだね", "cls": "flow", "prev": "秋になると夜が長く感じますよね。", "complete": true}
+{"text": "上野のほうで", "cls": "flow", "prev": "上野と目黒、どちらの桜の話にしますか?", "complete": true}
+{"text": "うんうん 続けて", "cls": "flow", "prev": "紅葉の話、もう少し続けてもいいですか?", "complete": true}
+{"text": "あーうん そんな感じ", "cls": "flow", "prev": "つまり、朝から雨で気分が上がらなかったということですか?", "complete": true}
+{"text": "まあね", "cls": "flow", "prev": "今週は忙しかったんじゃないですか?", "complete": true}
+{"text": "そう それそれ", "cls": "flow", "prev": "昨日話していた喫茶店のことですか?", "complete": true}
+{"text": "いや 今日はいいや", "cls": "flow", "prev": "夕焼けの写真、見せましょうか?", "complete": true}
+{"text": "うん、そうしよう", "cls": "flow", "prev": "明日の朝、もう一度天気の話をしましょうか?", "complete": true}
+{"text": "はい 大丈夫です", "cls": "flow", "prev": "少し長くなりますが、続けてもいいですか?", "complete": true}
+{"text": "どっちでもいいよ", "cls": "flow", "prev": "夏の話と冬の話、どちらがいいですか?", "complete": true}
+{"text": "じゃあ冬で", "cls": "flow", "prev": "海の話と雪の話、どちらにしましょう?", "complete": true}
+{"text": "ううん まだ", "cls": "flow", "prev": "衣替えはもう済ませましたか?", "complete": true}
+{"text": "うん した", "cls": "flow", "prev": "扇風機はもうしまいましたか?", "complete": true}
+{"text": "えっと たぶんそう", "cls": "flow", "prev": "花粉症は毎年この時期からですか?", "complete": true}
+{"text": "そうそう", "cls": "flow", "prev": "先週の花火大会のことですよね?", "complete": true}
+{"text": "いえ けっこうです", "cls": "flow", "prev": "秋のおすすめスポット、いくつか挙げましょうか?", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "今日の話、日記にも残しておきましょうか?", "complete": true}
+{"text": "うん それで合ってる", "cls": "flow", "prev": "昨日は横浜に行ったんでしたよね?", "complete": true}
+{"text": "はいはい そうです", "cls": "flow", "prev": "お昼はおそばだったんですね?", "complete": true}
+{"text": "あ いいね それで", "cls": "flow", "prev": "今日の夕飯はカレーにしましょうか?", "complete": true}
+{"text": "うーん やめとく", "cls": "flow", "prev": "夜の散歩の話、もっと聞きましょうか?", "complete": true}
+{"text": "ん まあそうかな", "cls": "flow", "prev": "今年の夏は去年より暑く感じますか?", "complete": true}
+{"text": "うん ちょっとだけ", "cls": "flow", "prev": "今日はお疲れですか?", "complete": true}
+{"text": "そうですね ではそれで", "cls": "flow", "prev": "では週末の話は土曜に改めて、ということでいいですか?", "complete": true}
+{"text": "オッケー", "cls": "flow", "prev": "次は春の話にしますね。", "complete": true}
+{"text": "いいよいいよ", "cls": "flow", "prev": "話が少し脱線してもいいですか?", "complete": true}
+{"text": "うん聞いてる", "cls": "flow", "prev": "聞いていますか?", "complete": true}
+{"text": "いや 別に", "cls": "flow", "prev": "何か気になることでもありましたか?", "complete": true}
+{"text": "なんでもいいよ", "cls": "flow", "prev": "どの季節の話から始めましょうか?", "complete": true}
+{"text": "ないない", "cls": "flow", "prev": "今日は何か良いことありましたか?", "complete": true}
+{"text": "はい そうでした", "cls": "flow", "prev": "確か先週は鎌倉に行かれたんですよね?", "complete": true}
+{"text": "うん、だいたいそんな感じ", "cls": "flow", "prev": "今日は在宅で、夕方に散歩に出た、ということですね。", "complete": true}
+{"text": "あ はい", "cls": "flow", "prev": "今の話、メモしておきますね。", "complete": true}
+{"text": "まあねえ", "cls": "flow", "prev": "秋は食べ物がおいしい季節ですよね。", "complete": true}
+{"text": "ううん 違わないよ それで", "cls": "flow", "prev": "間違っていたら教えてください。", "complete": true}
+{"text": "いいね", "cls": "flow", "prev": "週末は紅葉を見に行くのはどうでしょう。", "complete": true}
+{"text": "うん それがいい", "cls": "flow", "prev": "暑いので、朝のうちに出かけるのはどうですか?", "complete": true}
+{"text": "えー どうしよっかな うん やる", "cls": "flow", "prev": "今日の振り返り、してみますか?", "complete": true}
+{"text": "もう一回言って", "cls": "ack", "prev": "今日は昼から急に冷え込むそうです。", "complete": true}
+{"text": "ちょっと静かにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "今の話 メモしといて", "cls": "ack", "prev": "散歩で見つけたパン屋さん、いいですね。", "complete": true}
+{"text": "声、もうちょっとゆっくりにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "今日の夕日きれいだったって日記に書いといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "話題変えて", "cls": "ack", "prev": "台風の進路ですが、", "complete": true}
+{"text": "5分たったら教えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今のなし 忘れて", "cls": "ack", "prev": "来週の旅行は北海道、と覚えておきますね。", "complete": true}
+{"text": "桜見に行ったってこと覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "えっとさ 来年の夏は北海道って 覚えておいて", "cls": "ack", "prev": null, "complete": true}
+{"text": "さっきの話 もっかい聞かせて", "cls": "ack", "prev": "紅葉の見頃は今週末までだそうです。", "complete": true}
+{"text": "続けて", "cls": "ack", "prev": "この続き、聞きますか?", "complete": true}
+{"text": "ストップ", "cls": "ack", "prev": null, "complete": true}
+{"text": "ちょい待って", "cls": "ack", "prev": null, "complete": true}
+{"text": "明日の朝も同じ時間に起こして", "cls": "ack", "prev": null, "complete": true}
+{"text": "今の感想、あとで読めるようにしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "声大きくして", "cls": "ack", "prev": null, "complete": true}
+{"text": "今日は暑いって メモ", "cls": "ack", "prev": null, "complete": true}
+{"text": "言い方 もっと砕けた感じにして", "cls": "ack", "prev": "本日は快晴でございますね。", "complete": true}
+{"text": "敬語やめていいよ", "cls": "ack", "prev": "承知いたしました。", "complete": true}
+{"text": "音楽止めて", "cls": "ack", "prev": null, "complete": true}
+{"text": "あーちょっと 話すの止めて", "cls": "ack", "prev": "そして三つ目ですが、秋の味覚といえば", "complete": true}
+{"text": "30秒後にもう一回聞いて", "cls": "ack", "prev": "今日はどんな一日でしたか?", "complete": true}
+{"text": "今の話 来週思い出させて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今年は柿が当たり年ってメモっといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "さっきの雑談 消して", "cls": "ack", "prev": "会話は記録しています。", "complete": true}
+{"text": "一回黙って", "cls": "ack", "prev": null, "complete": true}
+{"text": "もっと短く話して", "cls": "ack", "prev": "紅葉の色づきは気温差が大きいほど鮮やかになると言われていて、", "complete": true}
+{"text": "名前で呼んで", "cls": "ack", "prev": null, "complete": true}
+{"text": "私の好きな季節は秋ね 覚えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "画面消して", "cls": "ack", "prev": null, "complete": true}
+{"text": "昼休みになったら声かけて", "cls": "ack", "prev": null, "complete": true}
+{"text": "あとで話すから これ保留にしといて", "cls": "ack", "prev": "花見の場所、どこにしますか?", "complete": true}
+{"text": "うんと、今日の日付 読み上げて", "cls": "ack", "prev": null, "complete": true}
+{"text": "明日の朝 傘持ってけって言って", "cls": "ack", "prev": "明日は午後から雨ですよ。", "complete": true}
+{"text": "もう寝るから おやすみモードにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "表示 大きくして", "cls": "ack", "prev": null, "complete": true}
+{"text": "明日の天気教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の最高気温何度だった?", "cls": "work", "prev": null, "complete": true}
+{"text": "紅葉の見頃 今年いつぐらい?", "cls": "work", "prev": null, "complete": true}
+{"text": "週末雨降るか見といて", "cls": "work", "prev": "週末は出かける予定なんですね。", "complete": true}
+{"text": "今日のニュースなんかある?", "cls": "work", "prev": null, "complete": true}
+{"text": "桜の開花予想 調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "今週の予定教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "えっと 今日って何の日?", "cls": "work", "prev": null, "complete": true}
+{"text": "近所の花火大会 日程調べて", "cls": "work", "prev": "花火、楽しみですね。", "complete": true}
+{"text": "花粉 今日多い?", "cls": "work", "prev": null, "complete": true}
+{"text": "台風 今どこにいる?", "cls": "work", "prev": null, "complete": true}
+{"text": "昨日の夜のニュース 何かあった?", "cls": "work", "prev": null, "complete": true}
+{"text": "来週の気温、去年と比べてどう?", "cls": "work", "prev": "来週から急に冷えるそうですよ。", "complete": true}
+{"text": "明日の日の出何時?", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の月 何時に出る?", "cls": "work", "prev": "今夜は月がきれいに見えそうです。", "complete": true}
+{"text": "今年の梅雨入り いつだった?", "cls": "work", "prev": null, "complete": true}
+{"text": "今日どこか祭りやってる?", "cls": "work", "prev": null, "complete": true}
+{"text": "今週末の予定 空いてる?", "cls": "work", "prev": "紅葉狩りに行くならそろそろですね。", "complete": true}
+{"text": "あの、さっき話した喫茶店 営業時間調べて", "cls": "work", "prev": "駅前の喫茶店、良さそうですね。", "complete": true}
+{"text": "今夜 流星群見えるらしいけど何時ごろ?", "cls": "work", "prev": null, "complete": true}
+{"text": "今の気温", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の湿度は?", "cls": "work", "prev": null, "complete": true}
+{"text": "冬至って今年何日?", "cls": "work", "prev": null, "complete": true}
+{"text": "洗濯物 今日乾く?", "cls": "work", "prev": null, "complete": true}
+{"text": "東京の初雪 去年いつだった?", "cls": "work", "prev": "今年は雪が早いかもしれませんね。", "complete": true}
+{"text": "紫外線 今日どのくらい?", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の夕焼け、きれいに見える時間帯調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "明日の予定 全部読み上げて", "cls": "work", "prev": null, "complete": true}
+{"text": "話題のニュース 3つくらい教えて", "cls": "work", "prev": "今日は何の話をしましょうか?", "complete": true}
+{"text": "今日の運勢見て", "cls": "work", "prev": null, "complete": true}
+{"text": "ゴールデンウィークの混雑、どんな感じか調べて", "cls": "work", "prev": "連休はどこかに行かれますか?", "complete": true}
+{"text": "天気予報", "cls": "work", "prev": null, "complete": true}
+{"text": "明日 傘いる?", "cls": "work", "prev": null, "complete": true}
+{"text": "今日の花粉飛散量", "cls": "work", "prev": null, "complete": true}
+{"text": "来月の連休 いつ?", "cls": "work", "prev": null, "complete": true}
+{"text": "今週のカレンダー見せて", "cls": "work", "prev": "今週は予定が多めですね。", "complete": true}
+{"text": "今日の日没", "cls": "work", "prev": null, "complete": true}
+{"text": "うんと 今年の夏の平均気温 調べてもらえる?", "cls": "work", "prev": "今年の夏は本当に暑かったですね。", "complete": true}
+{"text": "なんで秋って寂しく感じるんだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "夏と冬どっちが好き?", "cls": "think", "prev": null, "complete": true}
+{"text": "どう思う?", "cls": "think", "prev": "今日は夕方から風が強くなりそうです。", "complete": true}
+{"text": "桜ってなんであんな一斉に咲くの", "cls": "think", "prev": null, "complete": true}
+{"text": "今日みたいな日って何して過ごすのがいいと思う?", "cls": "think", "prev": "今日は一日雨ですね。", "complete": true}
+{"text": "梅雨ってなんであるの", "cls": "think", "prev": null, "complete": true}
+{"text": "説明して", "cls": "think", "prev": "今夜はスーパームーンですよ。", "complete": true}
+{"text": "紅葉ってなんで赤くなるの?", "cls": "think", "prev": null, "complete": true}
+{"text": "雪の日ってどうしてあんな静かなんだろうね", "cls": "think", "prev": null, "complete": true}
+{"text": "衣替え いつがいいと思う?", "cls": "think", "prev": "来週から最高気温が20度を下回りそうです。", "complete": true}
+{"text": "台風の名前ってどうやって決まるの", "cls": "think", "prev": "台風14号が近づいています。", "complete": true}
+{"text": "冬の朝がつらいの どうしたらいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "花火ってなんで夏なんだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "蝉ってさ なんであんな短い命なの", "cls": "think", "prev": null, "complete": true}
+{"text": "春一番って何?", "cls": "think", "prev": "今日は春一番が吹きましたね。", "complete": true}
+{"text": "今日の空 なんて色って言えばいいと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "どっちがいい?", "cls": "think", "prev": "今週末は上野も目黒も桜が見頃です。", "complete": true}
+{"text": "秋の味覚で一番なんだと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "正月ってなんでおもち食べるの?", "cls": "think", "prev": null, "complete": true}
+{"text": "三寒四温ってどういう意味", "cls": "think", "prev": "この時期は三寒四温と言いますね。", "complete": true}
+{"text": "夕焼けが赤いのってなんで", "cls": "think", "prev": null, "complete": true}
+{"text": "雨の匂いって何の匂いなの", "cls": "think", "prev": null, "complete": true}
+{"text": "今日一日 どうだったと思う?", "cls": "think", "prev": "今日は予定を三つこなしましたね。", "complete": true}
+{"text": "夏バテしないコツってある?", "cls": "think", "prev": null, "complete": true}
+{"text": "星がきれいに見える条件って何", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで", "cls": "think", "prev": "今日は洗濯物が乾きにくいかもしれません。", "complete": true}
+{"text": "どういうこと?", "cls": "think", "prev": "今日は一年で一番昼が短い日です。", "complete": true}
+{"text": "昔の人って冬どうやって暖とってたんだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "花見ってさ いつからある習慣なの", "cls": "think", "prev": null, "complete": true}
+{"text": "今日の気分に合う季節の言葉 何かある?", "cls": "think", "prev": null, "complete": true}
+{"text": "気圧で頭痛くなるのってなんで?", "cls": "think", "prev": "今日は低気圧が通過します。", "complete": true}
+{"text": "猫が冬にまるくなるのってなんでだろうね", "cls": "think", "prev": null, "complete": true}
+{"text": "なんでだろ", "cls": "think", "prev": "今年は柿の実りがいいそうですよ。", "complete": true}
+{"text": "春っていいよね なんでだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "雷ってなんで光ってから音がくるの", "cls": "think", "prev": null, "complete": true}
+{"text": "一年で一番いい季節っていつだと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "月がでかく見える日ってなんで?", "cls": "think", "prev": null, "complete": true}
+{"text": "初詣って行くべきだと思う?", "cls": "think", "prev": "年末年始の予定はどうしますか?", "complete": true}
+{"text": "どうして?", "cls": "think", "prev": "今日は日差しが強いので日焼けに注意です。", "complete": true}
+{"text": "雪 好き?", "cls": "think", "prev": null, "complete": true}
+{"text": "明日って雨だっけ", "cls": "check", "prev": "今週は水曜から天気が崩れます。", "complete": true}
+{"text": "今日って祝日?", "cls": "check", "prev": "おはようございます、今日は月曜日です。", "complete": true}
+{"text": "さっきの話 メモした?", "cls": "check", "prev": "今日のことは覚えておきますね。", "complete": true}
+{"text": "今日何日だっけ", "cls": "check", "prev": "おはようございます。", "complete": true}
+{"text": "桜 もう散った?", "cls": "check", "prev": "先週末が満開でしたね。", "complete": true}
+{"text": "今週末って予定入ってたっけ", "cls": "check", "prev": "週末は紅葉が見頃です。", "complete": true}
+{"text": "えっと 夕方から雨って言ってた?", "cls": "check", "prev": "今日は午後から曇りです。", "complete": true}
+{"text": "今年って猛暑って言ってたよね", "cls": "check", "prev": "夏の予報が出ました。", "complete": true}
+{"text": "明日の最高気温、30度超える?", "cls": "check", "prev": "明日は暑くなりそうです。", "complete": true}
+{"text": "今夜 月見えるんだっけ", "cls": "check", "prev": "今日は中秋の名月です。", "complete": true}
+{"text": "花火大会 来週の土曜であってる?", "cls": "check", "prev": "花火大会の予定を入れておきました。", "complete": true}
+{"text": "台風 今週来るんだっけ", "cls": "check", "prev": "台風が北上しています。", "complete": true}
+{"text": "私の誕生日 覚えてる?", "cls": "check", "prev": "来月は誕生日ですね。", "complete": true}
+{"text": "昨日って横浜行ったって言ったよね", "cls": "check", "prev": "昨日はお出かけでしたね。", "complete": true}
+{"text": "今日の湿度 高いんだっけ", "cls": "check", "prev": "今日は蒸し暑くなりそうです。", "complete": true}
+{"text": "傘いる?", "cls": "check", "prev": "今日は夕方に小雨があるかもしれません。", "complete": true}
+{"text": "立春ってもう過ぎた?", "cls": "check", "prev": "暦の上ではもう春ですね。", "complete": true}
+{"text": "あれ 今日水曜だっけ", "cls": "check", "prev": "明日はゴミの日です。", "complete": true}
+{"text": "昨日の話 日記に書いた?", "cls": "check", "prev": "昨日は鎌倉の話をしましたね。", "complete": true}
+{"text": "今 何時?", "cls": "check", "prev": "そろそろお昼ですね。", "complete": true}
+{"text": "洗濯物 まだ干せる?", "cls": "check", "prev": "午後は晴れ間が出ます。", "complete": true}
+{"text": "明日のお花見 10時集合でいい?", "cls": "check", "prev": "明日のお花見、楽しみですね。", "complete": true}
+{"text": "紅葉 まだ間に合う?", "cls": "check", "prev": "紅葉は今週がピークでした。", "complete": true}
+{"text": "昨日より寒い?", "cls": "check", "prev": "今日の最低気温は5度です。", "complete": true}
+{"text": "今の話 聞こえてた?", "cls": "check", "prev": "はい、聞いていますよ。", "complete": true}
+{"text": "花粉 もう終わったよね?", "cls": "check", "prev": "スギ花粉のピークは3月でした。", "complete": true}
+{"text": "週末 晴れるって言った?", "cls": "check", "prev": "週末の天気は変わりやすいです。", "complete": true}
+{"text": "お盆って来週からだっけ", "cls": "check", "prev": "来週は帰省ラッシュが始まります。", "complete": true}
+{"text": "今日の夕日 何時って言ってたっけ", "cls": "check", "prev": "今日の夕焼けはきれいに見えそうです。", "complete": true}
+{"text": "雪 積もった?", "cls": "check", "prev": "夜中に雪が降ったようです。", "complete": true}
+{"text": "先週の暑さ、記録更新したんだっけ", "cls": "check", "prev": "先週は観測史上でも上位の暑さでした。", "complete": true}
+{"text": "覚えてる?", "cls": "check", "prev": "先週は北海道の話をしましたね。", "complete": true}
+{"text": "今日在宅って言ったよね 私", "cls": "check", "prev": "今日は在宅ですか?", "complete": true}
+{"text": "春分の日って明日?", "cls": "check", "prev": "もうすぐ春分ですね。", "complete": true}
+{"text": "さっき晴れてたよね?", "cls": "check", "prev": "今は雨が降っています。", "complete": true}
+{"text": "今って梅雨明けした?", "cls": "check", "prev": "今日は晴れて暑くなります。", "complete": true}
+{"text": "気温 昨日と同じくらい?", "cls": "check", "prev": "今日の最高気温は22度です。", "complete": true}
+{"text": "夏至って今日だっけ", "cls": "check", "prev": "今日は日が長いですね。", "complete": true}
+{"text": "あの喫茶店 日曜休みだっけ", "cls": "check", "prev": "駅前の喫茶店に行かれるんですね。", "complete": true}
+{"text": "あってる?", "cls": "check", "prev": "昨日の話は、鎌倉に行かれたということでしたね。", "complete": true}
+{"text": "さっき散歩してきた", "cls": "understand", "prev": "今日はいい天気ですね。", "complete": true}
+{"text": "今日 上着なしで出た", "cls": "understand", "prev": null, "complete": true}
+{"text": "昼はそばにした", "cls": "understand", "prev": "お昼は何にしましたか?", "complete": true}
+{"text": "今朝は6時に起きた", "cls": "understand", "prev": null, "complete": true}
+{"text": "衣替え 昨日やったよ", "cls": "understand", "prev": "そろそろ衣替えの時期ですね。", "complete": true}
+{"text": "週末は実家帰る", "cls": "understand", "prev": null, "complete": true}
+{"text": "今年の桜 もう咲いてたよ", "cls": "understand", "prev": null, "complete": true}
+{"text": "えっと 今日は電車で行った", "cls": "understand", "prev": "今日は雨でしたね。", "complete": true}
+{"text": "今日はコンビニでアイス買った", "cls": "understand", "prev": null, "complete": true}
+{"text": "夕方ちょっと雨降ってた", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日は暖房入れた", "cls": "understand", "prev": "朝は冷えましたね。", "complete": true}
+{"text": "来週から新しいプロジェクト", "cls": "understand", "prev": null, "complete": true}
+{"text": "昨日は早めに寝た", "cls": "understand", "prev": "昨日はお疲れでしたか?", "complete": true}
+{"text": "今日の昼 外食だった", "cls": "understand", "prev": null, "complete": true}
+{"text": "帰りに本屋寄ってきた", "cls": "understand", "prev": null, "complete": true}
+{"text": "今 ベランダで話してる", "cls": "understand", "prev": "外の音が聞こえますね。", "complete": true}
+{"text": "うんと 今日は駅まで歩いた", "cls": "understand", "prev": null, "complete": true}
+{"text": "午後は会議が2本あった", "cls": "understand", "prev": "今日はどんな一日でしたか?", "complete": true}
+{"text": "明日は10時から病院", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日は一日中家にいた", "cls": "understand", "prev": null, "complete": true}
+{"text": "秋物 そろそろ出した", "cls": "understand", "prev": "朝晩は涼しくなってきましたね。", "complete": true}
+{"text": "今日 初めてマフラーした", "cls": "understand", "prev": null, "complete": true}
+{"text": "昨日の夜 雷なってたよ", "cls": "understand", "prev": null, "complete": true}
+{"text": "今日はカフェで仕事してた", "cls": "understand", "prev": "今日はどこで過ごしましたか?", "complete": true}
+{"text": "朝 霜降りてた", "cls": "understand", "prev": null, "complete": true}
+{"text": "来月 引っ越す", "cls": "understand", "prev": null, "complete": true}
+{"text": "弟が帰省してきた", "cls": "understand", "prev": "お盆はどう過ごしますか?", "complete": true}
+{"text": "今日は自転車で行った", "cls": "understand", "prev": null, "complete": true}
+{"text": "今年は花粉症の薬 飲み始めた", "cls": "understand", "prev": "花粉が飛び始めましたね。", "complete": true}
+{"text": "昼寝した", "cls": "understand", "prev": "午後は何をしていましたか?", "complete": true}
+{"text": "今日 扇風機しまった", "cls": "understand", "prev": null, "complete": true}
+{"text": "夜は鍋にする", "cls": "understand", "prev": "今夜は冷えますよ。", "complete": true}
+{"text": "今週は残業なし", "cls": "understand", "prev": null, "complete": true}
+{"text": "昨日 近所の神社行ってきた", "cls": "understand", "prev": "お正月はどうでしたか?", "complete": true}
+{"text": "今日は朝からずっと曇ってた", "cls": "understand", "prev": null, "complete": true}
+{"text": "母と電話した", "cls": "understand", "prev": null, "complete": true}
+{"text": "明日は早番", "cls": "understand", "prev": "明日の予定を教えてください。", "complete": true}
+{"text": "傘持ってった", "cls": "understand", "prev": "今日は雨の予報でしたね。", "complete": true}
+{"text": "今日みたいな気温がちょうどいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "秋が一番好き", "cls": "agree", "prev": "好きな季節はありますか?", "complete": true}
+{"text": "やっぱ冬は鍋だよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "今年の夏 暑すぎだと思う", "cls": "agree", "prev": "今年の夏は平年より2度高いそうです。", "complete": true}
+{"text": "朝の空気って気持ちいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "桜は夜より昼のほうがいい", "cls": "agree", "prev": "夜桜のライトアップも始まっていますよ。", "complete": true}
+{"text": "冷房 やっぱ27度が正解だわ", "cls": "agree", "prev": null, "complete": true}
+{"text": "雨の日も嫌いじゃない", "cls": "agree", "prev": "今日は一日雨ですね。", "complete": true}
+{"text": "今日の夕焼け、今年一番だった気がする", "cls": "agree", "prev": null, "complete": true}
+{"text": "梅雨は正直つらいけど あの緑は好き", "cls": "agree", "prev": null, "complete": true}
+{"text": "春より秋のほうが過ごしやすいと思うんだよね", "cls": "agree", "prev": "春と秋、どちらがお好きですか?", "complete": true}
+{"text": "あの喫茶店 コーヒーはいまいち", "cls": "agree", "prev": "駅前の喫茶店に行かれたんですね。", "complete": true}
+{"text": "冬の朝は布団から出るべきじゃない", "cls": "agree", "prev": null, "complete": true}
+{"text": "花火は遠くから見るのがいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "今日の空 きれい", "cls": "agree", "prev": null, "complete": true}
+{"text": "個人的には猛暑より極寒のほうがまし", "cls": "agree", "prev": "暑いのと寒いの、どちらが苦手ですか?", "complete": true}
+{"text": "やっぱ紅葉は京都だよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "半袖はまだ早いと思う", "cls": "agree", "prev": "今日は日中25度まで上がります。", "complete": true}
+{"text": "そば正解だった", "cls": "agree", "prev": null, "complete": true}
+{"text": "夏の夜って最高だよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "今週の気候 ちょうどよかったね", "cls": "agree", "prev": "今週は過ごしやすい日が続きました。", "complete": true}
+{"text": "電車で行くほうが楽だわ", "cls": "agree", "prev": "車と電車、どちらで行きますか?", "complete": true}
+{"text": "今年の柿 甘くておいしい", "cls": "agree", "prev": null, "complete": true}
+{"text": "スーパームーンって言うほどでかくないよね", "cls": "agree", "prev": "今夜はスーパームーンですよ。", "complete": true}
+{"text": "正直 正月って退屈", "cls": "agree", "prev": null, "complete": true}
+{"text": "秋の夕方はちょっと切なくていい", "cls": "agree", "prev": null, "complete": true}
+{"text": "早起きって気持ちいいね", "cls": "agree", "prev": "今日は早起きでしたね。", "complete": true}
+{"text": "傘は折りたたみに限る", "cls": "agree", "prev": null, "complete": true}
+{"text": "雪はきれいだけど通勤は困る", "cls": "agree", "prev": "明日は積雪の恐れがあります。", "complete": true}
+{"text": "今日は歩いて正解だった", "cls": "agree", "prev": null, "complete": true}
+{"text": "春一番って名前がいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "桜より梅のほうが好きかも", "cls": "agree", "prev": "梅が咲き始めましたね。", "complete": true}
+{"text": "いい天気", "cls": "agree", "prev": null, "complete": true}
+{"text": "あったかいお茶がおいしい季節だね", "cls": "agree", "prev": null, "complete": true}
+{"text": "夕方の風 気持ちよかった", "cls": "agree", "prev": "散歩はどうでしたか?", "complete": true}
+{"text": "私はやっぱり海より山", "cls": "agree", "prev": "夏は海と山、どちらに行きたいですか?", "complete": true}
+{"text": "冬はやっぱ夜が長すぎる", "cls": "agree", "prev": null, "complete": true}
+{"text": "蝉の声って夏って感じでいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "ですよね", "cls": "agree", "prev": "今日は日差しが強いので日焼けに注意です。", "complete": true}
+{"text": "寒いの苦手", "cls": "agree", "prev": "冬はお好きですか?", "complete": true}
+{"text": "暑くて全然眠れなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "花粉がひどくて目がかゆい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今日は疲れた", "cls": "empathy", "prev": "おかえりなさい。", "complete": true}
+{"text": "蒸し暑くてやる気でない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "電車が遅れて遅刻した", "cls": "empathy", "prev": "今朝はどうでしたか?", "complete": true}
+{"text": "洗濯物 雨で全部やり直し", "cls": "empathy", "prev": null, "complete": true}
+{"text": "頭痛い たぶん気圧", "cls": "empathy", "prev": "今日は低気圧が近づいています。", "complete": true}
+{"text": "寒くて朝起きれなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今日 傘忘れてずぶ濡れ", "cls": "empathy", "prev": "夕方から雨でしたね。", "complete": true}
+{"text": "手荒れがひどいんだよね この時期", "cls": "empathy", "prev": null, "complete": true}
+{"text": "夏バテで食欲ない", "cls": "empathy", "prev": "お昼は何にしますか?", "complete": true}
+{"text": "週末 雨で花見流れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "蚊に刺されまくった", "cls": "empathy", "prev": "夜の散歩はどうでしたか?", "complete": true}
+{"text": "今日 上司に怒られてさ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今年の冬 暖房代やばい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "夕方から頭がぼーっとする", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うんと 今日なんか何もうまくいかなかった", "cls": "empathy", "prev": "今日はどんな一日でしたか?", "complete": true}
+{"text": "帰りの電車 ぎゅうぎゅうだった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "眠い 寝不足", "cls": "empathy", "prev": null, "complete": true}
+{"text": "台風で予定が全部飛んだ", "cls": "empathy", "prev": "台風が直撃しましたね。", "complete": true}
+{"text": "気温差でだるい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "一日中会議で疲れた", "cls": "empathy", "prev": "お疲れさまでした。", "complete": true}
+{"text": "あー もう暑いの無理", "cls": "empathy", "prev": null, "complete": true}
+{"text": "日焼けして肌ひりひりする", "cls": "empathy", "prev": "海はどうでしたか?", "complete": true}
+{"text": "風邪ひいたっぽい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今日も残業になった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "布団干したのに雨", "cls": "empathy", "prev": "午後から雨が降ってきましたね。", "complete": true}
+{"text": "せっかくの休みなのに雨", "cls": "empathy", "prev": null, "complete": true}
+{"text": "乾燥で喉痛い", "cls": "empathy", "prev": "今日は空気が乾燥しています。", "complete": true}
+{"text": "桜見に行ったら人多すぎて何も見えなかった", "cls": "empathy", "prev": "お花見はどうでしたか?", "complete": true}
+{"text": "冬は暗くなるの早くて気分落ちる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今日は財布忘れて何も買えなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "寒い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "暑い", "cls": "empathy", "prev": "今日は35度まで上がります。", "complete": true}
+{"text": "だるい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "帰り雨に降られた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "花見の場所取り 朝5時からしてた つらい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "昨日から腰が痛い", "cls": "empathy", "prev": "今日の調子はどうですか?", "complete": true}
+{"text": "冷房効きすぎて寒い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "今日 桜満開だった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "発表 無事終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今日は定時で帰れた", "cls": "cheer", "prev": "おかえりなさい、早いですね。", "complete": true}
+{"text": "初雪見れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "花火 すごくきれいだった", "cls": "cheer", "prev": "花火大会はどうでしたか?", "complete": true}
+{"text": "今朝 富士山見えた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "ダイエット 2キロ減った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "朝顔咲いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今日 電車座れた", "cls": "cheer", "prev": "今朝の通勤はどうでしたか?", "complete": true}
+{"text": "週末 晴れるって!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "洗濯物ちゃんと乾いた", "cls": "cheer", "prev": "今日は洗濯日和でしたね。", "complete": true}
+{"text": "昨日のプレゼン 褒められた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "半年ぶりに友達に会えた", "cls": "cheer", "prev": "週末はどう過ごしましたか?", "complete": true}
+{"text": "冬のボーナス出た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "やっと梅雨明けた!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "育ててたトマト 初収穫", "cls": "cheer", "prev": "ベランダのトマト、どうですか?", "complete": true}
+{"text": "今日 全部の予定こなせた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "猫が膝に乗ってきた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "うんと さっき虹見えた", "cls": "cheer", "prev": "雨、上がりましたね。", "complete": true}
+{"text": "花粉 今年は軽い", "cls": "cheer", "prev": "花粉の季節ですね、調子はどうですか?", "complete": true}
+{"text": "桜の写真 うまく撮れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "財布 見つかった", "cls": "cheer", "prev": "財布、まだ見つかりませんか?", "complete": true}
+{"text": "早起きできた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今日は気分いい", "cls": "cheer", "prev": null, "complete": true}
+{"text": "連休 取れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "新しい上着 めっちゃあったかい", "cls": "cheer", "prev": "今日は冷え込みましたね。", "complete": true}
+{"text": "夏休みの旅行 決まった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "初めて作った鍋 うまくできた", "cls": "cheer", "prev": "夕飯はどうでしたか?", "complete": true}
+{"text": "通勤の桜並木 咲き始めてた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "雨 やんだ", "cls": "cheer", "prev": "今日は一日雨の予報でした。", "complete": true}
+{"text": "誕生日 みんな覚えててくれた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "今日 風邪治った", "cls": "cheer", "prev": "体調はどうですか?", "complete": true}
+{"text": "大掃除終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "3日連続で散歩続いてる", "cls": "cheer", "prev": null, "complete": true}
+{"text": "冬至のゆず湯 最高", "cls": "cheer", "prev": "今日は冬至ですね。", "complete": true}
+{"text": "今年の初詣 おみくじ大吉", "cls": "cheer", "prev": null, "complete": true}
+{"text": "息子が自転車乗れるようになった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "やった 明日休み", "cls": "cheer", "prev": "明日の予定は入っていません。", "complete": true}
+{"text": "駅前の本屋 閉店するんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 今日雪降ってる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "明日 雪だって", "cls": "surprise", "prev": "明日の予報を確認しますか?", "complete": true}
+{"text": "10月なのに30度あるらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "桜 もう咲いてるんだけど 2月だよ?", "cls": "surprise", "prev": null, "complete": true}
+{"text": "隣の家 引っ越したらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "今年 梅雨ないかもって", "cls": "surprise", "prev": "そろそろ梅雨入りの時期ですね。", "complete": true}
+{"text": "うそ もう10月", "cls": "surprise", "prev": "今日から10月ですね。", "complete": true}
+{"text": "昨日の夜 地震あったらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの喫茶店 実は50年やってるんだって", "cls": "surprise", "prev": "駅前の喫茶店の話ですね。", "complete": true}
+{"text": "富士山 今日初冠雪って", "cls": "surprise", "prev": null, "complete": true}
+{"text": "台風 明日直撃?", "cls": "surprise", "prev": null, "complete": true}
+{"text": "電車 全線止まってる", "cls": "surprise", "prev": "今朝の通勤はどうですか?", "complete": true}
+{"text": "花粉 今年は去年の3倍だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "気づいたらもう年末", "cls": "surprise", "prev": null, "complete": true}
+{"text": "蝉って土の中に7年いるらしいよ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "今日のニュースで うちの近所出てた", "cls": "surprise", "prev": "今日のニュースを見ましたか?", "complete": true}
+{"text": "同僚が急に会社辞めるらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "スーパーのアイス もう売り切れてた", "cls": "surprise", "prev": "今日は暑いですね。", "complete": true}
+{"text": "まさかの 今日ハロウィンだった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "12月なのに桜咲いてるところあるらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの公園 なくなるんだって", "cls": "surprise", "prev": "散歩はいつもの公園ですか?", "complete": true}
+{"text": "昨日会った人 有名な人だったらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "今年の夏 観測史上一番暑かったんだって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "え 今日ってもう金曜?", "cls": "surprise", "prev": "今日は金曜日です。", "complete": true}
+{"text": "うちの猫 雪初めて見て固まってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "明日から急に冬になるって", "cls": "surprise", "prev": "明日の最高気温は12度です。", "complete": true}
+{"text": "去年の今日 こんなに寒くなかったよね 5度も違うって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "近所のパン屋 テレビに出てた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "夜中に雷でびっくりして起きた", "cls": "surprise", "prev": "昨夜はよく眠れましたか?", "complete": true}
+{"text": "桜が咲いた翌日に雪って", "cls": "surprise", "prev": null, "complete": true}
+{"text": "満月 今夜だって知らなかった", "cls": "surprise", "prev": "今夜は満月ですよ。", "complete": true}
+{"text": "お隣さん 実は同じ会社だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "今年 閏年だったんだ", "cls": "surprise", "prev": "今日は2月29日です。", "complete": true}
+{"text": "母から突然 今から来るって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "電車の中で高校の友達に会った", "cls": "surprise", "prev": null, "complete": true}
+{"text": "うそでしょ", "cls": "surprise", "prev": "明日は最高気温が38度の予報です。", "complete": true}
+{"text": "まじで?", "cls": "surprise", "prev": "今夜は流星群が見られるそうですよ。", "complete": true}
+{"text": "冬なのに蚊がいた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "隣の駅 桜祭り今日だったらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "いや違う 月曜のほう", "cls": "correct", "prev": "火曜日の予定は3件あります。", "complete": true}
+{"text": "そうじゃなくて 昨日の話", "cls": "correct", "prev": "今日は一日、晴れでしたね。", "complete": true}
+{"text": "違う違う 上野じゃなくて井の頭", "cls": "correct", "prev": "上野の桜は今が見頃です。", "complete": true}
+{"text": "さっき言ったのは夕焼けじゃなくて朝焼け", "cls": "correct", "prev": "夕焼けがきれいだったんですね。", "complete": true}
+{"text": "いや 暑いんじゃなくて寒いって言った", "cls": "correct", "prev": "今日は暑かったんですね。", "complete": true}
+{"text": "違うよ 鎌倉", "cls": "correct", "prev": "横浜に行かれたんですね。", "complete": true}
+{"text": "あー そうじゃなくて 桜の話", "cls": "correct", "prev": "紅葉の見頃は11月ですね。", "complete": true}
+{"text": "いや 秋じゃない 春の話", "cls": "correct", "prev": "秋の花粉は少なめです。", "complete": true}
+{"text": "えっと 明日じゃなくて明後日", "cls": "correct", "prev": "明日は午後から雨です。", "complete": true}
+{"text": "猫じゃなくて犬ね", "cls": "correct", "prev": "猫ちゃん、寒がっているんですね。", "complete": true}
+{"text": "ううん 私が行ったんじゃなくて妹", "cls": "correct", "prev": "京都の紅葉、楽しめましたか?", "complete": true}
+{"text": "それ先週の話じゃん 今週の話してる", "cls": "correct", "prev": "先週の土曜は雨でしたね。", "complete": true}
+{"text": "雨じゃなくて雪", "cls": "correct", "prev": "昨日は雨が降ったんですね。", "complete": true}
+{"text": "6時じゃなくて5時に起きたの", "cls": "correct", "prev": "今朝は6時起きだったんですね。", "complete": true}
+{"text": "いやいや 暖房じゃなくて冷房", "cls": "correct", "prev": "暖房をつけたんですね。", "complete": true}
+{"text": "誕生日 8月じゃなくて9月", "cls": "correct", "prev": "8月のお誕生日、覚えておきますね。", "complete": true}
+{"text": "花火じゃなくて花見って言ったんだけど", "cls": "correct", "prev": "花火大会の話ですね。", "complete": true}
+{"text": "うーん ちょっと違う 好きなのは秋の朝", "cls": "correct", "prev": "秋の夕方がお好きなんですね。", "complete": true}
+{"text": "いや 旅行のほう", "cls": "correct", "prev": "明日から出張ですね。", "complete": true}
+{"text": "そうじゃない 聞きたいのは明日の気温", "cls": "correct", "prev": "今日の気温は25度です。", "complete": true}
+{"text": "違うって 北海道じゃなくて北陸", "cls": "correct", "prev": "北海道は雪が多いですよね。", "complete": true}
+{"text": "私じゃなくて母の話", "cls": "correct", "prev": "腰の調子は大丈夫ですか?", "complete": true}
+{"text": "電車じゃなくて自転車で行ったの", "cls": "correct", "prev": "電車は混んでいましたか?", "complete": true}
+{"text": "いや それ去年", "cls": "correct", "prev": "今年の夏は海に行かれたんですね。", "complete": true}
+{"text": "名前違う そばじゃなくてうどん", "cls": "correct", "prev": "お昼はおそばだったんですね。", "complete": true}
+{"text": "ちがうちがう 聞いてるのは日の出の時間", "cls": "correct", "prev": "今日の日没は17時12分です。", "complete": true}
+{"text": "あ ごめん 私が言い間違えた 火曜じゃなくて木曜", "cls": "correct", "prev": "火曜日にお花見ですね。", "complete": true}
+{"text": "三日月だってば", "cls": "correct", "prev": "満月がきれいだったんですね。", "complete": true}
+{"text": "傘は持ってった", "cls": "correct", "prev": "傘を忘れて大変でしたね。", "complete": true}
+{"text": "えっと 上着じゃなくてマフラー", "cls": "correct", "prev": "初めて上着を着た日ですね。", "complete": true}
+{"text": "そうじゃなくて 聞いてるのは週末のほう", "cls": "correct", "prev": "明日は晴れです。", "complete": true}
+{"text": "違う 30度じゃなくて13度", "cls": "correct", "prev": "30度は暑いですね。", "complete": true}
+{"text": "あの それ私の話じゃない", "cls": "correct", "prev": "引っ越し、大変でしたね。", "complete": true}
+{"text": "逆 寒くて眠れなかったの", "cls": "correct", "prev": "暑くて眠れなかったんですね。", "complete": true}
+{"text": "いや 散歩じゃなくてランニング", "cls": "correct", "prev": "朝の散歩、気持ちよかったでしょうね。", "complete": true}
+{"text": "東京じゃなくて京都の紅葉ね", "cls": "correct", "prev": "東京の紅葉は12月が見頃です。", "complete": true}
+{"text": "違う 来週じゃなくて来月", "cls": "correct", "prev": "来週の連休ですね。", "complete": true}
+{"text": "言い直すね 初雪じゃなくて初霜", "cls": "correct", "prev": "初雪が降ったんですね。", "complete": true}
+{"text": "ううん そこじゃない 駅前のほうのパン屋", "cls": "correct", "prev": "公園のそばのパン屋さんですね。", "complete": true}
+{"text": "いや違う", "cls": "correct", "prev": "今日は休日でしたね。", "complete": true}
+{"text": "あのさ 今日さ", "cls": "hold", "prev": "今日はどうでしたか?", "complete": false}
+{"text": "で なんか", "cls": "hold", "prev": "それで、どうなったんですか?", "complete": false}
+{"text": "今日会社でね", "cls": "hold", "prev": null, "complete": false}
+{"text": "昨日の夜のことなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "うんと この前話した喫茶店が", "cls": "hold", "prev": "駅前の喫茶店ですね。", "complete": false}
+{"text": "今朝起きたらさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "そういえば 来週の", "cls": "hold", "prev": null, "complete": false}
+{"text": "あ あとね", "cls": "hold", "prev": "覚えておきますね。", "complete": false}
+{"text": "桜がね 今日", "cls": "hold", "prev": null, "complete": false}
+{"text": "帰り道にね 駅前で", "cls": "hold", "prev": "おかえりなさい。", "complete": false}
+{"text": "えっと なんだっけ あの", "cls": "hold", "prev": null, "complete": false}
+{"text": "週末なんだけど さ", "cls": "hold", "prev": "週末の予定はありますか?", "complete": false}
+{"text": "今日の昼にね", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと聞いてほしいことがあって", "cls": "hold", "prev": null, "complete": false}
+{"text": "実はさ", "cls": "hold", "prev": "何かありましたか?", "complete": false}
+{"text": "母がね 電話してきて", "cls": "hold", "prev": null, "complete": false}
+{"text": "今年の夏なんだけど", "cls": "hold", "prev": "夏の予定はもう決まりましたか?", "complete": false}
+{"text": "さっき外出たらね", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのー 天気のことで", "cls": "hold", "prev": null, "complete": false}
+{"text": "それでね その後", "cls": "hold", "prev": "電車が遅れたんですね。", "complete": false}
+{"text": "夕方に散歩しててね", "cls": "hold", "prev": null, "complete": false}
+{"text": "なんかね 今日", "cls": "hold", "prev": "はい、どうしました?", "complete": false}
+{"text": "あ そうそう 忘れてた あの", "cls": "hold", "prev": "他に何かありますか?", "complete": false}
+{"text": "台風の日にさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "花粉のことなんだけどさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "昨日テレビ見ててさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "通勤の電車でね", "cls": "hold", "prev": "今朝はどうでしたか?", "complete": false}
+{"text": "今週ずっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "うーんと 猫が", "cls": "hold", "prev": "猫ちゃんはどうしていますか?", "complete": false}
+{"text": "あのね 冬になると", "cls": "hold", "prev": null, "complete": false}
+{"text": "先週の花火大会のときに", "cls": "hold", "prev": "花火大会、行かれたんですよね。", "complete": false}
+{"text": "朝ご飯食べながら思ったんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "話変わるんだけど", "cls": "hold", "prev": "紅葉の見頃は来週までです。", "complete": false}
+{"text": "一つ言い忘れてて", "cls": "hold", "prev": "では今日はこのへんで。", "complete": false}
+{"text": "雪降った日のことなんだけど えっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "春になったらさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "昼休みにね 同僚と", "cls": "hold", "prev": "お昼はどうでしたか?", "complete": false}
+{"text": "こないだの旅行で", "cls": "hold", "prev": null, "complete": false}
+{"text": "今日はね なんか", "cls": "hold", "prev": null, "complete": false}

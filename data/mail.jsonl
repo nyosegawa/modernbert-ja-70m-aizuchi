@@ -1,0 +1,514 @@
+{"text": "新着メールある?", "cls": "work", "prev": null, "complete": true}
+{"text": "未読ある?", "cls": "work", "prev": null, "complete": true}
+{"text": "田中さんからのメール探して", "cls": "work", "prev": null, "complete": true}
+{"text": "えっと、先週の請求書のメール見つけてほしいんだけど", "cls": "work", "prev": null, "complete": true}
+{"text": "新着確認して", "cls": "work", "prev": "他に何かありますか?", "complete": true}
+{"text": "山本部長に返信しといて、来週の月曜で大丈夫ですって", "cls": "work", "prev": "山本部長から日程調整のメールが届いています。", "complete": true}
+{"text": "今日届いたメール全部読み上げて", "cls": "work", "prev": null, "complete": true}
+{"text": "佐々木さんに送って 資料の件了解しましたって", "cls": "work", "prev": null, "complete": true}
+{"text": "メール検索", "cls": "work", "prev": null, "complete": true}
+{"text": "経理からのメールってどれだっけ 探してくれる", "cls": "work", "prev": null, "complete": true}
+{"text": "未読何件", "cls": "work", "prev": "おはようございます。", "complete": true}
+{"text": "あの、鈴木さんに 明日の会議10時からに変更って送っといてもらえますか", "cls": "work", "prev": null, "complete": true}
+{"text": "昨日の夜に来たやつ確認して", "cls": "work", "prev": "未読メールは4件です。", "complete": true}
+{"text": "返信書いて", "cls": "work", "prev": "伊藤さんから見積もり依頼のメールです。", "complete": true}
+{"text": "うんと 見積もりって件名のメール検索してもらえる", "cls": "work", "prev": null, "complete": true}
+{"text": "添付ファイル付きのメールだけ出して", "cls": "work", "prev": "今週のメールは28件あります。", "complete": true}
+{"text": "Amazonからの注文確認 来てるか見て", "cls": "work", "prev": null, "complete": true}
+{"text": "中村先生にお礼のメール送りたいんだけど、下書き作って", "cls": "work", "prev": null, "complete": true}
+{"text": "メールチェック", "cls": "work", "prev": null, "complete": true}
+{"text": "山田さんへの返信、出席しますで送っといてください", "cls": "work", "prev": "山田さんから懇親会の出欠確認が来ています。", "complete": true}
+{"text": "今朝から未読どのくらい溜まってる", "cls": "work", "prev": null, "complete": true}
+{"text": "3日前に届いた契約書のメール 開いて", "cls": "work", "prev": null, "complete": true}
+{"text": "小林さんから返事来てるか見てほしい", "cls": "work", "prev": null, "complete": true}
+{"text": "全員に返信して、承知しましたって", "cls": "work", "prev": "森さんから会議室変更の連絡です。", "complete": true}
+{"text": "会議室予約のメール転送して 伊藤さんに", "cls": "work", "prev": null, "complete": true}
+{"text": "高橋さんからのメール読んで", "cls": "work", "prev": "高橋さんと渡辺さんから新着があります。", "complete": true}
+{"text": "未読メール", "cls": "work", "prev": null, "complete": true}
+{"text": "新しいの来た?", "cls": "work", "prev": "先ほど3件読み上げました。", "complete": true}
+{"text": "ええと 先月のセミナーの案内メール、どこいったか探して", "cls": "work", "prev": null, "complete": true}
+{"text": "返事送って", "cls": "work", "prev": "下書きはこれで良いですか?", "complete": true}
+{"text": "お客さんに納期の件で謝りのメール書いてくれる", "cls": "work", "prev": null, "complete": true}
+{"text": "迷惑メールに入ってないか見てくれる", "cls": "work", "prev": "岡田さんからのメールは見つかりませんでした。", "complete": true}
+{"text": "スターつけたメール一覧出して", "cls": "work", "prev": null, "complete": true}
+{"text": "森さんへ お疲れ様です 本日は欠席しますって送信", "cls": "work", "prev": null, "complete": true}
+{"text": "件名に緊急って付いてるの来てないか調べて", "cls": "work", "prev": "未読は12件です。", "complete": true}
+{"text": "検索して、渡辺", "cls": "work", "prev": null, "complete": true}
+{"text": "先週の金曜に受け取ったメール 誰からだったか調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "上司に休暇申請のメール送って、12月24日から3日間で", "cls": "work", "prev": null, "complete": true}
+{"text": "読んで", "cls": "work", "prev": "藤田さんから新着メールが1件届きました。", "complete": true}
+{"text": "一番古い未読から順に見せて", "cls": "work", "prev": "未読が9件たまっています。", "complete": true}
+{"text": "もう一回読んで", "cls": "ack", "prev": "以上が本文です。", "complete": true}
+{"text": "止めて", "cls": "ack", "prev": "続いて2件目、佐藤さんからのメールです。", "complete": true}
+{"text": "ゆっくり読んで", "cls": "ack", "prev": null, "complete": true}
+{"text": "そのアドレス覚えといて", "cls": "ack", "prev": "差出人は info@example.co.jp です。", "complete": true}
+{"text": "15分後にメール返すって思い出させて", "cls": "ack", "prev": null, "complete": true}
+{"text": "次", "cls": "ack", "prev": "1件目は以上です。", "complete": true}
+{"text": "声大きくして", "cls": "ack", "prev": null, "complete": true}
+{"text": "今の件名メモして", "cls": "ack", "prev": "件名は「第3四半期の売上報告」です。", "complete": true}
+{"text": "読み上げ止めて", "cls": "ack", "prev": null, "complete": true}
+{"text": "えっと、その差出人の名前 覚えといてくれる", "cls": "ack", "prev": "差出人は株式会社ミナトの西田さんです。", "complete": true}
+{"text": "飛ばして", "cls": "ack", "prev": "次はメルマガです。", "complete": true}
+{"text": "さっきのメール本文、もう一回最初から", "cls": "ack", "prev": null, "complete": true}
+{"text": "30分タイマー それまでに返信書くから", "cls": "ack", "prev": null, "complete": true}
+{"text": "静かにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "本文だけ読んで 署名はいいや", "cls": "ack", "prev": "署名を読み上げますか?", "complete": true}
+{"text": "前のに戻って", "cls": "ack", "prev": "3件目、大野さんからです。", "complete": true}
+{"text": "あの 添付の名前だけもう一度言って", "cls": "ack", "prev": null, "complete": true}
+{"text": "今のメールの内容 メモに残しといて", "cls": "ack", "prev": "以上です。", "complete": true}
+{"text": "早く読んで", "cls": "ack", "prev": null, "complete": true}
+{"text": "相手の会社名、メモしといてもらえますか", "cls": "ack", "prev": "ハヤシ工業の井上さんからです。", "complete": true}
+{"text": "続き読んで", "cls": "ack", "prev": null, "complete": true}
+{"text": "一旦ストップ", "cls": "ack", "prev": "本文を読み上げます。", "complete": true}
+{"text": "明日の朝にこのメール思い出させて", "cls": "ack", "prev": null, "complete": true}
+{"text": "送信ボタン押す前に一回確認させて", "cls": "ack", "prev": null, "complete": true}
+{"text": "読み上げのスピード普通に戻して", "cls": "ack", "prev": null, "complete": true}
+{"text": "最後のとこもう一回", "cls": "ack", "prev": "以上、本文でした。", "complete": true}
+{"text": "うんと 電話番号のとこだけ繰り返して", "cls": "ack", "prev": null, "complete": true}
+{"text": "返信の文面 後で使うから覚えといて", "cls": "ack", "prev": "この文面で下書きを作りました。", "complete": true}
+{"text": "今のは聞かなかったことにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "その件、あとで聞くからメモだけ", "cls": "ack", "prev": "松本さんから打ち合わせの依頼です。", "complete": true}
+{"text": "英語のメールは日本語にして読んで", "cls": "ack", "prev": null, "complete": true}
+{"text": "差出人 先に言って", "cls": "ack", "prev": "件名「ご確認のお願い」、本文を読みます。", "complete": true}
+{"text": "次のメール", "cls": "ack", "prev": null, "complete": true}
+{"text": "5分後にもう一回言って", "cls": "ack", "prev": "会議は14時半からと書いてあります。", "complete": true}
+{"text": "ちょっと待って、今メモ取るから", "cls": "ack", "prev": null, "complete": true}
+{"text": "声 もうちょい小さめで", "cls": "ack", "prev": null, "complete": true}
+{"text": "さっきの日付 覚えといて 3月18日ね", "cls": "ack", "prev": null, "complete": true}
+{"text": "全文読まなくていいよ、要点だけで", "cls": "ack", "prev": "本文は長めです。読み上げますか?", "complete": true}
+{"text": "一番最後のメールにジャンプ", "cls": "ack", "prev": null, "complete": true}
+{"text": "この返信 どう書けばいいと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで送れなかったの", "cls": "think", "prev": "送信に失敗しました。", "complete": true}
+{"text": "断るならどういう言い回しがいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "敬語おかしくない?", "cls": "think", "prev": "下書きはこちらです。", "complete": true}
+{"text": "どっち先に返すべき", "cls": "think", "prev": "近藤さんと石井さんから返信待ちのメールがあります。", "complete": true}
+{"text": "件名なんにしよう", "cls": "think", "prev": null, "complete": true}
+{"text": "この人にCC入れたほうがいいと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "迷惑メールってなんで判定されたの 説明して", "cls": "think", "prev": "このメールは迷惑メールに分類されています。", "complete": true}
+{"text": "返信遅れた言い訳、どう書く", "cls": "think", "prev": null, "complete": true}
+{"text": "短くするとしたらどこ削る", "cls": "think", "prev": "下書きは全部で300文字です。", "complete": true}
+{"text": "なんで未読が減らないんだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "送るタイミング 今と明日の朝どっちがいい", "cls": "think", "prev": null, "complete": true}
+{"text": "この文面、失礼に聞こえる?", "cls": "think", "prev": "下書きを読み上げました。", "complete": true}
+{"text": "えっと、値引きの相談って メールでしていいものかな", "cls": "think", "prev": null, "complete": true}
+{"text": "どういう意味だと思う この最後の一文", "cls": "think", "prev": "以上が本文です。", "complete": true}
+{"text": "BCCってなんで使うの", "cls": "think", "prev": null, "complete": true}
+{"text": "返さなくていいメールってどう見分ける", "cls": "think", "prev": null, "complete": true}
+{"text": "添付で送るのとリンク貼るの どっちが親切だと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "この件、電話のほうがよくない?", "cls": "think", "prev": "返信の下書きを作りましょうか?", "complete": true}
+{"text": "なんで下書きが二個あるの", "cls": "think", "prev": "下書きが2件あります。", "complete": true}
+{"text": "謝罪の順番 最初に書く?最後?", "cls": "think", "prev": null, "complete": true}
+{"text": "相手が怒ってるように読める?", "cls": "think", "prev": "以上、村上さんからのメールでした。", "complete": true}
+{"text": "どう思う", "cls": "think", "prev": "この文面で送りますか?", "complete": true}
+{"text": "何が言いたいのこの人", "cls": "think", "prev": null, "complete": true}
+{"text": "返信早すぎるとがっついてる感じする?", "cls": "think", "prev": null, "complete": true}
+{"text": "うーん 断り方教えて", "cls": "think", "prev": null, "complete": true}
+{"text": "敬語直すならどこ", "cls": "think", "prev": "下書きはこれで完成です。", "complete": true}
+{"text": "説明して このエラー", "cls": "think", "prev": "エラーが出て送信できませんでした。", "complete": true}
+{"text": "どっちがいい", "cls": "think", "prev": "締めの文の案を2つ用意しました。", "complete": true}
+{"text": "これ返すべき?", "cls": "think", "prev": "セミナーの案内メールです。", "complete": true}
+{"text": "誰に聞くのが早いと思う このメールの件", "cls": "think", "prev": null, "complete": true}
+{"text": "締めの言葉、他に案ある?", "cls": "think", "prev": "「よろしくお願いいたします」で締めています。", "complete": true}
+{"text": "長すぎるかな", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで届かない", "cls": "think", "prev": null, "complete": true}
+{"text": "相手の名前 さん付けでいいのかな 先生かな", "cls": "think", "prev": null, "complete": true}
+{"text": "この依頼、受けたほうがいいと思う?", "cls": "think", "prev": "講演の依頼メールを読み上げました。", "complete": true}
+{"text": "返信の要点 3つにまとめるとしたら", "cls": "think", "prev": null, "complete": true}
+{"text": "開封確認って付けるべき?", "cls": "think", "prev": null, "complete": true}
+{"text": "何て返そう", "cls": "think", "prev": "小川さんから飲み会のお誘いです。", "complete": true}
+{"text": "分けて送るのと一通にまとめるの どっちがいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "送れた?", "cls": "check", "prev": "田中さんへの返信を送信しました。", "complete": true}
+{"text": "田中さんだっけ 差出人", "cls": "check", "prev": "会議の件でメールが届いています。", "complete": true}
+{"text": "添付ついてた?", "cls": "check", "prev": "見積もりの件で村田さんからメールです。", "complete": true}
+{"text": "さっきの、下書きに残ってる?", "cls": "check", "prev": "送信は取りやめました。", "complete": true}
+{"text": "それ今日のやつ?", "cls": "check", "prev": "山口さんからの納品連絡を読み上げます。", "complete": true}
+{"text": "未読まだある?", "cls": "check", "prev": "5件目を読み終えました。", "complete": true}
+{"text": "CCに部長入ってる?", "cls": "check", "prev": "返信の下書きができました。", "complete": true}
+{"text": "明日の10時って書いてあった?", "cls": "check", "prev": "打ち合わせの案内メールでした。", "complete": true}
+{"text": "全員に送った?", "cls": "check", "prev": "送信しました。", "complete": true}
+{"text": "宛先合ってる?", "cls": "check", "prev": "これで送信してよろしいですか?", "complete": true}
+{"text": "件名そのままでいい?", "cls": "check", "prev": "返信の下書きを作りました。", "complete": true}
+{"text": "昨日返したよね これ", "cls": "check", "prev": "工藤さんから確認のメールが来ています。", "complete": true}
+{"text": "経理宛てだっけ", "cls": "check", "prev": "請求書のメールを転送しました。", "complete": true}
+{"text": "3件で全部?", "cls": "check", "prev": "以上、未読3件でした。", "complete": true}
+{"text": "佐藤さんからのは来てないの?", "cls": "check", "prev": "新着は2件、どちらも社内からです。", "complete": true}
+{"text": "迷惑メールに入ってた?", "cls": "check", "prev": "遠藤さんからのメールを見つけました。", "complete": true}
+{"text": "送信済みになってる?", "cls": "check", "prev": "処理が終わりました。", "complete": true}
+{"text": "あれ、月曜って言ってた?", "cls": "check", "prev": "訪問日は月曜日と書いてありました。", "complete": true}
+{"text": "私のほうから送ったんだっけ", "cls": "check", "prev": "青木さんとのやりとりは先週で止まっています。", "complete": true}
+{"text": "まだ返事してない? 高橋さん", "cls": "check", "prev": "高橋さんからのメールは3日前です。", "complete": true}
+{"text": "期限、金曜だった?", "cls": "check", "prev": "提出依頼のメールを読み上げました。", "complete": true}
+{"text": "読んだやつ既読になった?", "cls": "check", "prev": "以上で読み上げを終わります。", "complete": true}
+{"text": "その人 前にも来てた?", "cls": "check", "prev": "差出人は坂本さんです。", "complete": true}
+{"text": "英語のメールだった?", "cls": "check", "prev": "海外の取引先から1件届いています。", "complete": true}
+{"text": "署名入ってる?", "cls": "check", "prev": "下書きは以上です。", "complete": true}
+{"text": "えっと、鈴木さんの返事って 承諾ってことでいい?", "cls": "check", "prev": "鈴木さんからの返信を読み上げました。", "complete": true}
+{"text": "添付のファイル名 見積書でよかった?", "cls": "check", "prev": "ファイルを添付しました。", "complete": true}
+{"text": "今の送っちゃった?", "cls": "check", "prev": "送信しました。", "complete": true}
+{"text": "下書きって二つあるんだっけ", "cls": "check", "prev": "下書きを開きます。", "complete": true}
+{"text": "木村さんのアドレス gmailのほうであってる?", "cls": "check", "prev": "木村さん宛てに下書きを作りました。", "complete": true}
+{"text": "未読ゼロ?", "cls": "check", "prev": "受信箱を確認しました。", "complete": true}
+{"text": "ほんとに届いてない?", "cls": "check", "prev": "原さんからのメールは見当たりません。", "complete": true}
+{"text": "今のメール、返信必要?", "cls": "check", "prev": "以上、総務からのお知らせでした。", "complete": true}
+{"text": "転送したのって伊藤さん宛てだった?", "cls": "check", "prev": "転送が完了しました。", "complete": true}
+{"text": "昨日のと同じ内容?", "cls": "check", "prev": "三浦さんから再送のメールです。", "complete": true}
+{"text": "返信って敬語になってる?", "cls": "check", "prev": "下書きを保存しました。", "complete": true}
+{"text": "中村さん 出席って返事だった?", "cls": "check", "prev": "出欠の返信は4件集まっています。", "complete": true}
+{"text": "それ 午後に来たの?", "cls": "check", "prev": "竹内さんからの新着があります。", "complete": true}
+{"text": "締切って今日中だっけ", "cls": "check", "prev": "アンケートの依頼メールでした。", "complete": true}
+{"text": "会議室の予約、Bって書いてあった?", "cls": "check", "prev": "会議の案内を読み上げました。", "complete": true}
+{"text": "今日は返信は明日にする", "cls": "understand", "prev": null, "complete": true}
+{"text": "田中さんには電話で伝えといた", "cls": "understand", "prev": "田中さんへの返信はどうしますか?", "complete": true}
+{"text": "あのメール もう読んだよ", "cls": "understand", "prev": "未読が1件あります。", "complete": true}
+{"text": "見積もりの件は別ルートで来た", "cls": "understand", "prev": null, "complete": true}
+{"text": "部長には直接会って話した", "cls": "understand", "prev": null, "complete": true}
+{"text": "あ、そのアドレスもう使ってないんだよね", "cls": "understand", "prev": "旧アドレス宛てに届いています。", "complete": true}
+{"text": "来週は出張だからメールあんまり見れない", "cls": "understand", "prev": null, "complete": true}
+{"text": "さっきのは自分で送っといた", "cls": "understand", "prev": "返信の下書きが残っています。", "complete": true}
+{"text": "その人、今月から担当変わったんだって", "cls": "understand", "prev": "柴田さんからのメールです。", "complete": true}
+{"text": "迷惑メールのやつは前も来てた業者", "cls": "understand", "prev": "迷惑メールに1件入っています。", "complete": true}
+{"text": "明日から3日間 メールは秘書が見ることになってる", "cls": "understand", "prev": null, "complete": true}
+{"text": "返信は英語で書くことにした", "cls": "understand", "prev": null, "complete": true}
+{"text": "うん、添付は別で送ってもらった", "cls": "understand", "prev": "このメールには添付がありません。", "complete": true}
+{"text": "その件 会議で決まったから返さなくていいやつ", "cls": "understand", "prev": "返信がまだのメールが1件あります。", "complete": true}
+{"text": "今日は未読多いんだよね 展示会の後で", "cls": "understand", "prev": null, "complete": true}
+{"text": "木村さんとは Slack でやりとりしてる", "cls": "understand", "prev": "木村さんからの返信はありません。", "complete": true}
+{"text": "送ったよ", "cls": "understand", "prev": null, "complete": true}
+{"text": "見た", "cls": "understand", "prev": "新着が1件あります。", "complete": true}
+{"text": "返しといた", "cls": "understand", "prev": null, "complete": true}
+{"text": "もう済んでる", "cls": "understand", "prev": "岩崎さんへの返信が未送信です。", "complete": true}
+{"text": "知ってる", "cls": "understand", "prev": "来週の月曜は祝日で休みと書いてあります。", "complete": true}
+{"text": "読んだ", "cls": "understand", "prev": null, "complete": true}
+{"text": "今月から新しいアドレスになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "高橋さんは今日休みらしい", "cls": "understand", "prev": null, "complete": true}
+{"text": "その請求書 経理に回した", "cls": "understand", "prev": "請求書のメールが未処理です。", "complete": true}
+{"text": "昨日の夜、下書きだけ作っといた", "cls": "understand", "prev": null, "complete": true}
+{"text": "えっと、佐藤さんには金曜って伝えてある", "cls": "understand", "prev": "佐藤さんから日程の問い合わせです。", "complete": true}
+{"text": "あのメールは転送しないでって言われてる", "cls": "understand", "prev": null, "complete": true}
+{"text": "山本さんの返事 来週になるって", "cls": "understand", "prev": null, "complete": true}
+{"text": "会議の案内は森さんが送ることになった", "cls": "understand", "prev": "会議の案内を作りますか?", "complete": true}
+{"text": "自分は CC に入ってるだけ", "cls": "understand", "prev": "このメールに返信しますか?", "complete": true}
+{"text": "自分で返した", "cls": "understand", "prev": "返信の下書きを作りましょうか?", "complete": true}
+{"text": "火曜に返すって約束してる", "cls": "understand", "prev": null, "complete": true}
+{"text": "その人 前の会社の同僚", "cls": "understand", "prev": "差出人は登録のない相手です。", "complete": true}
+{"text": "あー それ 昨日電話で話したやつだ", "cls": "understand", "prev": "内田さんから確認のメールです。", "complete": true}
+{"text": "納期の件は先方が延ばしてくれた", "cls": "understand", "prev": null, "complete": true}
+{"text": "返信は上司が代わりに出してくれた", "cls": "understand", "prev": null, "complete": true}
+{"text": "今 電車だから声だけで聞いてる", "cls": "understand", "prev": null, "complete": true}
+{"text": "鈴木さんには 別件でこっちから連絡した", "cls": "understand", "prev": null, "complete": true}
+{"text": "もう見てる", "cls": "understand", "prev": "案内メールが届いています。", "complete": true}
+{"text": "この返信 丁寧でいいと思う", "cls": "agree", "prev": "下書きを読み上げました。", "complete": true}
+{"text": "件名は短いほうが読みやすいね", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん、その言い回しのほうが自然", "cls": "agree", "prev": "「ご確認ください」に直しました。", "complete": true}
+{"text": "田中さんのメール いつも長いんだよな", "cls": "agree", "prev": "田中さんから新着です。本文は長めです。", "complete": true}
+{"text": "添付より本文に書いてくれたほうが助かる", "cls": "agree", "prev": null, "complete": true}
+{"text": "その案がいい", "cls": "agree", "prev": "締めは「引き続きよろしくお願いします」でどうでしょう。", "complete": true}
+{"text": "いいね", "cls": "agree", "prev": "件名を「打ち合わせ日程のご相談」にしました。", "complete": true}
+{"text": "それで十分", "cls": "agree", "prev": "本文は3行にまとめました。", "complete": true}
+{"text": "悪くない", "cls": "agree", "prev": null, "complete": true}
+{"text": "ちょっと硬いかな", "cls": "agree", "prev": "下書きは以上です。", "complete": true}
+{"text": "長いね", "cls": "agree", "prev": "本文は800文字あります。", "complete": true}
+{"text": "わかりやすい", "cls": "agree", "prev": null, "complete": true}
+{"text": "微妙", "cls": "agree", "prev": "書き出しは「お世話になっております」です。", "complete": true}
+{"text": "いや、そこまで丁寧じゃなくていいと思う", "cls": "agree", "prev": "「拝啓」から始めましょうか?", "complete": true}
+{"text": "朝イチに送るのが正解だと思うよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "このお客さん、返事早くて助かる", "cls": "agree", "prev": "早速返信が届いています。", "complete": true}
+{"text": "迷惑メールのフィルター 優秀だね", "cls": "agree", "prev": null, "complete": true}
+{"text": "確かに CC 多すぎるよね", "cls": "agree", "prev": "CCに12人入っています。", "complete": true}
+{"text": "断るなら早いほうがいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "敬語はこれぐらいでちょうどいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "えっと、最初の一文は要らない気がする", "cls": "agree", "prev": "下書きを読み上げました。", "complete": true}
+{"text": "メールより電話のほうが早いと思う この件", "cls": "agree", "prev": null, "complete": true}
+{"text": "佐藤さんの提案 悪くないと思うんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん、分けて送るほうが親切", "cls": "agree", "prev": "2通に分けることもできます。", "complete": true}
+{"text": "あの人の署名、長すぎ", "cls": "agree", "prev": null, "complete": true}
+{"text": "全員返信は やりすぎだと思う", "cls": "agree", "prev": "全員に返信しますか?", "complete": true}
+{"text": "締めの文 それが一番いい", "cls": "agree", "prev": "3つ目の案は「ご検討のほどお願いいたします」です。", "complete": true}
+{"text": "読みやすい", "cls": "agree", "prev": null, "complete": true}
+{"text": "好きじゃないな その書き出し", "cls": "agree", "prev": null, "complete": true}
+{"text": "金曜の午後に送るのは良くないと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "山田さんの文章 うまいよね", "cls": "agree", "prev": "以上、山田さんからでした。", "complete": true}
+{"text": "そっちの案のほうが伝わる", "cls": "agree", "prev": "案を2つ読み上げました。", "complete": true}
+{"text": "こういう案内メール、正直要らないんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "二通目のほうが誠実に見える", "cls": "agree", "prev": null, "complete": true}
+{"text": "件名に日付入れるの 賛成", "cls": "agree", "prev": "件名に日付を入れることもできます。", "complete": true}
+{"text": "簡潔でいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "こっちが好み", "cls": "agree", "prev": "どちらの文面にしますか?", "complete": true}
+{"text": "個人的にはお疲れ様ですから始めるのが好き", "cls": "agree", "prev": null, "complete": true}
+{"text": "高橋さんへの返信、あれで正解だったと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "まあ妥当かな", "cls": "agree", "prev": "この文面で送りますか?", "complete": true}
+{"text": "未読200件とか無理", "cls": "empathy", "prev": "未読は200件あります。", "complete": true}
+{"text": "返信書くの もう疲れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "全然減らない", "cls": "empathy", "prev": "未読は残り87件です。", "complete": true}
+{"text": "またあの人からだ、嫌だな", "cls": "empathy", "prev": "関さんから新着です。", "complete": true}
+{"text": "催促のメール また来てる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "断りのメール書くの気が重い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "送ったのに返事来なくて困ってる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うんと、ミスの謝罪メール書かなきゃいけなくてさ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "朝からメール対応だけで終わっちゃった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "面倒くさい", "cls": "empathy", "prev": "返信しますか?", "complete": true}
+{"text": "もうやだ", "cls": "empathy", "prev": "さらに5件届きました。", "complete": true}
+{"text": "つらい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "間違えて送っちゃった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "何回説明しても伝わらないんだよね", "cls": "empathy", "prev": "野口さんから再度質問が来ています。", "complete": true}
+{"text": "添付忘れてた 恥ずかしい", "cls": "empathy", "prev": "先方から添付がないと連絡です。", "complete": true}
+{"text": "期限今日なのにまだ返事してない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "英語のメール読むの苦手なんだよな", "cls": "empathy", "prev": "英語のメールが1件届いています。", "complete": true}
+{"text": "あの人のメール、毎回読むの大変", "cls": "empathy", "prev": null, "complete": true}
+{"text": "眠い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "全部返してたら一日終わる", "cls": "empathy", "prev": "返信待ちが14件あります。", "complete": true}
+{"text": "誰にも返信できてない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "迷惑メールばっかりで大事なの埋もれる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "手が回らない", "cls": "empathy", "prev": "新着が8件あります。", "complete": true}
+{"text": "まだ書けてない", "cls": "empathy", "prev": "返信は送りましたか?", "complete": true}
+{"text": "送信取り消せないのつらい", "cls": "empathy", "prev": "送信済みのため取り消せません。", "complete": true}
+{"text": "えっと、宛先間違えて 別の人に送っちゃって", "cls": "empathy", "prev": null, "complete": true}
+{"text": "返事 催促するのって気まずいんだよね", "cls": "empathy", "prev": null, "complete": true}
+{"text": "なんか もう 見たくない", "cls": "empathy", "prev": "受信箱を開きますか?", "complete": true}
+{"text": "断られた", "cls": "empathy", "prev": "先方からの返信を読み上げました。", "complete": true}
+{"text": "上司からのメール、怖くて開けない", "cls": "empathy", "prev": "上司から未読が1件です。", "complete": true}
+{"text": "疲れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "一日中メール見てる気がする", "cls": "empathy", "prev": null, "complete": true}
+{"text": "あの案件のメール もう見たくないんだけど", "cls": "empathy", "prev": null, "complete": true}
+{"text": "金曜なのに全然片付かない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "締切のメール見落としてた", "cls": "empathy", "prev": "提出期限は昨日でした。", "complete": true}
+{"text": "また怒られた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "返信考えるだけで頭痛くなる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "頑張って書いたのに読んでもらえなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "溜まりすぎてどこから手つけていいかわかんない", "cls": "empathy", "prev": "未読は150件です。", "complete": true}
+{"text": "返事来た!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "採用の連絡来た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "未読ゼロにした", "cls": "cheer", "prev": null, "complete": true}
+{"text": "やった、内定", "cls": "cheer", "prev": "人事部からのメールを読み上げました。", "complete": true}
+{"text": "契約取れたって", "cls": "cheer", "prev": null, "complete": true}
+{"text": "お礼のメール来てた 嬉しい", "cls": "cheer", "prev": null, "complete": true}
+{"text": "全部返し終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "承認おりた", "cls": "cheer", "prev": "部長から返信があります。", "complete": true}
+{"text": "見積もり通ったよ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "田中さんが喜んでくれたって", "cls": "cheer", "prev": "田中さんから返信です。", "complete": true}
+{"text": "返信 褒められた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "うまく書けた気がする", "cls": "cheer", "prev": "下書きを保存しました。", "complete": true}
+{"text": "商談OKだって", "cls": "cheer", "prev": null, "complete": true}
+{"text": "できた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "終わった!", "cls": "cheer", "prev": "残りの未読は0件です。", "complete": true}
+{"text": "送れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "よし", "cls": "cheer", "prev": "送信が完了しました。", "complete": true}
+{"text": "一発で通った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "先方がすぐ返してくれた", "cls": "cheer", "prev": "新着が1件あります。", "complete": true}
+{"text": "論文アクセプトのメール来た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "講演の依頼来た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "取材の申し込み来たんだけど", "cls": "cheer", "prev": null, "complete": true}
+{"text": "あの件 無事に解決したって連絡来た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "100件片付けた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "断られると思ったら快諾だった", "cls": "cheer", "prev": "先方からの返信を読み上げました。", "complete": true}
+{"text": "返事、思ったより早かった", "cls": "cheer", "prev": "松田さんから返信が届いています。", "complete": true}
+{"text": "賞取ったって連絡", "cls": "cheer", "prev": null, "complete": true}
+{"text": "上司からお疲れ様ってメール来てた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "えっと、お客さんがまた頼みたいって言ってくれてて", "cls": "cheer", "prev": null, "complete": true}
+{"text": "応募通ったっぽい", "cls": "cheer", "prev": "事務局からメールです。", "complete": true}
+{"text": "期限内に送れた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "面接の日程決まった", "cls": "cheer", "prev": "採用担当から返信です。", "complete": true}
+{"text": "誤送信じゃなかった よかった", "cls": "cheer", "prev": "宛先は正しく吉田さんでした。", "complete": true}
+{"text": "助成金 採択されたって", "cls": "cheer", "prev": null, "complete": true}
+{"text": "返事、来てた!", "cls": "cheer", "prev": "新着は3件です。", "complete": true}
+{"text": "予約取れました", "cls": "cheer", "prev": null, "complete": true}
+{"text": "完了", "cls": "cheer", "prev": "残り1件です。", "complete": true}
+{"text": "ようやく片付いたよ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "初めて英語で返信書けた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "え、田中さん辞めるの?", "cls": "surprise", "prev": "田中さんから退職のご挨拶というメールです。", "complete": true}
+{"text": "あの会社倒産したって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "未読500件もあるの?", "cls": "surprise", "prev": "未読は500件です。", "complete": true}
+{"text": "送ったつもりが送れてなかった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "半年前のメールに今返事来た", "cls": "surprise", "prev": null, "complete": true}
+{"text": "知らない人からいきなり見積もり来てる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "部長からメールなんて初めてだ", "cls": "surprise", "prev": "部長から新着があります。", "complete": true}
+{"text": "うそでしょ", "cls": "surprise", "prev": "会議は中止になったそうです。", "complete": true}
+{"text": "まじで", "cls": "surprise", "prev": "支払期限は今日までと書いてあります。", "complete": true}
+{"text": "本当に?", "cls": "surprise", "prev": "送信元は社長のアドレスです。", "complete": true}
+{"text": "えっ", "cls": "surprise", "prev": "このメールは全社員に送られています。", "complete": true}
+{"text": "そんなに来てた?", "cls": "surprise", "prev": "今日の新着は63件です。", "complete": true}
+{"text": "会議 今日だったの?", "cls": "surprise", "prev": "本日15時の会議のリマインドです。", "complete": true}
+{"text": "全社に送っちゃってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "社長から直接返信きた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "締切 昨日だったらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "同じ人から一日に20通来てる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "夜中の3時に送られてる", "cls": "surprise", "prev": "受信時刻は午前3時12分です。", "complete": true}
+{"text": "昔の上司から急に連絡来た", "cls": "surprise", "prev": null, "complete": true}
+{"text": "値段、倍になってる", "cls": "surprise", "prev": "新しい見積書が添付されています。", "complete": true}
+{"text": "迷惑メールに大事な契約書入ってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "私のアドレス いつの間に変わってたの", "cls": "surprise", "prev": "宛先は新しいアドレスになっています。", "complete": true}
+{"text": "海外から請求書が来てる 身に覚えない", "cls": "surprise", "prev": null, "complete": true}
+{"text": "中止だって あのイベント", "cls": "surprise", "prev": null, "complete": true}
+{"text": "返信が英語で来た", "cls": "surprise", "prev": null, "complete": true}
+{"text": "添付が 500MB とかある", "cls": "surprise", "prev": "添付ファイルは1件です。", "complete": true}
+{"text": "ちょっと待って、これ去年のメール?", "cls": "surprise", "prev": "受信日は2025年9月20日です。", "complete": true}
+{"text": "課長が異動だって 来月から", "cls": "surprise", "prev": null, "complete": true}
+{"text": "相手も同じ日に送ってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの件 もう決まってたんだ", "cls": "surprise", "prev": "決定事項のお知らせというメールです。", "complete": true}
+{"text": "意外", "cls": "surprise", "prev": "先方は値引きに応じると書いています。", "complete": true}
+{"text": "初耳", "cls": "surprise", "prev": "来月からオフィスが移転するそうです。", "complete": true}
+{"text": "知らなかった", "cls": "surprise", "prev": "このサービスは来週で終了します。", "complete": true}
+{"text": "佐藤さんも CC に入ってたの", "cls": "surprise", "prev": "CCには佐藤さんも含まれています。", "complete": true}
+{"text": "その人、実は社長だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "会議室 全部キャンセルされてる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっと、返事が一行だけなんだけど 承知しましたって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "引っ越すって書いてある 鈴木さん", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの人 結婚したんだ", "cls": "surprise", "prev": "結婚のご報告というメールです。", "complete": true}
+{"text": "無料だと思ってたら有料だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "うん", "cls": "flow", "prev": "田中さんに返信を送りますか?", "complete": true}
+{"text": "それで", "cls": "flow", "prev": "件名は「日程のご相談」でいかがでしょう。", "complete": true}
+{"text": "お願い", "cls": "flow", "prev": "続きを読み上げましょうか?", "complete": true}
+{"text": "うん、送って", "cls": "flow", "prev": "下書きはこれで完成です。", "complete": true}
+{"text": "はい", "cls": "flow", "prev": "全員に返信しますか?", "complete": true}
+{"text": "そうだね", "cls": "flow", "prev": "先に急ぎのメールから読みましょうか。", "complete": true}
+{"text": "いや いい", "cls": "flow", "prev": "署名も読み上げますか?", "complete": true}
+{"text": "大丈夫", "cls": "flow", "prev": "宛先はこのままで送りますか?", "complete": true}
+{"text": "うん、それで送っといて", "cls": "flow", "prev": "締めは「よろしくお願いします」でよいですか?", "complete": true}
+{"text": "ううん まだ", "cls": "flow", "prev": "送信しますか?", "complete": true}
+{"text": "そう", "cls": "flow", "prev": "転送先は岡本さんですか?", "complete": true}
+{"text": "了解 じゃあそれで", "cls": "flow", "prev": "添付は圧縮して送ることになります。", "complete": true}
+{"text": "じゃあ後で", "cls": "flow", "prev": "今返信の下書きを作りますか?", "complete": true}
+{"text": "うん、全部", "cls": "flow", "prev": "未読を全部読み上げますか?", "complete": true}
+{"text": "まあ そうしよっか", "cls": "flow", "prev": "古い順に読むほうが分かりやすいかもしれません。", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "返信の下書きを作りましょうか。", "complete": true}
+{"text": "結構です", "cls": "flow", "prev": "迷惑メールも確認しますか?", "complete": true}
+{"text": "いいです、そのままで", "cls": "flow", "prev": "件名を変更しますか?", "complete": true}
+{"text": "はい、それで大丈夫です", "cls": "flow", "prev": "宛先は営業部の全員でよろしいですか?", "complete": true}
+{"text": "うん 読んで", "cls": "flow", "prev": "本文も読み上げますか?", "complete": true}
+{"text": "あー いいや", "cls": "flow", "prev": "残りの3件も読みますか?", "complete": true}
+{"text": "そうして", "cls": "flow", "prev": "添付はリンクにして送ることもできます。", "complete": true}
+{"text": "はいはい", "cls": "flow", "prev": "送信前に一度確認しますね。", "complete": true}
+{"text": "オッケー", "cls": "flow", "prev": "10時ではなく11時に直しておきます。", "complete": true}
+{"text": "じゃあそっちで", "cls": "flow", "prev": "短い案と丁寧な案があります。", "complete": true}
+{"text": "うん、田中さんのほう", "cls": "flow", "prev": "田中さんと山田さん、どちらのメールを開きますか?", "complete": true}
+{"text": "一番上のやつ", "cls": "flow", "prev": "該当するメールは3件あります。どれを開きますか?", "complete": true}
+{"text": "今はやめとく", "cls": "flow", "prev": "返信を送りますか?", "complete": true}
+{"text": "そうそう", "cls": "flow", "prev": "先週の見積もりの件ですね?", "complete": true}
+{"text": "うん、そのままで", "cls": "flow", "prev": "敬語の部分を直しますか?", "complete": true}
+{"text": "やっぱやめる", "cls": "flow", "prev": "送信します。よろしいですか?", "complete": true}
+{"text": "うん 頼んだ", "cls": "flow", "prev": "では下書きを保存しておきますね。", "complete": true}
+{"text": "後でいい", "cls": "flow", "prev": "今すぐ返信しますか?", "complete": true}
+{"text": "いや、今日中に", "cls": "flow", "prev": "返信は明日でよろしいですか?", "complete": true}
+{"text": "えっと、はい", "cls": "flow", "prev": "本当に削除しますか?", "complete": true}
+{"text": "いいね それで行こう", "cls": "flow", "prev": "件名は「納品日のご連絡」ではどうでしょう。", "complete": true}
+{"text": "そっちで", "cls": "flow", "prev": "会社のアドレスと個人のアドレス、どちらに送りますか?", "complete": true}
+{"text": "うん、それ送って", "cls": "flow", "prev": "この文面でよければ送信します。", "complete": true}
+{"text": "全部でいいよ", "cls": "flow", "prev": "何件読み上げますか?", "complete": true}
+{"text": "いや違う、佐藤さんのほう", "cls": "correct", "prev": "斉藤さんからのメールを開きました。", "complete": true}
+{"text": "そうじゃなくて 返信じゃなく転送", "cls": "correct", "prev": "田中さんに返信の下書きを作成しました。", "complete": true}
+{"text": "違う違う、先週のやつ", "cls": "correct", "prev": "今週届いた見積もりのメールは2件です。", "complete": true}
+{"text": "送るのは部長じゃなくて課長", "cls": "correct", "prev": "部長宛てに送信しますか?", "complete": true}
+{"text": "さっき言ったのは10時じゃなくて11時", "cls": "correct", "prev": "10時に変更と書いて送信しました。", "complete": true}
+{"text": "未読じゃなくて既読のを探して", "cls": "correct", "prev": "未読メールは5件あります。", "complete": true}
+{"text": "件名は請求書じゃなくて見積書", "cls": "correct", "prev": "件名を「請求書」で検索しました。", "complete": true}
+{"text": "違う", "cls": "correct", "prev": "山本さんに送信しました。", "complete": true}
+{"text": "そっちじゃない", "cls": "correct", "prev": "一番新しいメールを開きました。", "complete": true}
+{"text": "逆", "cls": "correct", "prev": "本文を先に、件名は後で読みますね。", "complete": true}
+{"text": "違うよ 木村さん", "cls": "correct", "prev": "木下さんからのメールですね。", "complete": true}
+{"text": "明日じゃなくて明後日って書いて", "cls": "correct", "prev": "明日伺いますと下書きしました。", "complete": true}
+{"text": "添付は消さないで、って言ったんだけど", "cls": "correct", "prev": "添付ファイルを外して送信しました。", "complete": true}
+{"text": "いや CCじゃなくてBCC", "cls": "correct", "prev": "佐々木さんをCCに追加しました。", "complete": true}
+{"text": "えっと、送信じゃなくて下書き保存", "cls": "correct", "prev": "送信します。", "complete": true}
+{"text": "検索したいのは Amazon じゃなくて 楽天", "cls": "correct", "prev": "Amazonからのメールを検索しました。", "complete": true}
+{"text": "私が言ったのは月曜だよ", "cls": "correct", "prev": "火曜日の会議についてのメールですね。", "complete": true}
+{"text": "出席じゃなくて欠席", "cls": "correct", "prev": "出席しますと返信しました。", "complete": true}
+{"text": "その人じゃなくて 同じ苗字の別の人", "cls": "correct", "prev": "鈴木一郎さんのメールを開きます。", "complete": true}
+{"text": "違うよ、読み上げてほしいのは本文", "cls": "correct", "prev": "件名を読み上げますね。", "complete": true}
+{"text": "3件じゃなくて3日分", "cls": "correct", "prev": "最新の3件を表示しました。", "complete": true}
+{"text": "返信先間違ってる 全員じゃなくて本人だけ", "cls": "correct", "prev": "全員に返信しました。", "complete": true}
+{"text": "いやそれは昨日のメール", "cls": "correct", "prev": "今日届いた山田さんのメールです。", "complete": true}
+{"text": "高橋じゃない、高木", "cls": "correct", "prev": "高橋さんに送信しますか?", "complete": true}
+{"text": "ごめん 言い間違えた 金曜じゃなくて木曜", "cls": "correct", "prev": "金曜締切と書いて送信しました。", "complete": true}
+{"text": "削除じゃなくてアーカイブって言った", "cls": "correct", "prev": "そのメールを削除しました。", "complete": true}
+{"text": "うーん、そういう意味じゃなくて", "cls": "correct", "prev": "料金の値上げを承諾する返信を作成しました。", "complete": true}
+{"text": "経理じゃない 総務", "cls": "correct", "prev": "経理部に転送しました。", "complete": true}
+{"text": "違う 英語で書いてほしいんだよ", "cls": "correct", "prev": "日本語で返信文を作成しました。", "complete": true}
+{"text": "今日のじゃなくて今週の未読", "cls": "correct", "prev": "今日の未読は3件です。", "complete": true}
+{"text": "敬語じゃなくて、くだけた感じで", "cls": "correct", "prev": "丁寧な文面で下書きしました。", "complete": true}
+{"text": "あ、ごめん、送るのは 見積書のほうの PDF", "cls": "correct", "prev": "契約書のPDFを添付しました。", "complete": true}
+{"text": "3月じゃなく5月って言ったよね", "cls": "correct", "prev": "3月の予定ですね。", "complete": true}
+{"text": "探してほしいのは差出人じゃなくて件名", "cls": "correct", "prev": "差出人が「田中」のメールを検索しました。", "complete": true}
+{"text": "そこじゃない もっと前の", "cls": "correct", "prev": "先週のメールを表示しました。", "complete": true}
+{"text": "フルネームで", "cls": "correct", "prev": "田中様、で書き出しました。", "complete": true}
+{"text": "違う、返信じゃなくて新規で", "cls": "correct", "prev": "返信として下書きを作りました。", "complete": true}
+{"text": "中村さん じゃなくて中川さん", "cls": "correct", "prev": "中村さんに送信します。", "complete": true}
+{"text": "言い直す 宛先は営業部全員", "cls": "correct", "prev": "営業部の田中さんに送信します。", "complete": true}
+{"text": "読むのは一番古いやつだって", "cls": "correct", "prev": "最新のメールから読みますね。", "complete": true}
+{"text": "えっとね、メールのことなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのさ 昨日の", "cls": "hold", "prev": null, "complete": false}
+{"text": "で、なんか", "cls": "hold", "prev": "以上が本文です。", "complete": false}
+{"text": "田中さんから来てたやつなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "うんと", "cls": "hold", "prev": "返信はどうしますか?", "complete": false}
+{"text": "返信したいのがあって", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの さっき見てもらった", "cls": "hold", "prev": "他に何かありますか?", "complete": false}
+{"text": "それでね", "cls": "hold", "prev": "はい。", "complete": false}
+{"text": "ちょっと聞きたいんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの人にね、", "cls": "hold", "prev": "西村さんからのメールでした。", "complete": false}
+{"text": "送るときにさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "えーと 件名が", "cls": "hold", "prev": "下書きを作ります。件名はどうしますか?", "complete": false}
+{"text": "未読の中で", "cls": "hold", "prev": "未読は11件です。", "complete": false}
+{"text": "昨日の夜にね", "cls": "hold", "prev": null, "complete": false}
+{"text": "部長からのメールが", "cls": "hold", "prev": null, "complete": false}
+{"text": "その、見積もりの", "cls": "hold", "prev": "どのメールを探しますか?", "complete": false}
+{"text": "なんかね 返事が", "cls": "hold", "prev": null, "complete": false}
+{"text": "じゃあ次は", "cls": "hold", "prev": "送信しました。", "complete": false}
+{"text": "まず 田中さんのやつを", "cls": "hold", "prev": "未読が3件あります。", "complete": false}
+{"text": "来週の会議のことでさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "あー えっとね", "cls": "hold", "prev": "どうしますか?", "complete": false}
+{"text": "添付が", "cls": "hold", "prev": "このメールには添付が2つあります。", "complete": false}
+{"text": "お客さんからね、なんか", "cls": "hold", "prev": null, "complete": false}
+{"text": "ええと 検索してほしいのが", "cls": "hold", "prev": null, "complete": false}
+{"text": "で、それとは別に", "cls": "hold", "prev": "返信を送信しました。", "complete": false}
+{"text": "あの件なんだけど ほら", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと待って その前に", "cls": "hold", "prev": "次のメールを読みます。", "complete": false}
+{"text": "送りたいんだけど、宛先が", "cls": "hold", "prev": null, "complete": false}
+{"text": "うーんと 今日の分は", "cls": "hold", "prev": "今日の新着は7件です。", "complete": false}
+{"text": "経理のメールで", "cls": "hold", "prev": null, "complete": false}
+{"text": "佐藤さんに返すやつ、", "cls": "hold", "prev": "返信待ちが2件あります。", "complete": false}
+{"text": "あのー", "cls": "hold", "prev": "ご用件をどうぞ。", "complete": false}
+{"text": "山田さんの件はね えっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "迷惑メールのところに", "cls": "hold", "prev": null, "complete": false}
+{"text": "あとさ", "cls": "hold", "prev": "下書きを保存しました。", "complete": false}
+{"text": "三つ目のメールが", "cls": "hold", "prev": "3件読み上げました。", "complete": false}
+{"text": "あの人の返事が その", "cls": "hold", "prev": null, "complete": false}
+{"text": "あ、そういえば", "cls": "hold", "prev": "以上です。", "complete": false}
+{"text": "話戻るけど さっきの", "cls": "hold", "prev": null, "complete": false}
+{"text": "明日までに送らなきゃいけないのが", "cls": "hold", "prev": null, "complete": false}
+{"text": "ありがとう", "cls": "none", "prev": "送信しました。", "complete": true}
+{"text": "助かった", "cls": "none", "prev": "返信の下書きを保存しました。", "complete": true}
+{"text": "じゃあね", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみ", "cls": "none", "prev": null, "complete": true}
+{"text": "あー", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがと また後で", "cls": "none", "prev": "未読は以上です。", "complete": true}
+{"text": "お疲れ様", "cls": "none", "prev": null, "complete": true}
+{"text": "ただいま", "cls": "none", "prev": null, "complete": true}
+{"text": "いってきます", "cls": "none", "prev": "行ってらっしゃい。", "complete": true}
+{"text": "サンキュー", "cls": "none", "prev": "岡本さんへの返信を送りました。", "complete": true}
+{"text": "こんにちは", "cls": "none", "prev": null, "complete": true}
+{"text": "なんでもない", "cls": "none", "prev": "何かご用ですか?", "complete": true}
+{"text": "ふーん", "cls": "none", "prev": null, "complete": true}
+{"text": "へー", "cls": "none", "prev": null, "complete": true}
+{"text": "はぁ", "cls": "none", "prev": null, "complete": true}
+{"text": "よいしょ", "cls": "none", "prev": null, "complete": true}
+{"text": "どうも", "cls": "none", "prev": "以上、3件でした。", "complete": true}
+{"text": "またね", "cls": "none", "prev": null, "complete": true}
+{"text": "ばいばい", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとうございました、助かりました", "cls": "none", "prev": "見積書のメールを転送しました。", "complete": true}
+{"text": "いや、なんでもないや", "cls": "none", "prev": "はい、どうしましたか?", "complete": true}
+{"text": "あ、いいや", "cls": "none", "prev": "はい?", "complete": true}
+{"text": "ごめんごめん", "cls": "none", "prev": "聞き取れませんでした。", "complete": true}
+{"text": "読んでくれてありがとう", "cls": "none", "prev": "以上が本文です。", "complete": true}
+{"text": "サンキュ 助かる", "cls": "none", "prev": "下書きを作りました。", "complete": true}
+{"text": "おつかれ 今日はもういいや", "cls": "none", "prev": "他に確認することはありますか?", "complete": true}
+{"text": "また明日", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみなさい", "cls": "none", "prev": null, "complete": true}
+{"text": "こんばんは", "cls": "none", "prev": null, "complete": true}
+{"text": "お先に失礼します", "cls": "none", "prev": null, "complete": true}
+{"text": "あ、", "cls": "none", "prev": null, "complete": true}
+{"text": "ん?", "cls": "none", "prev": null, "complete": true}
+{"text": "おー", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとね 返信の文面", "cls": "none", "prev": "文面をお送りしました。", "complete": true}
+{"text": "よし じゃあ行ってくる", "cls": "none", "prev": null, "complete": true}
+{"text": "えー、あー", "cls": "none", "prev": null, "complete": true}
+{"text": "今日はここまでにしよう", "cls": "none", "prev": "未読はあと4件です。", "complete": true}
+{"text": "どうもありがとう、ほんと助かるわ", "cls": "none", "prev": "全員に返信しました。", "complete": true}

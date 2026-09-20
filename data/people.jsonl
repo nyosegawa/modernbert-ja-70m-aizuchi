@@ -1,0 +1,514 @@
+{"text": "じゃあまたね", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみ", "cls": "none", "prev": "明日は奥様の誕生日ですね。おやすみなさい。", "complete": true}
+{"text": "ただいまー", "cls": "none", "prev": null, "complete": true}
+{"text": "いってきます", "cls": "none", "prev": "娘さんのお迎えは17時です。いってらっしゃい。", "complete": true}
+{"text": "ありがとうございます", "cls": "none", "prev": "佐藤さんの連絡先を登録しました。", "complete": true}
+{"text": "お疲れさま", "cls": "none", "prev": null, "complete": true}
+{"text": "またあとで", "cls": "none", "prev": "兄上との予定、あとで続きを伺いますね。", "complete": true}
+{"text": "こんばんは", "cls": "none", "prev": null, "complete": true}
+{"text": "どうも", "cls": "none", "prev": "妹さんの住所をメモしました。", "complete": true}
+{"text": "妻と出かけてくるからまたね", "cls": "none", "prev": null, "complete": true}
+{"text": "犬の散歩行ってくる、じゃあね", "cls": "none", "prev": null, "complete": true}
+{"text": "兄貴のこと相談乗ってくれてありがとね", "cls": "none", "prev": "お兄さんには時間を置いてから話すのがよさそうです。", "complete": true}
+{"text": "友達来るからいったん終わるね", "cls": "none", "prev": null, "complete": true}
+{"text": "息子の件、ありがとうございました", "cls": "none", "prev": "息子さんの塾の送迎、リマインドを入れておきました。", "complete": true}
+{"text": "さっきはありがとう 母に電話できたよ", "cls": "none", "prev": null, "complete": true}
+{"text": "えっと まあいいや", "cls": "none", "prev": "ほかに家族の予定はありますか?", "complete": true}
+{"text": "じゃ、おやすみなさい", "cls": "none", "prev": null, "complete": true}
+{"text": "同僚との話聞いてくれて助かりました", "cls": "none", "prev": "山田さんとは一度落ち着いて話すのがよいと思います。", "complete": true}
+{"text": "あー うん なんでもない", "cls": "none", "prev": "どうされましたか?", "complete": true}
+{"text": "おはよ 今日も頼むね", "cls": "none", "prev": null, "complete": true}
+{"text": "お世話になりました", "cls": "none", "prev": null, "complete": true}
+{"text": "猫が膝に乗ってきたからちょっと離れるね", "cls": "none", "prev": "高橋さんの送別会の候補日を出しますね。", "complete": true}
+{"text": "ごめん間違えて呼んだ", "cls": "none", "prev": "はい、なんでしょう。", "complete": true}
+{"text": "ばいばい", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがと", "cls": "none", "prev": "弟さんの誕生日、来週の水曜です。", "complete": true}
+{"text": "よろしくね", "cls": "none", "prev": null, "complete": true}
+{"text": "こんにちは", "cls": "none", "prev": null, "complete": true}
+{"text": "助かりました", "cls": "none", "prev": "義理のお母様への手土産、候補を3つ出しました。", "complete": true}
+{"text": "なんでもないです", "cls": "none", "prev": null, "complete": true}
+{"text": "あ いや なんでもない。娘が呼んでるから行くね", "cls": "none", "prev": "続きをどうぞ。", "complete": true}
+{"text": "妹の誕生日の件いろいろありがとう", "cls": "none", "prev": null, "complete": true}
+{"text": "父さんと出かけるからしばらく留守にするね", "cls": "none", "prev": null, "complete": true}
+{"text": "お母さんに電話するからいったん切るね", "cls": "none", "prev": "実家の番号を表示しました。", "complete": true}
+{"text": "はーい", "cls": "none", "prev": null, "complete": true}
+{"text": "感謝します ほんとに", "cls": "none", "prev": "ご主人との予定を共有しておきました。", "complete": true}
+{"text": "じゃあ夕飯食べてくる", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとうね 友達に伝えとく", "cls": "none", "prev": "田中さんの引っ越し祝いは観葉植物が人気です。", "complete": true}
+{"text": "うん", "cls": "flow", "prev": "奥様の誕生日プレゼント、候補を出しましょうか?", "complete": true}
+{"text": "それでお願い", "cls": "flow", "prev": "田中さんへの飲み会の返事は参加でよいですか?", "complete": true}
+{"text": "そうだね", "cls": "flow", "prev": "妹さんには先に連絡したほうがよさそうですね。", "complete": true}
+{"text": "はい、お願いします", "cls": "flow", "prev": "佐藤さんとのランチ、来週水曜で調整しますか?", "complete": true}
+{"text": "あー うん いい", "cls": "flow", "prev": "犬の予防接種の予約は来月にずらしますか?", "complete": true}
+{"text": "だいじょぶ", "cls": "flow", "prev": "弟さんへの送金メモ、そのまま残しますか?", "complete": true}
+{"text": "そうしよう", "cls": "flow", "prev": "同僚の送別会の幹事、引き受けると伝えましょうか?", "complete": true}
+{"text": "うん 頼む", "cls": "flow", "prev": "猫の餌の注文、いつものにしますか?", "complete": true}
+{"text": "それでいいです", "cls": "flow", "prev": "山田さんへの謝罪は電話ではなくメッセージで送りますか?", "complete": true}
+{"text": "オッケー", "cls": "flow", "prev": "お姉さんの引っ越し手伝い、土曜に入れますか?", "complete": true}
+{"text": "まあいいか うん", "cls": "flow", "prev": "高橋さんの誘い、今回は断りますか?", "complete": true}
+{"text": "はいはい", "cls": "flow", "prev": "おじいさまの誕生日、カレンダーに入れておきますね。", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "部長への相談メモ、まとめておきますか?", "complete": true}
+{"text": "うんそれで大丈夫", "cls": "flow", "prev": "奥様には帰りが遅くなると伝えますか?", "complete": true}
+{"text": "いいと思う", "cls": "flow", "prev": "友達の結婚祝い、予算は1万円でどうでしょう。", "complete": true}
+{"text": "そうそう", "cls": "flow", "prev": "娘さんの発表会は来週の日曜でしたよね?", "complete": true}
+{"text": "うん、やって", "cls": "flow", "prev": "鈴木さんとの約束、リマインドを前日に入れますか?", "complete": true}
+{"text": "ええ", "cls": "flow", "prev": "妹さんの件、あとで続きを話しますか?", "complete": true}
+{"text": "そっちで", "cls": "flow", "prev": "犬の散歩は朝と夕方、どちらに入れますか?", "complete": true}
+{"text": "うんうん", "cls": "flow", "prev": "お母様の通院に付き添うという話でしたよね。", "complete": true}
+{"text": "任せる", "cls": "flow", "prev": "同期の飲み会、店を選びましょうか?", "complete": true}
+{"text": "じゃあそれで", "cls": "flow", "prev": "プレゼントは図書カードにしますか?", "complete": true}
+{"text": "いいですよ", "cls": "flow", "prev": "息子さんのお迎えの時間、17時で登録しますか?", "complete": true}
+{"text": "うん そのままで", "cls": "flow", "prev": "隣の方へのお礼の文面、これで送りますか?", "complete": true}
+{"text": "了解 それで", "cls": "flow", "prev": "中村さんへは明日の朝に連絡しますね。", "complete": true}
+{"text": "はーい", "cls": "flow", "prev": "お義母さんの誕生日、来週ですよ。", "complete": true}
+{"text": "うん そうして", "cls": "flow", "prev": "お兄さんに電話する時間、今日の夜に入れましょうか?", "complete": true}
+{"text": "あ はい", "cls": "flow", "prev": "ご主人からのメッセージ、読み上げますか?", "complete": true}
+{"text": "いや いい", "cls": "flow", "prev": "猫の写真、共有アルバムに送りますか?", "complete": true}
+{"text": "今はいいや", "cls": "flow", "prev": "お友達の連絡先、登録しますか?", "complete": true}
+{"text": "うん 大丈夫", "cls": "flow", "prev": "加藤さんとの面談、そのまま進めていいですか?", "complete": true}
+{"text": "そうしてもらえる?", "cls": "flow", "prev": "父の日の予定、先に奥様に送っておきますか?", "complete": true}
+{"text": "うん ありがと", "cls": "flow", "prev": "弟さんの誕生日にリマインドを入れました。", "complete": true}
+{"text": "ないよ", "cls": "flow", "prev": "ほかにご家族の予定で入れるものはありますか?", "complete": true}
+{"text": "それでいこう", "cls": "flow", "prev": "同僚への返事は「来週なら大丈夫」でいいですか?", "complete": true}
+{"text": "はい それで", "cls": "flow", "prev": "奥様への連絡は18時に送りますか?", "complete": true}
+{"text": "うん もう一個", "cls": "flow", "prev": "娘さんのお迎えの件、以上ですか?", "complete": true}
+{"text": "なるほど じゃあそれで", "cls": "flow", "prev": "お兄さんは金曜のほうが都合がよいそうです。", "complete": true}
+{"text": "妻の誕生日3月12日 覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "タイマー10分 犬のごはん", "cls": "ack", "prev": null, "complete": true}
+{"text": "もう一回言って", "cls": "ack", "prev": "お姉さんの新しい住所は横浜市港北区です。", "complete": true}
+{"text": "音量下げて 娘が寝てるから", "cls": "ack", "prev": null, "complete": true}
+{"text": "メモして", "cls": "ack", "prev": null, "complete": true}
+{"text": "今の消して", "cls": "ack", "prev": "「弟に連絡」をメモしました。", "complete": true}
+{"text": "さっきの兄貴の話、メモしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "ちょっと待って", "cls": "ack", "prev": "では田中さんの件から順に読み上げますね。", "complete": true}
+{"text": "止めて", "cls": "ack", "prev": null, "complete": true}
+{"text": "覚えといて 田中さんは辛いもの苦手", "cls": "ack", "prev": null, "complete": true}
+{"text": "もっとゆっくり話して 父さんに聞かせるから", "cls": "ack", "prev": "お父様の検査の予定は来週月曜の10時です。", "complete": true}
+{"text": "30分後に「母に電話」ってリマインドして", "cls": "ack", "prev": null, "complete": true}
+{"text": "それ保存", "cls": "ack", "prev": "妹さんへの誕生日メッセージの下書きです。", "complete": true}
+{"text": "声大きくして", "cls": "ack", "prev": null, "complete": true}
+{"text": "佐藤さんの子どもの名前、ゆうきくんね 覚えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "今言ったこと繰り返して", "cls": "ack", "prev": "同期会は10月の第2土曜が有力です。", "complete": true}
+{"text": "猫のトイレ掃除、毎週日曜にリマインドお願いします", "cls": "ack", "prev": null, "complete": true}
+{"text": "メモ追加で 義母は和菓子派", "cls": "ack", "prev": "お義母さんの好みは「洋菓子」と記録があります。", "complete": true}
+{"text": "静かにして", "cls": "ack", "prev": null, "complete": true}
+{"text": "いったん止まって", "cls": "ack", "prev": "続けて高橋さんの予定を読み上げます。", "complete": true}
+{"text": "音量上げて", "cls": "ack", "prev": null, "complete": true}
+{"text": "続けて", "cls": "ack", "prev": "ここまでで奥様の予定は3件です。", "complete": true}
+{"text": "妹の新しい住所あとで言うから覚える準備しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "明日の朝7時に「弟の弁当」って言って", "cls": "ack", "prev": null, "complete": true}
+{"text": "今のなし", "cls": "ack", "prev": "「夫に謝る」をリマインドに入れました。", "complete": true}
+{"text": "5分計って", "cls": "ack", "prev": null, "complete": true}
+{"text": "部長の好きなお酒、日本酒って記録しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "読み上げやめて", "cls": "ack", "prev": "次に、山田さんからのメッセージです。", "complete": true}
+{"text": "覚えといてください 次の飲み会の幹事は高橋さん", "cls": "ack", "prev": null, "complete": true}
+{"text": "さっき言った田中さんの連絡先 もう一回言って", "cls": "ack", "prev": "田中さんの番号は090から始まります。", "complete": true}
+{"text": "タイマー止めて", "cls": "ack", "prev": null, "complete": true}
+{"text": "夫の帰宅時間 今日は21時ってメモ", "cls": "ack", "prev": null, "complete": true}
+{"text": "リマインド消して 山田さんとのやつ", "cls": "ack", "prev": "山田さんとのランチ、明日12時にリマインドします。", "complete": true}
+{"text": "声、もう少し小さく", "cls": "ack", "prev": null, "complete": true}
+{"text": "これメモっといて。姉は金曜休み", "cls": "ack", "prev": null, "complete": true}
+{"text": "一時停止", "cls": "ack", "prev": "息子さんの連絡帳を読み上げています。", "complete": true}
+{"text": "子どもの寝かしつけ20分、タイマーで", "cls": "ack", "prev": null, "complete": true}
+{"text": "名前だけ覚えて 鈴木ゆかりさん", "cls": "ack", "prev": "どなたの連絡先ですか?", "complete": true}
+{"text": "今の話あとで思い出せるようにしといて", "cls": "ack", "prev": "お兄さんとの口論の件ですね。", "complete": true}
+{"text": "ストップ", "cls": "ack", "prev": null, "complete": true}
+{"text": "母さんメール来てる?", "cls": "work", "prev": null, "complete": true}
+{"text": "明日の妻の予定教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "田中さんの連絡先調べて", "cls": "work", "prev": "田中さんに連絡しますか?", "complete": true}
+{"text": "犬にぶどうって大丈夫か調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "兄貴の予定は?", "cls": "work", "prev": null, "complete": true}
+{"text": "弟からLINE来てないか見て", "cls": "work", "prev": "弟さんへの送金の件ですね。", "complete": true}
+{"text": "来週 友達と会える日空いてる?", "cls": "work", "prev": null, "complete": true}
+{"text": "猫の去勢手術の相場ってどれくらい", "cls": "work", "prev": null, "complete": true}
+{"text": "同僚の送別会 近くでいい店探して", "cls": "work", "prev": "送別会は来週金曜ですね。", "complete": true}
+{"text": "妹の結婚式の招待状、メールで来てるか探して", "cls": "work", "prev": null, "complete": true}
+{"text": "妻から連絡来た?", "cls": "work", "prev": null, "complete": true}
+{"text": "今年の母の日 何日か検索して", "cls": "work", "prev": null, "complete": true}
+{"text": "高橋さん今日会社いる? スケジュール見て", "cls": "work", "prev": null, "complete": true}
+{"text": "子どもの学校の連絡、メールで来てたら読んで", "cls": "work", "prev": "おはようございます。", "complete": true}
+{"text": "妻へ送ったメッセージ 既読ついてる?", "cls": "work", "prev": null, "complete": true}
+{"text": "犬の予防接種いつ受けたかカレンダーで確認して", "cls": "work", "prev": "動物病院から案内が届いています。", "complete": true}
+{"text": "おじいちゃんの入院してる病院の面会時間 調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "父の予定教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "娘のピアノ発表会 何時からだっけ カレンダー見て", "cls": "work", "prev": null, "complete": true}
+{"text": "義父の家までの電車の時間教えて", "cls": "work", "prev": "お義父さんの家は千葉ですね。", "complete": true}
+{"text": "兄と行くキャンプ場の天気 今週末どう", "cls": "work", "prev": null, "complete": true}
+{"text": "職場の飲み会の日 予定に入ってる?", "cls": "work", "prev": null, "complete": true}
+{"text": "娘の担任の先生の名前メールに書いてあったよね、探して", "cls": "work", "prev": "面談の日程ですね。", "complete": true}
+{"text": "部長から返事来た?", "cls": "work", "prev": null, "complete": true}
+{"text": "友達の引っ越し祝い何がいいか検索して", "cls": "work", "prev": "加藤さんの引っ越しは来月でしたね。", "complete": true}
+{"text": "妹のメール見て", "cls": "work", "prev": null, "complete": true}
+{"text": "妻の実家の住所、連絡先にあるか見て", "cls": "work", "prev": null, "complete": true}
+{"text": "子どもの予防接種のスケジュール 市のサイトで調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "同期の山田の誕生日、いつだったか予定表から探して", "cls": "work", "prev": "山田さんへのプレゼントの件ですね。", "complete": true}
+{"text": "母さんに送るお菓子 ネットで評判いいの見つけて", "cls": "work", "prev": null, "complete": true}
+{"text": "実家の天気は", "cls": "work", "prev": null, "complete": true}
+{"text": "姉の飛行機何時着か メール確認して", "cls": "work", "prev": "お姉さんは明日到着ですね。", "complete": true}
+{"text": "猫の餌検索して", "cls": "work", "prev": null, "complete": true}
+{"text": "友達との旅行の宿、予約確認メール来てる?", "cls": "work", "prev": null, "complete": true}
+{"text": "弟の会社の株価", "cls": "work", "prev": null, "complete": true}
+{"text": "夫のカレンダーで金曜の夜空いてるか見て", "cls": "work", "prev": "ご夫婦での外食の件ですね。", "complete": true}
+{"text": "鈴木さんに送ったファイル 開かれたか見れる?", "cls": "work", "prev": null, "complete": true}
+{"text": "保育園の連絡帳のアプリ 今日の記録取ってきて", "cls": "work", "prev": null, "complete": true}
+{"text": "おばあちゃんの家の近くの薬局、今開いてるか調べてください", "cls": "work", "prev": "おばあさまのお薬の件ですね。", "complete": true}
+{"text": "上司の出張 来週のどこだったか予定見といて", "cls": "work", "prev": null, "complete": true}
+{"text": "なんで妻はあんなに怒ってたんだと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "兄貴と仲直りするにはどうしたらいい", "cls": "think", "prev": "お兄さんとは2週間連絡を取っていないのですね。", "complete": true}
+{"text": "友達の結婚祝い 現金と品物どっちがいいと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "犬が夜鳴きするのってなんでだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "同僚に注意するとき、どう言えば角が立たない?", "cls": "think", "prev": "山田さんの遅刻の件ですね。", "complete": true}
+{"text": "説明して 反抗期ってどういうこと", "cls": "think", "prev": null, "complete": true}
+{"text": "母さんの言うこと聞くべきかな", "cls": "think", "prev": "お母様は同居を勧めているのですね。", "complete": true}
+{"text": "どう思う?", "cls": "think", "prev": "奥様は転職に反対されているとのことでした。", "complete": true}
+{"text": "どっちがいい", "cls": "think", "prev": "妹さんへのお祝いは花束とスイーツの2案です。", "complete": true}
+{"text": "なんでだろ", "cls": "think", "prev": "猫ちゃんが最近よく鳴くとのことでしたね。", "complete": true}
+{"text": "部長ってなんであんな言い方するんだろうね", "cls": "think", "prev": null, "complete": true}
+{"text": "猫が急に噛むようになったの 理由ありそう?", "cls": "think", "prev": null, "complete": true}
+{"text": "娘にスマホ持たせるの まだ早いかな", "cls": "think", "prev": null, "complete": true}
+{"text": "義母との距離感、どうとればいいんだろう", "cls": "think", "prev": "お義母さんが週3で来られるのですね。", "complete": true}
+{"text": "友達に金貸すのってやっぱりやめたほうがいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "弟の転職 賛成するべき?", "cls": "think", "prev": "弟さんは来月には決めたいそうです。", "complete": true}
+{"text": "どう切り出す?", "cls": "think", "prev": "ご主人に家事の分担を相談したいのですね。", "complete": true}
+{"text": "意味わかんない なんで", "cls": "think", "prev": "高橋さんは飲み会を欠席するそうです。", "complete": true}
+{"text": "職場の人間関係ってなんでこう面倒なんだろう", "cls": "think", "prev": null, "complete": true}
+{"text": "犬と猫、うちで一緒に飼えると思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "夫に家事分担の話 どう持ちかけたらいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "どっちが正しい?", "cls": "think", "prev": "お姉さんは施設、弟さんは在宅介護を希望しています。", "complete": true}
+{"text": "上司と先輩、意見割れてるんだけどどっちにつくべき", "cls": "think", "prev": null, "complete": true}
+{"text": "どうしてそうなっちゃうんだろ", "cls": "think", "prev": "娘さんは部活をやめると言っているのですね。", "complete": true}
+{"text": "教えて 子どもが友達とけんかしたとき親はどこまで口出すもの?", "cls": "think", "prev": null, "complete": true}
+{"text": "妹がずっと連絡くれないんだけど どう解釈すればいい", "cls": "think", "prev": null, "complete": true}
+{"text": "遠距離の友達との付き合い、どう続けるのがいいんだろ", "cls": "think", "prev": null, "complete": true}
+{"text": "高橋さんの言った「考えとく」って、断りってこと?", "cls": "think", "prev": "高橋さんからの返信は「考えとく」の一言でした。", "complete": true}
+{"text": "理由ある?", "cls": "think", "prev": "ご主人は今週も遅くなるそうです。", "complete": true}
+{"text": "どうすればいい", "cls": "think", "prev": "息子さんが学校に行きたくないと言っているのですね。", "complete": true}
+{"text": "親の介護 兄弟でどう分担するのが普通なの", "cls": "think", "prev": null, "complete": true}
+{"text": "犬にとって留守番って何時間くらいが限度だと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "同僚の誕生日会 断ってもいいと思う?", "cls": "think", "prev": "中村さんの誕生日会は金曜です。", "complete": true}
+{"text": "なんでうちの猫だけ人見知りなんだろうね", "cls": "think", "prev": null, "complete": true}
+{"text": "子どもの習い事、本人が嫌がってるなら辞めさせるべきかな", "cls": "think", "prev": null, "complete": true}
+{"text": "説明してほしい 共依存ってどういう関係のこと", "cls": "think", "prev": null, "complete": true}
+{"text": "どうしよう", "cls": "think", "prev": "田中さんが結婚式の受付をお願いしたいそうです。", "complete": true}
+{"text": "元カノと友達に戻るって可能だと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "母と父 どっちに先に話すべき?", "cls": "think", "prev": "留学の件ですね。", "complete": true}
+{"text": "部下が急に元気なくなったんだけど、何が考えられる?", "cls": "think", "prev": null, "complete": true}
+{"text": "明日って妻の誕生日だっけ", "cls": "check", "prev": "明日の予定は2件あります。", "complete": true}
+{"text": "田中さんに返事した?", "cls": "check", "prev": "田中さんからの誘いは金曜の飲み会です。", "complete": true}
+{"text": "犬の薬 朝あげたっけ", "cls": "check", "prev": "今日の朝のリマインドは2つ実行済みです。", "complete": true}
+{"text": "兄貴、来るの土曜でいいんだよね", "cls": "check", "prev": "週末の予定を登録しました。", "complete": true}
+{"text": "これで送っていい?", "cls": "check", "prev": "お母様への返信はこちらの文面です。", "complete": true}
+{"text": "母さんの電話番号 変わってないよね", "cls": "check", "prev": "実家に電話をかけます。", "complete": true}
+{"text": "保存した?", "cls": "check", "prev": "佐藤さんの連絡先を入力しました。", "complete": true}
+{"text": "猫の病院って火曜休みだっけ", "cls": "check", "prev": "次の通院は火曜日に入っています。", "complete": true}
+{"text": "高橋さん 部署違ったっけ", "cls": "check", "prev": "高橋さんは営業部の方ですね。", "complete": true}
+{"text": "娘のお迎え、今日は僕だよね?", "cls": "check", "prev": "保育園の予定は17時です。", "complete": true}
+{"text": "覚えてる? 前に言ったやつ", "cls": "check", "prev": "お義母さんの好みは和菓子でしたね。", "complete": true}
+{"text": "さっきの妻への返事 送れた?", "cls": "check", "prev": "メッセージを作成しました。", "complete": true}
+{"text": "弟の誕生日 来月だよね", "cls": "check", "prev": "来月の家族の予定は3件あります。", "complete": true}
+{"text": "合ってる?", "cls": "check", "prev": "山田さんの部署は総務です。", "complete": true}
+{"text": "結婚式って来週の日曜であってます?", "cls": "check", "prev": "妹さんの結婚式の招待状は届いています。", "complete": true}
+{"text": "犬の散歩 リマインド入った?", "cls": "check", "prev": "承知しました。", "complete": true}
+{"text": "部長へのメール、敬語おかしくなかった?", "cls": "check", "prev": "送信しました。", "complete": true}
+{"text": "あれ 鈴木さんって子どもいたっけ", "cls": "check", "prev": "鈴木さんのお子さんの予定を登録しました。", "complete": true}
+{"text": "今日って父さんの命日で合ってる?", "cls": "check", "prev": "今日は9月20日です。", "complete": true}
+{"text": "消した?", "cls": "check", "prev": "古いリマインドを整理しました。", "complete": true}
+{"text": "姉に伝えといてって言ったやつ やった?", "cls": "check", "prev": "昨日のメモを確認しますか。", "complete": true}
+{"text": "それ 同僚の中村さんのほう?", "cls": "check", "prev": "中村さんとの予定が入っています。", "complete": true}
+{"text": "明日雨だっけ 犬の散歩の日なんだけど", "cls": "check", "prev": "明日の朝は散歩の予定です。", "complete": true}
+{"text": "友達の結婚祝い もう送ったよね", "cls": "check", "prev": "先週の予定を表示しています。", "complete": true}
+{"text": "猫のごはん、注文済み?", "cls": "check", "prev": "定期便の確認を終えました。", "complete": true}
+{"text": "母さんの誕生日 4日で合ってる?", "cls": "check", "prev": "誕生日プレゼントの候補を出します。", "complete": true}
+{"text": "妻に共有した?", "cls": "check", "prev": "週末の予定を更新しました。", "complete": true}
+{"text": "お義父さんの飛行機 羽田だよね", "cls": "check", "prev": "到着予定は15時です。", "complete": true}
+{"text": "息子の塾 今日休みだっけ", "cls": "check", "prev": "今日の予定は塾の1件です。", "complete": true}
+{"text": "大丈夫だった?", "cls": "check", "prev": "お兄さんへのメッセージを送りました。", "complete": true}
+{"text": "あってる?", "cls": "check", "prev": "犬の体重は8キロで記録しています。", "complete": true}
+{"text": "佐藤さんって禁煙したんだっけ", "cls": "check", "prev": "佐藤さんの好みはビールと記録があります。", "complete": true}
+{"text": "ちゃんと聞こえてた?", "cls": "check", "prev": "妹さんの件、記録しました。", "complete": true}
+{"text": "夫、今日飲み会って言ってたよね", "cls": "check", "prev": "今夜のご主人の予定は空いています。", "complete": true}
+{"text": "これ以上もう予定ない?", "cls": "check", "prev": "来週の予定は以上です。", "complete": true}
+{"text": "前に言った犬アレルギーの友達って加藤さんだっけ", "cls": "check", "prev": "週末の来客の予定を確認しました。", "complete": true}
+{"text": "登録できてます?", "cls": "check", "prev": "隣の田中さんの連絡先を追加しました。", "complete": true}
+{"text": "同期会って毎年10月だったよね", "cls": "check", "prev": "同期会の予定はまだ入っていません。", "complete": true}
+{"text": "犬 去年もこの薬だった?", "cls": "check", "prev": "フィラリアの薬のリマインドです。", "complete": true}
+{"text": "あの店でよかった?", "cls": "check", "prev": "送別会の会場は「はなや」で予約済みです。", "complete": true}
+{"text": "今日は妻が実家に帰ってる", "cls": "understand", "prev": null, "complete": true}
+{"text": "兄貴が来月転勤になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "犬 明日トリミングなんだ", "cls": "understand", "prev": "明日の予定は空いています。", "complete": true}
+{"text": "母さん退院した", "cls": "understand", "prev": null, "complete": true}
+{"text": "佐藤さん異動だって", "cls": "understand", "prev": null, "complete": true}
+{"text": "娘が来年から中学生", "cls": "understand", "prev": "娘さんは今おいくつですか?", "complete": true}
+{"text": "猫の名前 ミルクにした", "cls": "understand", "prev": "新しい猫ちゃんの名前は決まりましたか?", "complete": true}
+{"text": "弟は今大阪に住んでる", "cls": "understand", "prev": null, "complete": true}
+{"text": "友達の田中が結婚するらしい", "cls": "understand", "prev": null, "complete": true}
+{"text": "明日、義理の両親が泊まりに来る", "cls": "understand", "prev": "明日のご予定を伺います。", "complete": true}
+{"text": "部長 今週ずっと出張なんだよね", "cls": "understand", "prev": null, "complete": true}
+{"text": "姉と一緒にキャンプ行くことにした", "cls": "understand", "prev": "連休はどうされますか?", "complete": true}
+{"text": "夫は今日夜勤", "cls": "understand", "prev": null, "complete": true}
+{"text": "うちの猫 12歳なんです", "cls": "understand", "prev": "猫ちゃんの年齢を記録しますか?", "complete": true}
+{"text": "高橋さんとは同期", "cls": "understand", "prev": "高橋さんとはどういうご関係ですか?", "complete": true}
+{"text": "娘は高2", "cls": "understand", "prev": null, "complete": true}
+{"text": "妻の誕生日は5月です", "cls": "understand", "prev": null, "complete": true}
+{"text": "おばあちゃんは今施設に入ってる", "cls": "understand", "prev": null, "complete": true}
+{"text": "犬の種類は柴犬", "cls": "understand", "prev": "犬種を教えていただけますか?", "complete": true}
+{"text": "同僚の山田さんが育休に入るそうです", "cls": "understand", "prev": null, "complete": true}
+{"text": "今夜は友達とごはん", "cls": "understand", "prev": "今夜のご予定はありますか?", "complete": true}
+{"text": "子どもの保育園 来月から変わる", "cls": "understand", "prev": null, "complete": true}
+{"text": "父は定年してから畑やってる", "cls": "understand", "prev": null, "complete": true}
+{"text": "えっと 妹が今度うちに来ることになって で 来週の金曜", "cls": "understand", "prev": null, "complete": true}
+{"text": "猫、2匹います", "cls": "understand", "prev": "ペットは飼っていますか?", "complete": true}
+{"text": "上司が変わったんだよね 先月から", "cls": "understand", "prev": null, "complete": true}
+{"text": "娘の担任 鈴木先生になった", "cls": "understand", "prev": "面談の相手はどなたですか?", "complete": true}
+{"text": "妻は看護師してる", "cls": "understand", "prev": null, "complete": true}
+{"text": "友達の引っ越し 3月に決まった", "cls": "understand", "prev": "加藤さんの引っ越しはいつ頃ですか?", "complete": true}
+{"text": "兄は独身", "cls": "understand", "prev": null, "complete": true}
+{"text": "犬の散歩は毎朝6時に行ってます", "cls": "understand", "prev": "散歩の時間にリマインドを入れますか?", "complete": true}
+{"text": "中村さんは来週から在宅らしい", "cls": "understand", "prev": null, "complete": true}
+{"text": "母さんとは週1で電話してる", "cls": "understand", "prev": null, "complete": true}
+{"text": "息子の誕生日会 うちでやることになった", "cls": "understand", "prev": "誕生日会の会場は決まりましたか?", "complete": true}
+{"text": "うちは4人家族", "cls": "understand", "prev": null, "complete": true}
+{"text": "同期の飲み会、月末になったって", "cls": "understand", "prev": "飲み会の日程は未定でしたね。", "complete": true}
+{"text": "義母は近所に住んでます", "cls": "understand", "prev": null, "complete": true}
+{"text": "弟の子ども 今3歳", "cls": "understand", "prev": "甥御さんの年齢を教えてください。", "complete": true}
+{"text": "夫の会社 来年から週休3日になるんだって", "cls": "understand", "prev": null, "complete": true}
+{"text": "猫の病院 変えました", "cls": "understand", "prev": "次の通院はいつもの病院ですか?", "complete": true}
+{"text": "妻の言うことのほうが正しいと思う", "cls": "agree", "prev": "奥様は貯金を優先したいそうですね。", "complete": true}
+{"text": "兄貴のやり方はちょっと雑だよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "佐藤さんは信頼できる人だと思います", "cls": "agree", "prev": "佐藤さんに相談されますか?", "complete": true}
+{"text": "やっぱり犬は柴犬が一番かわいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "弟の彼女 いい子だった", "cls": "agree", "prev": "昨日は弟さんのご紹介でしたね。", "complete": true}
+{"text": "あの上司は無理", "cls": "agree", "prev": null, "complete": true}
+{"text": "娘の判断は正しいと思うな", "cls": "agree", "prev": "娘さんは部活を辞めることにしたのですね。", "complete": true}
+{"text": "田中さんとは気が合う", "cls": "agree", "prev": null, "complete": true}
+{"text": "猫のほうが飼いやすいと思う", "cls": "agree", "prev": "犬と猫、どちらを検討していますか?", "complete": true}
+{"text": "母さんの料理は最高", "cls": "agree", "prev": null, "complete": true}
+{"text": "部長の言い方、あれはないよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "友達の新居 すごく良かったです", "cls": "agree", "prev": "週末はお友達の家に行かれたのですね。", "complete": true}
+{"text": "うちの子は素直だと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "高橋さんの企画 私は賛成", "cls": "agree", "prev": "高橋さんの企画には反対意見も出ているようです。", "complete": true}
+{"text": "夫の親は優しい", "cls": "agree", "prev": null, "complete": true}
+{"text": "妹の彼氏はちょっと軽い気がする", "cls": "agree", "prev": null, "complete": true}
+{"text": "やっぱ家族が一番だね", "cls": "agree", "prev": "お正月は実家に集まるのですね。", "complete": true}
+{"text": "山田さんの提案、悪くないと思う", "cls": "agree", "prev": "山田さんは分担を週替わりにしたいそうです。", "complete": true}
+{"text": "うちの犬 賢いんだよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "義母のアドバイスはためになる", "cls": "agree", "prev": null, "complete": true}
+{"text": "あの先生は合ってない気がする", "cls": "agree", "prev": "息子さんの塾の先生が変わったのですね。", "complete": true}
+{"text": "兄と弟なら弟のほうが頼りになる", "cls": "agree", "prev": null, "complete": true}
+{"text": "鈴木さんは優秀", "cls": "agree", "prev": null, "complete": true}
+{"text": "子どもに厳しくしすぎるのは良くないと思うんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "猫は夜行性だから夜遊ぶのは自然だと思う", "cls": "agree", "prev": "猫ちゃんが夜に走り回るとのことでした。", "complete": true}
+{"text": "同僚の中村さんの意見に賛成です", "cls": "agree", "prev": null, "complete": true}
+{"text": "犬の散歩は朝のほうがいい", "cls": "agree", "prev": "散歩は夕方に変更しますか?", "complete": true}
+{"text": "妻はセンスいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "あいつは悪いやつじゃないよ", "cls": "agree", "prev": "山田さんとのトラブルの件ですね。", "complete": true}
+{"text": "友達は多い方がいい", "cls": "agree", "prev": null, "complete": true}
+{"text": "父さんは頑固すぎる", "cls": "agree", "prev": null, "complete": true}
+{"text": "姉のほうが料理うまい", "cls": "agree", "prev": "誕生日の料理はどなたが担当ですか?", "complete": true}
+{"text": "上司との飲み会は必要だと思います", "cls": "agree", "prev": null, "complete": true}
+{"text": "息子の作文 けっこう上手だった", "cls": "agree", "prev": null, "complete": true}
+{"text": "この店なら友達も気に入ると思う", "cls": "agree", "prev": "候補は駅前のイタリアンです。", "complete": true}
+{"text": "義父の言うことも一理あると思うんだよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "うん いい人だよ", "cls": "agree", "prev": "新しい上司の加藤さんはどんな方ですか?", "complete": true}
+{"text": "ペットは家族だと思ってる", "cls": "agree", "prev": null, "complete": true}
+{"text": "加藤さんのほうが話しやすい", "cls": "agree", "prev": "相談相手は加藤さんと鈴木さんのどちらにしますか?", "complete": true}
+{"text": "弟の転職先、良い会社だと思うよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "妻とけんかした", "cls": "empathy", "prev": null, "complete": true}
+{"text": "兄貴がまた金貸してって言ってきてさ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "犬が病気で ずっと看病してて疲れた", "cls": "empathy", "prev": "今日はどうでしたか?", "complete": true}
+{"text": "母さんが心配ばっかりしてきてしんどい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "上司に怒られた", "cls": "empathy", "prev": "お疲れさまです。", "complete": true}
+{"text": "娘が全然口きいてくれない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "猫が死んじゃった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "同僚が仕事押し付けてくるんだよね", "cls": "empathy", "prev": "今週は残業が多いですね。", "complete": true}
+{"text": "友達に裏切られた気分", "cls": "empathy", "prev": null, "complete": true}
+{"text": "義母と話すの 正直きつい", "cls": "empathy", "prev": "明日はお義母さんが来られる日ですね。", "complete": true}
+{"text": "夫が家事全然しなくて もう限界", "cls": "empathy", "prev": null, "complete": true}
+{"text": "息子が学校行きたくないって", "cls": "empathy", "prev": null, "complete": true}
+{"text": "弟と連絡取れなくて不安", "cls": "empathy", "prev": "弟さんからの返信はまだありません。", "complete": true}
+{"text": "田中さんに嫌われてる気がする", "cls": "empathy", "prev": null, "complete": true}
+{"text": "疲れた", "cls": "empathy", "prev": "おかえりなさい。", "complete": true}
+{"text": "つらいなあ", "cls": "empathy", "prev": "お姉さんとの件ですね。", "complete": true}
+{"text": "もうやだ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "父さんが倒れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "一人で子育て回すの無理", "cls": "empathy", "prev": "ご主人は今週も出張ですね。", "complete": true}
+{"text": "佐藤さんとぎくしゃくしててさ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "犬が老いてきて、見てるのつらい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "姉と口論になって まだ気まずい", "cls": "empathy", "prev": "お姉さんの引っ越しの手伝いは土曜です。", "complete": true}
+{"text": "部長に無視されてる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "実家帰るたび結婚のこと言われる", "cls": "empathy", "prev": "来週は帰省の予定ですね。", "complete": true}
+{"text": "子どもの夜泣きで全然寝れてない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "職場で孤立してる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "高橋さんの陰口聞いちゃって 落ち込んでる", "cls": "empathy", "prev": "どうされましたか?", "complete": true}
+{"text": "うちの猫 ごはん食べなくなってて心配", "cls": "empathy", "prev": null, "complete": true}
+{"text": "妻に「もういい」って言われた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "友達の結婚式、ひとりだけ呼ばれてなかった", "cls": "empathy", "prev": "中村さんの結婚式は来月ですね。", "complete": true}
+{"text": "泣きそう", "cls": "empathy", "prev": null, "complete": true}
+{"text": "家族に理解してもらえない", "cls": "empathy", "prev": "転職の件、ご家族には話されましたか?", "complete": true}
+{"text": "弟の結婚 親が反対しててもめてる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "山田さん 僕の手柄取ったんだよ", "cls": "empathy", "prev": "今日の会議はいかがでしたか?", "complete": true}
+{"text": "息子と全然会話がない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "親の介護 ぜんぶ私に来てる", "cls": "empathy", "prev": "お母様の通院は週2回ですね。", "complete": true}
+{"text": "あー もうだめ", "cls": "empathy", "prev": null, "complete": true}
+{"text": "上司との1on1が憂鬱すぎる", "cls": "empathy", "prev": "明日の10時に鈴木さんとの1on1があります。", "complete": true}
+{"text": "ペット可の物件見つからなくて困ってる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "妻と仲直りできた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "兄貴の結婚決まった!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "犬 無事に手術終わった", "cls": "cheer", "prev": "手術はどうでしたか?", "complete": true}
+{"text": "娘が受験受かった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "部長に褒められた", "cls": "cheer", "prev": "お疲れさまでした。", "complete": true}
+{"text": "猫が膝に乗ってくれた 初めて", "cls": "cheer", "prev": null, "complete": true}
+{"text": "友達との旅行 決まったよ", "cls": "cheer", "prev": "旅行の日程は調整中でしたね。", "complete": true}
+{"text": "息子が初めて歩いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "母さん 元気になってきた", "cls": "cheer", "prev": "お母様の退院は来週ですね。", "complete": true}
+{"text": "高橋さんとやっと仲良くなれた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "やった", "cls": "cheer", "prev": "弟さんから内定の連絡が来ています。", "complete": true}
+{"text": "できた!", "cls": "cheer", "prev": null, "complete": true}
+{"text": "うれしい", "cls": "cheer", "prev": "田中さんから誕生日のメッセージが届いています。", "complete": true}
+{"text": "最高", "cls": "cheer", "prev": null, "complete": true}
+{"text": "妹に赤ちゃん生まれた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "夫がサプライズでケーキ買ってきてくれた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "上司が昇進推薦してくれたって", "cls": "cheer", "prev": "面談はいかがでしたか?", "complete": true}
+{"text": "犬がお座り覚えた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "弟が就職決まった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "田中さんが誕生日覚えててくれて", "cls": "cheer", "prev": "今日は誕生日ですね。", "complete": true}
+{"text": "子どもの発表会 うまくいった", "cls": "cheer", "prev": "発表会はどうでしたか?", "complete": true}
+{"text": "父さんの手術、成功したって", "cls": "cheer", "prev": null, "complete": true}
+{"text": "猫の里親見つかった", "cls": "cheer", "prev": "里親募集の投稿から1週間ですね。", "complete": true}
+{"text": "同僚と飲んで めっちゃ盛り上がった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "家族旅行 楽しかったー", "cls": "cheer", "prev": "おかえりなさい。", "complete": true}
+{"text": "娘が「ありがとう」って手紙くれた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "姉と久しぶりにゆっくり話せた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "通った 息子の推薦", "cls": "cheer", "prev": "推薦の結果は今日でしたね。", "complete": true}
+{"text": "佐藤さんがチームに戻ってくる", "cls": "cheer", "prev": null, "complete": true}
+{"text": "犬の検査 異常なしでした", "cls": "cheer", "prev": "検査の結果は出ましたか?", "complete": true}
+{"text": "妻が喜んでくれた", "cls": "cheer", "prev": "プレゼントは渡せましたか?", "complete": true}
+{"text": "息子がテスト満点", "cls": "cheer", "prev": null, "complete": true}
+{"text": "中村さんに感謝された", "cls": "cheer", "prev": null, "complete": true}
+{"text": "実家の猫 元気だった", "cls": "cheer", "prev": "帰省はいかがでしたか?", "complete": true}
+{"text": "友達と20年ぶりに再会した", "cls": "cheer", "prev": null, "complete": true}
+{"text": "義母が孫の名前気に入ってくれた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "弟の店 開店初日で満席だったって", "cls": "cheer", "prev": "弟さんのお店は今日開店でしたね。", "complete": true}
+{"text": "山田さんと和解できました", "cls": "cheer", "prev": "山田さんとの話し合いはどうでしたか?", "complete": true}
+{"text": "犬が初めて呼んだら来た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "良かった 母さん無事だった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "え 兄貴が離婚するらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "妻が急に仕事辞めるって言い出した", "cls": "surprise", "prev": null, "complete": true}
+{"text": "佐藤さん 会社辞めるんだって", "cls": "surprise", "prev": "今日の会議の予定を表示します。", "complete": true}
+{"text": "犬が2階まで上がってた いつの間に", "cls": "surprise", "prev": null, "complete": true}
+{"text": "母さんがスマホ使えるようになってた", "cls": "surprise", "prev": "お母様への連絡は固定電話でしたね。", "complete": true}
+{"text": "娘が彼氏いるらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "うちの猫、隣の家でごはんもらってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "部長が来月から海外だって", "cls": "surprise", "prev": "来月の予定を確認しますか?", "complete": true}
+{"text": "田中さんが実は既婚だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "弟が突然帰ってきた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "まじで", "cls": "surprise", "prev": "高橋さんは今日で退職だそうです。", "complete": true}
+{"text": "うそでしょ", "cls": "surprise", "prev": "お義父さんの誕生日は今日です。", "complete": true}
+{"text": "えっ ほんとに?", "cls": "surprise", "prev": "妹さんから結婚の報告が届いています。", "complete": true}
+{"text": "信じられない", "cls": "surprise", "prev": "山田さんは異動で大阪に行くそうです。", "complete": true}
+{"text": "知らなかった", "cls": "surprise", "prev": "鈴木さんは来月ご出産だそうです。", "complete": true}
+{"text": "高橋さんって社長の息子だったの", "cls": "surprise", "prev": null, "complete": true}
+{"text": "息子の身長 俺超えてた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "義母が急に来るって", "cls": "surprise", "prev": "今日のご予定は空いています。", "complete": true}
+{"text": "友達が芸人になってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "夫が料理してた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "姉が引っ越すって 聞いてない", "cls": "surprise", "prev": "お姉さんの新住所を登録しますか?", "complete": true}
+{"text": "猫が実はオスだった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "山田さん 年上だったんだ", "cls": "surprise", "prev": "山田さんは1985年生まれです。", "complete": true}
+{"text": "妹の彼氏、同じ会社の人だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "父さんが再婚するらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "犬が夢見てた 寝言言ってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "上司が俺の元カノの兄だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "子どもが一人で電車乗って帰ってきた", "cls": "surprise", "prev": "お迎えの予定は16時でした。", "complete": true}
+{"text": "鈴木さんが来週で退職だって 今聞いた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "まさか", "cls": "surprise", "prev": "お兄さんが会社を辞めたそうです。", "complete": true}
+{"text": "うわ そうなの", "cls": "surprise", "prev": "中村さんは来月から育休に入ります。", "complete": true}
+{"text": "中村さんの奥さん 同級生だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "母さんの実家が神社だったの初めて知った", "cls": "surprise", "prev": null, "complete": true}
+{"text": "猫が犬と仲良くなってた", "cls": "surprise", "prev": "ペットの相性を心配されていましたね。", "complete": true}
+{"text": "妻の誕生日 俺と同じ日だったの 今気づいた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "兄が会社作ってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "友達の家 めちゃくちゃ豪邸だった", "cls": "surprise", "prev": "加藤さんのお宅に行かれたのですね。", "complete": true}
+{"text": "娘の担任 俺の同級生", "cls": "surprise", "prev": null, "complete": true}
+{"text": "息子がプログラミングで賞取ってた、聞いてない", "cls": "surprise", "prev": null, "complete": true}
+{"text": "義父が元プロ野球選手だったって", "cls": "surprise", "prev": "お義父さんの趣味を記録しますか?", "complete": true}
+{"text": "いや違う 兄貴じゃなくて弟", "cls": "correct", "prev": "お兄さんの誕生日にリマインドを入れました。", "complete": true}
+{"text": "そうじゃなくて 妻の実家のほう", "cls": "correct", "prev": "ご実家の住所を表示します。", "complete": true}
+{"text": "違う、犬の病院", "cls": "correct", "prev": "猫の病院の予約は火曜です。", "complete": true}
+{"text": "田中じゃなくて高橋さん", "cls": "correct", "prev": "田中さんに返信を送りますか?", "complete": true}
+{"text": "さっき言ったのは金曜だよ", "cls": "correct", "prev": "木曜の飲み会を登録しました。", "complete": true}
+{"text": "母じゃない 義母", "cls": "correct", "prev": "お母様の誕生日は5月ですね。", "complete": true}
+{"text": "いや 娘のほう", "cls": "correct", "prev": "息子さんのお迎えは17時です。", "complete": true}
+{"text": "佐藤さんは営業じゃなくて総務", "cls": "correct", "prev": "営業部の佐藤さんですね。", "complete": true}
+{"text": "違う違う 飲み会の場所じゃなくて時間", "cls": "correct", "prev": "会場は新宿の「はなや」です。", "complete": true}
+{"text": "そうじゃない", "cls": "correct", "prev": "猫の餌を注文しました。", "complete": true}
+{"text": "ちがう", "cls": "correct", "prev": "ご主人へのメッセージを送信します。", "complete": true}
+{"text": "逆 姉が上", "cls": "correct", "prev": "お姉さんは妹さんより年下でしたね。", "complete": true}
+{"text": "うん じゃなくて 覚えといてって言ったの", "cls": "correct", "prev": "検索しますか?", "complete": true}
+{"text": "山田さんじゃなくて山口さん", "cls": "correct", "prev": "山田さんの連絡先を開きます。", "complete": true}
+{"text": "あ いや 来週じゃなくて再来週", "cls": "correct", "prev": "来週末の帰省を登録しました。", "complete": true}
+{"text": "犬じゃなくて猫の話", "cls": "correct", "prev": "ワンちゃんの体調ですね。", "complete": true}
+{"text": "それは前の上司 今は中村さん", "cls": "correct", "prev": "上司の鈴木さんに送ります。", "complete": true}
+{"text": "誕生日じゃなくて結婚記念日", "cls": "correct", "prev": "奥様の誕生日にリマインドしますね。", "complete": true}
+{"text": "ちょっと待って そういう意味じゃない", "cls": "correct", "prev": "弟さんとの縁を切りたいということですね。", "complete": true}
+{"text": "名前間違ってる、ゆうきじゃなくてゆうと", "cls": "correct", "prev": "ゆうきくんの発表会ですね。", "complete": true}
+{"text": "息子じゃなくて甥", "cls": "correct", "prev": "息子さんの入学祝いですね。", "complete": true}
+{"text": "いや 送るんじゃなくて下書きだけ", "cls": "correct", "prev": "部長にメールを送信しました。", "complete": true}
+{"text": "違います 父のほうです", "cls": "correct", "prev": "お母様の通院は月曜ですね。", "complete": true}
+{"text": "3人じゃなくて4人ね 猫も入れて", "cls": "correct", "prev": "ご家族は3人ですね。", "complete": true}
+{"text": "そうじゃなくて 友達の加藤", "cls": "correct", "prev": "同僚の加藤さんに連絡しますか。", "complete": true}
+{"text": "木曜って言ったっけ 水曜のつもりだった", "cls": "correct", "prev": "木曜のランチを登録しました。", "complete": true}
+{"text": "訂正 妻じゃなくて僕が行く", "cls": "correct", "prev": "奥様がお迎えに行くと記録しました。", "complete": true}
+{"text": "あ ごめん さっきのは来月の話", "cls": "correct", "prev": "今月の家族旅行ですね。", "complete": true}
+{"text": "違う人", "cls": "correct", "prev": "鈴木さん、営業部の方ですね。", "complete": true}
+{"text": "それじゃない", "cls": "correct", "prev": "先週の写真を表示します。", "complete": true}
+{"text": "違うよ、東京じゃなくて大阪の妹", "cls": "correct", "prev": "東京にお住まいの妹さんですね。", "complete": true}
+{"text": "いやいや 飼ってるのは犬だけ", "cls": "correct", "prev": "猫ちゃんの分もリマインドしますか?", "complete": true}
+{"text": "昨日じゃなくて一昨日", "cls": "correct", "prev": "昨日のけんかの件ですね。", "complete": true}
+{"text": "部長じゃない 課長", "cls": "correct", "prev": "部長への相談メモを作成します。", "complete": true}
+{"text": "違う 聞きたいのは天気じゃなくて予定", "cls": "correct", "prev": "週末の天気は晴れです。", "complete": true}
+{"text": "言い直す 会うのは土曜の午後", "cls": "correct", "prev": "土曜の午前に予定を入れました。", "complete": true}
+{"text": "誕生日は12日じゃなくて20日", "cls": "correct", "prev": "お母様の誕生日は12日ですね。", "complete": true}
+{"text": "高校じゃなくて中学", "cls": "correct", "prev": "息子さんの高校の入学式ですね。", "complete": true}
+{"text": "あの そっちじゃなくて弟の犬", "cls": "correct", "prev": "お宅のワンちゃんの予防接種ですね。", "complete": true}
+{"text": "違う 電話じゃなくてメッセージで", "cls": "correct", "prev": "田中さんに電話をかけます。", "complete": true}
+{"text": "えっとね 兄貴のことなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのさ 昨日の妻との", "cls": "hold", "prev": null, "complete": false}
+{"text": "で なんか 犬が", "cls": "hold", "prev": "散歩の予定は朝7時です。", "complete": false}
+{"text": "母さんがさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "佐藤さんの件なんですけど", "cls": "hold", "prev": "どうされましたか?", "complete": false}
+{"text": "うんとね 娘の学校で", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの ちょっと相談があって", "cls": "hold", "prev": "はい、なんでしょう。", "complete": false}
+{"text": "弟がね この前", "cls": "hold", "prev": null, "complete": false}
+{"text": "猫のことで、あの", "cls": "hold", "prev": null, "complete": false}
+{"text": "部長がさー 今日", "cls": "hold", "prev": "お疲れさまです。", "complete": false}
+{"text": "実はですね 家族のことで", "cls": "hold", "prev": null, "complete": false}
+{"text": "友達の田中ってやつがいて", "cls": "hold", "prev": null, "complete": false}
+{"text": "夫と話してて", "cls": "hold", "prev": "週末の予定を確認しますか?", "complete": false}
+{"text": "えっと 来週 義母が", "cls": "hold", "prev": null, "complete": false}
+{"text": "それでさ 姉が言うには", "cls": "hold", "prev": "お姉さんは反対しているのですね。", "complete": false}
+{"text": "高橋さんとランチしてたら", "cls": "hold", "prev": null, "complete": false}
+{"text": "あー なんかさ", "cls": "hold", "prev": "はい。", "complete": false}
+{"text": "うちの子がね", "cls": "hold", "prev": null, "complete": false}
+{"text": "息子の担任の先生が なんていうか", "cls": "hold", "prev": "面談は明日でしたね。", "complete": false}
+{"text": "あのね 犬の散歩してたら", "cls": "hold", "prev": null, "complete": false}
+{"text": "週末に妹と会う予定なんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "えーっと 同僚の山田さんって人が", "cls": "hold", "prev": "続きをどうぞ。", "complete": false}
+{"text": "うん それで 母さんが", "cls": "hold", "prev": "お母様の通院の件ですね。", "complete": false}
+{"text": "あの ちょっと聞いてほしいんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "猫がね 最近", "cls": "hold", "prev": null, "complete": false}
+{"text": "父さんの誕生日のことで", "cls": "hold", "prev": "はい、なんでしょう。", "complete": false}
+{"text": "上司にね 今日言われたのが", "cls": "hold", "prev": null, "complete": false}
+{"text": "でね 友達と旅行行くって話してて", "cls": "hold", "prev": "旅行の件ですね。", "complete": false}
+{"text": "ん えっと 妻がね", "cls": "hold", "prev": null, "complete": false}
+{"text": "鈴木さんっていう同期が", "cls": "hold", "prev": null, "complete": false}
+{"text": "子どもの保育園でさ", "cls": "hold", "prev": "今日はどうでしたか?", "complete": false}
+{"text": "あー その 弟の結婚のことなんですが", "cls": "hold", "prev": null, "complete": false}
+{"text": "犬を飼おうって話になってて", "cls": "hold", "prev": null, "complete": false}
+{"text": "実家帰ったときにね", "cls": "hold", "prev": "帰省はいかがでしたか?", "complete": false}
+{"text": "中村さんと飲みに行ったんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "うんと 姉の引っ越しの", "cls": "hold", "prev": "お姉さんの件ですね。", "complete": false}
+{"text": "なんかさ 義父が", "cls": "hold", "prev": null, "complete": false}
+{"text": "昨日の夜ね 娘と", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの 部長の件で ちょっと", "cls": "hold", "prev": "はい。", "complete": false}
+{"text": "えっと 猫の病院の", "cls": "hold", "prev": "次の通院は来週です。", "complete": false}

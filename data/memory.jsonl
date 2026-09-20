@@ -1,0 +1,514 @@
+{"text": "これ覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "覚えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "メモして", "cls": "ack", "prev": "承知しました。", "complete": true}
+{"text": "記憶して", "cls": "ack", "prev": null, "complete": true}
+{"text": "住所覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "忘れて", "cls": "ack", "prev": "古い電話番号も残っています。", "complete": true}
+{"text": "それ消して", "cls": "ack", "prev": "メモに実家の住所が1件あります。", "complete": true}
+{"text": "今の取り消し", "cls": "ack", "prev": "誕生日を8月14日で覚えました。", "complete": true}
+{"text": "俺の誕生日は3月14日ね 覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "母さんの電話番号 090から始まるやつ、登録しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "えっと コーヒーはブラック派って記録しといてもらえます?", "cls": "ack", "prev": null, "complete": true}
+{"text": "うちの住所は世田谷区の桜上水ね 覚えといて", "cls": "ack", "prev": "住所はまだ登録されていません。", "complete": true}
+{"text": "好きな色は緑ってことにしといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "会社の最寄りは新橋って覚えといてください", "cls": "ack", "prev": null, "complete": true}
+{"text": "猫の名前はモモっていうんだけど 記憶しといてもらえる", "cls": "ack", "prev": null, "complete": true}
+{"text": "前に言った実家の住所 もう消していいよ", "cls": "ack", "prev": "実家の住所は大阪で覚えています。", "complete": true}
+{"text": "好みのやつ 辛いの苦手っていうのを追加しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "あ さっき言った内容はメモしといて", "cls": "ack", "prev": "来月から火曜が在宅ですね。", "complete": true}
+{"text": "妻の誕生日は11月2日なんだけど 登録お願い", "cls": "ack", "prev": null, "complete": true}
+{"text": "車のナンバー 品川の4桁のやつ覚えといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "パスワードのヒントは犬の名前って記録しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "定期券の期限は来月末って覚えといてほしい", "cls": "ack", "prev": "定期券の期限は登録されていません。", "complete": true}
+{"text": "出張の時の常宿はホテルメッツって記憶しといて", "cls": "ack", "prev": null, "complete": true}
+{"text": "なんかさ 俺が朝弱いってことも覚えといて", "cls": "ack", "prev": "朝の予定を7時に入れました。", "complete": true}
+{"text": "好きなラーメン屋は一蘭じゃなくて富士そばのほうで登録して", "cls": "ack", "prev": null, "complete": true}
+{"text": "歯医者の先生の名前 田中先生ね 覚えて", "cls": "ack", "prev": null, "complete": true}
+{"text": "Wi-Fiのパスワード変えたから古いの忘れて", "cls": "ack", "prev": null, "complete": true}
+{"text": "靴のサイズは26.5ってメモしといてください", "cls": "ack", "prev": "靴のサイズは何センチですか?", "complete": true}
+{"text": "今言った住所で保存しといて", "cls": "ack", "prev": "桜上水の住所ですね。", "complete": true}
+{"text": "記憶を全部消してほしい", "cls": "ack", "prev": null, "complete": true}
+{"text": "覚えといてね 俺は牛乳飲めないんだ", "cls": "ack", "prev": null, "complete": true}
+{"text": "田中さんの会社名 覚えといて。えっと サイバーエージェント", "cls": "ack", "prev": null, "complete": true}
+{"text": "アレルギーはそばって書いといて", "cls": "ack", "prev": "アレルギーは登録されていません。", "complete": true}
+{"text": "部屋番号は302に変わったから上書きして", "cls": "ack", "prev": "部屋番号は301で覚えています。", "complete": true}
+{"text": "うんと 姉の名前はゆかりで登録", "cls": "ack", "prev": null, "complete": true}
+{"text": "月曜は在宅ってのを基本にしといて", "cls": "ack", "prev": "月曜の予定は3件あります。", "complete": true}
+{"text": "今のは覚えなくていい", "cls": "ack", "prev": "今の話を覚えておきますか?", "complete": true}
+{"text": "上書きして", "cls": "ack", "prev": "同じ項目がすでにあります。", "complete": true}
+{"text": "メモ消して", "cls": "ack", "prev": null, "complete": true}
+{"text": "カレンダーには入れなくていいから 弟の引っ越しは来月ってだけ覚えといて", "cls": "ack", "prev": "予定として登録しますか?", "complete": true}
+{"text": "前に言った住所教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "登録してある誕生日出して", "cls": "work", "prev": null, "complete": true}
+{"text": "メモ一覧見せて", "cls": "work", "prev": null, "complete": true}
+{"text": "覚えてること全部出して", "cls": "work", "prev": "記憶は12件あります。", "complete": true}
+{"text": "実家の住所出して", "cls": "work", "prev": null, "complete": true}
+{"text": "母さんの番号教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "住所出して", "cls": "work", "prev": null, "complete": true}
+{"text": "メモ見せて", "cls": "work", "prev": null, "complete": true}
+{"text": "番号教えて", "cls": "work", "prev": "母さんの番号は登録されています。", "complete": true}
+{"text": "全部出して", "cls": "work", "prev": "記憶に住所が3件あります。", "complete": true}
+{"text": "記憶見せて", "cls": "work", "prev": null, "complete": true}
+{"text": "履歴出して", "cls": "work", "prev": null, "complete": true}
+{"text": "誕生日出して", "cls": "work", "prev": null, "complete": true}
+{"text": "名前教えて", "cls": "work", "prev": "歯医者の先生の名前は登録済みです。", "complete": true}
+{"text": "去年の今頃なにメモしてたっけ 探してほしい", "cls": "work", "prev": null, "complete": true}
+{"text": "えっと 前に言ったホテルの名前 出してもらえる?", "cls": "work", "prev": null, "complete": true}
+{"text": "田中さんの会社どこって言ったか思い出して", "cls": "work", "prev": null, "complete": true}
+{"text": "俺の好みに合いそうなワイン 記憶を元にネットで探して", "cls": "work", "prev": null, "complete": true}
+{"text": "覚えてる住所からうちまでの経路 マップで出して", "cls": "work", "prev": "実家の住所は大阪で覚えています。", "complete": true}
+{"text": "前に登録した歯医者の名前で 電話番号を検索して", "cls": "work", "prev": null, "complete": true}
+{"text": "好きって言ったラーメン屋の営業時間調べといて", "cls": "work", "prev": null, "complete": true}
+{"text": "記憶してるアレルギーの情報 健康アプリの記録と照らし合わせて", "cls": "work", "prev": null, "complete": true}
+{"text": "前に話したプロジェクトの話 メモから拾ってきて", "cls": "work", "prev": "どのプロジェクトのことでしょうか?", "complete": true}
+{"text": "なんかさ 俺が去年言ってた旅行先どこだったか探してくれない", "cls": "work", "prev": null, "complete": true}
+{"text": "妻の誕生日にあわせて 覚えてる好みで花を探しといて", "cls": "work", "prev": null, "complete": true}
+{"text": "記録してある靴のサイズで ナイキのサイト見てきて", "cls": "work", "prev": null, "complete": true}
+{"text": "猫の名前で登録してあるやつ あと病院の予約履歴もあわせて出して", "cls": "work", "prev": "猫のモモさんの情報ですね。", "complete": true}
+{"text": "常宿の空きあるか見といて 名前は覚えてるよね", "cls": "work", "prev": null, "complete": true}
+{"text": "前に言った本のタイトル Amazonで在庫確認して", "cls": "work", "prev": null, "complete": true}
+{"text": "好みのコーヒー豆 前教えたやつの新作出てるか調べて", "cls": "work", "prev": null, "complete": true}
+{"text": "うんと 記憶してる会社の最寄りから会場までの乗り換え調べて", "cls": "work", "prev": "会場は有明ですね。", "complete": true}
+{"text": "3年前に覚えさせた車検の日 いつだったか出してもらえます?", "cls": "work", "prev": null, "complete": true}
+{"text": "登録済みの住所で ゴミの日調べといて", "cls": "work", "prev": null, "complete": true}
+{"text": "覚えてる好きな作家の新刊 出てたら教えて", "cls": "work", "prev": null, "complete": true}
+{"text": "記憶にある電話番号 全部リストにして", "cls": "work", "prev": "電話番号は4件覚えています。", "complete": true}
+{"text": "前に言った友達の名前で LINEの履歴探して", "cls": "work", "prev": null, "complete": true}
+{"text": "一番最近メモしたのなんだったか出してくれる", "cls": "work", "prev": null, "complete": true}
+{"text": "メモの中から住所っぽいの全部拾って", "cls": "work", "prev": null, "complete": true}
+{"text": "覚えといてって言ったやつ あれ出して", "cls": "work", "prev": "昨日は3件覚えました。", "complete": true}
+{"text": "記憶してるって言ってた定期券の期限 あと何日か計算しといて", "cls": "work", "prev": null, "complete": true}
+{"text": "なんで俺の誕生日忘れちゃったの", "cls": "think", "prev": "誕生日は登録されていません。", "complete": true}
+{"text": "どうやって記憶してるの", "cls": "think", "prev": null, "complete": true}
+{"text": "覚えさせるのって何がいいと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "住所ってさ 実家と今の家どっち登録しとくのがいいかな", "cls": "think", "prev": null, "complete": true}
+{"text": "好みを覚えてもらうのって どこまで細かく言えばいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "えっと 記憶って何件くらい持てるものなの", "cls": "think", "prev": null, "complete": true}
+{"text": "前に言ったことと今言ったことが違ったら どっち優先するの", "cls": "think", "prev": "住所を上書きしました。", "complete": true}
+{"text": "なんで俺がコーヒー嫌いって思ってたの", "cls": "think", "prev": "紅茶の店を探しました。", "complete": true}
+{"text": "うんと パスワード覚えさせるのって危ないと思う?", "cls": "think", "prev": null, "complete": true}
+{"text": "忘れさせた記憶って本当に消えてるの 説明して", "cls": "think", "prev": "古い住所を消しました。", "complete": true}
+{"text": "どういう基準で覚える覚えないを決めてるの", "cls": "think", "prev": null, "complete": true}
+{"text": "住所を覚えさせるメリットって何", "cls": "think", "prev": null, "complete": true}
+{"text": "なんかさ 俺の好みってどう見えてる?", "cls": "think", "prev": null, "complete": true}
+{"text": "妻の誕生日を覚えてもらうのと自分でカレンダー入れるの どっちが確実かな", "cls": "think", "prev": null, "complete": true}
+{"text": "覚えてもらったこと 何に使われるの", "cls": "think", "prev": "アレルギー情報を覚えました。", "complete": true}
+{"text": "記憶と会話履歴って何が違うの", "cls": "think", "prev": null, "complete": true}
+{"text": "猫の名前まで覚える必要ある?どう思う", "cls": "think", "prev": null, "complete": true}
+{"text": "どうして前に教えた住所じゃなくて古いほう答えたの", "cls": "think", "prev": "住所は品川区で覚えています。", "complete": true}
+{"text": "好みが変わったとき どう伝えるのが一番いい", "cls": "think", "prev": null, "complete": true}
+{"text": "記憶させるのと毎回言うのって どっちが楽だと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "俺の性格ってさ 覚えてる範囲でどんな感じ", "cls": "think", "prev": null, "complete": true}
+{"text": "アレルギーの情報がどう扱われるか説明して", "cls": "think", "prev": "そばアレルギーを記録しました。", "complete": true}
+{"text": "何年も前のメモって そのまま覚えといたほうがいいかな", "cls": "think", "prev": "3年前のメモが5件あります。", "complete": true}
+{"text": "あのー 記憶を全部消すのって やめたほうがいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "どうすれば俺の好みをもっとちゃんとわかってくれる", "cls": "think", "prev": null, "complete": true}
+{"text": "前に言った会社の話 覚えてないのはなんで", "cls": "think", "prev": "その会社は記憶にありません。", "complete": true}
+{"text": "覚えてることって古い順に消える感じ?仕組み教えて", "cls": "think", "prev": null, "complete": true}
+{"text": "実家の住所と電話 両方覚えさせるべき", "cls": "think", "prev": null, "complete": true}
+{"text": "俺の趣味からしてさ 次はなに始めるといいと思う", "cls": "think", "prev": null, "complete": true}
+{"text": "なんで", "cls": "think", "prev": "その番号は覚えられません。", "complete": true}
+{"text": "どう思う", "cls": "think", "prev": "住所を番地まで覚えることもできます。", "complete": true}
+{"text": "どっちがいい", "cls": "think", "prev": "上書きか追加かを選べます。", "complete": true}
+{"text": "どうして", "cls": "think", "prev": "古いメモは消しました。", "complete": true}
+{"text": "なんで忘れたの", "cls": "think", "prev": "猫の名前は記憶にありません。", "complete": true}
+{"text": "覚えるべき?", "cls": "think", "prev": null, "complete": true}
+{"text": "説明して", "cls": "think", "prev": "記憶の一部を整理しました。", "complete": true}
+{"text": "どうやって", "cls": "think", "prev": null, "complete": true}
+{"text": "何がいい?", "cls": "think", "prev": null, "complete": true}
+{"text": "記憶した情報の使い道って何", "cls": "think", "prev": null, "complete": true}
+{"text": "好みってさ 変えたら前のは上書き?説明してほしい", "cls": "think", "prev": null, "complete": true}
+{"text": "住所覚えた?", "cls": "check", "prev": "承知しました、覚えておきます。", "complete": true}
+{"text": "俺の誕生日3月だっけ", "cls": "check", "prev": "誕生日は登録してあります。", "complete": true}
+{"text": "母さんの番号 まだ覚えてる?", "cls": "check", "prev": "電話番号を整理しました。", "complete": true}
+{"text": "実家の住所って世田谷で登録してあったっけ", "cls": "check", "prev": "実家の住所ですね。", "complete": true}
+{"text": "えっと 猫の名前モモで合ってる?", "cls": "check", "prev": "猫の情報を記録しています。", "complete": true}
+{"text": "妻の誕生日11月2日だったよね", "cls": "check", "prev": "来月の予定を確認しました。", "complete": true}
+{"text": "好みのコーヒー ブラックで登録してある?", "cls": "check", "prev": "コーヒーの好みは記録済みです。", "complete": true}
+{"text": "前に言った常宿ってメッツだっけ", "cls": "check", "prev": "出張の宿を探しますか?", "complete": true}
+{"text": "靴のサイズ26.5にしてある?", "cls": "check", "prev": "靴のサイズは記録してあります。", "complete": true}
+{"text": "アレルギー そばって入ってるよね", "cls": "check", "prev": "健康情報を1件覚えています。", "complete": true}
+{"text": "田中先生じゃなくて田口先生で覚えてたっけ", "cls": "check", "prev": "歯医者の先生の名前は登録済みです。", "complete": true}
+{"text": "車のナンバーって品川で登録してた?", "cls": "check", "prev": "車の情報を覚えています。", "complete": true}
+{"text": "記憶消したって言ったけど 本当に消えた?", "cls": "check", "prev": "記憶を全部消しました。", "complete": true}
+{"text": "会社の最寄り 新橋のままでいい?", "cls": "check", "prev": "最寄り駅を更新しますか?", "complete": true}
+{"text": "定期の期限 来月末で覚えてる?", "cls": "check", "prev": "定期券の情報を記録しています。", "complete": true}
+{"text": "パスワードのヒント 覚えさせたっけ", "cls": "check", "prev": "ヒントの記録は1件あります。", "complete": true}
+{"text": "姉の名前ゆかりで合ってる?", "cls": "check", "prev": "お姉さんの情報を覚えました。", "complete": true}
+{"text": "好きな色 緑って言ったよね", "cls": "check", "prev": "青いケースを候補に出しました。", "complete": true}
+{"text": "あの 住所変えたの反映されてます?", "cls": "check", "prev": "住所を更新しました。", "complete": true}
+{"text": "部屋番号302で保存されてますか", "cls": "check", "prev": "部屋番号を覚えました。", "complete": true}
+{"text": "牛乳ダメって覚えてくれてる?", "cls": "check", "prev": "カフェラテの店を出しました。", "complete": true}
+{"text": "うんと 前に言った旅行先って京都だったっけ", "cls": "check", "prev": "去年の旅行先を覚えています。", "complete": true}
+{"text": "月曜在宅ってやつ 入ってる?", "cls": "check", "prev": "月曜の朝に会議が入っています。", "complete": true}
+{"text": "記憶の数って上限あるんだっけ", "cls": "check", "prev": "記憶が30件になりました。", "complete": true}
+{"text": "前教えた本 村上春樹で登録した?", "cls": "check", "prev": "好きな作家を覚えました。", "complete": true}
+{"text": "覚えてることの中に 電話番号って含まれてる?", "cls": "check", "prev": "記憶は12件あります。", "complete": true}
+{"text": "一蘭のほうで覚えてない?富士そばだよね", "cls": "check", "prev": "ラーメン屋の好みを記録しています。", "complete": true}
+{"text": "歯医者の名前 田中で保存されてるでいい?", "cls": "check", "prev": "歯医者の予約を確認しますか?", "complete": true}
+{"text": "実家の郵便番号 150から始まるやつだっけ", "cls": "check", "prev": "郵便番号を覚えています。", "complete": true}
+{"text": "Wi-Fiの古いパスワード まだ残ってる?", "cls": "check", "prev": "新しいパスワードを覚えました。", "complete": true}
+{"text": "好みの変更 上書きになった?", "cls": "check", "prev": "好みを更新しました。", "complete": true}
+{"text": "覚えた?", "cls": "check", "prev": "住所を記録しますね。", "complete": true}
+{"text": "保存した?", "cls": "check", "prev": "メモを追加します。", "complete": true}
+{"text": "消した?", "cls": "check", "prev": "古い番号を削除しますね。", "complete": true}
+{"text": "合ってる?", "cls": "check", "prev": "誕生日は3月14日ですね。", "complete": true}
+{"text": "覚えてる?", "cls": "check", "prev": "猫の情報を覚えています。", "complete": true}
+{"text": "登録済み?", "cls": "check", "prev": "会社の住所を確認しました。", "complete": true}
+{"text": "それでいい?", "cls": "check", "prev": "番地まで覚えることにします。", "complete": true}
+{"text": "誕生日って何日で登録したっけ", "cls": "check", "prev": "誕生日の情報はあります。", "complete": true}
+{"text": "引っ越したんだよね 先月", "cls": "understand", "prev": null, "complete": true}
+{"text": "住所変わった", "cls": "understand", "prev": null, "complete": true}
+{"text": "番号変えたんだ", "cls": "understand", "prev": null, "complete": true}
+{"text": "前に言ったかもだけど 実家は大阪なんだ", "cls": "understand", "prev": "実家の住所は登録されていません。", "complete": true}
+{"text": "好みは特にないんだよね 食べ物は", "cls": "understand", "prev": "食べ物の好みはありますか?", "complete": true}
+{"text": "猫飼い始めた", "cls": "understand", "prev": null, "complete": true}
+{"text": "転職した", "cls": "understand", "prev": null, "complete": true}
+{"text": "今は一人暮らし", "cls": "understand", "prev": "ご家族の情報は覚えていません。", "complete": true}
+{"text": "名字変わった", "cls": "understand", "prev": null, "complete": true}
+{"text": "えっと 実家の住所 今は姉夫婦が住んでる", "cls": "understand", "prev": null, "complete": true}
+{"text": "コーヒーはさ 最近ブラックじゃなくてラテになった", "cls": "understand", "prev": null, "complete": true}
+{"text": "妻の誕生日 来週なんだよね", "cls": "understand", "prev": null, "complete": true}
+{"text": "覚えてもらってる会社 来月から場所が変わるんだ", "cls": "understand", "prev": "会社の住所は港区で覚えています。", "complete": true}
+{"text": "前言ってた田中さん 部署異動になった", "cls": "understand", "prev": null, "complete": true}
+{"text": "常宿のホテル 名前変わったらしい", "cls": "understand", "prev": "常宿はホテルメッツで覚えています。", "complete": true}
+{"text": "うんと 靴のサイズ 最近は27にしてる", "cls": "understand", "prev": null, "complete": true}
+{"text": "アレルギーはそばだけど 最近は少しなら平気", "cls": "understand", "prev": "そばアレルギーを覚えています。", "complete": true}
+{"text": "車 品川ナンバーじゃなくなった", "cls": "understand", "prev": null, "complete": true}
+{"text": "定期券は今月で更新した", "cls": "understand", "prev": "定期券の期限は今月末ですね。", "complete": true}
+{"text": "月曜在宅なんだけど 来月から火曜になる", "cls": "understand", "prev": null, "complete": true}
+{"text": "歯医者 田中先生から別の先生に代わった", "cls": "understand", "prev": null, "complete": true}
+{"text": "Wi-Fi 業者の都合で全部変わったんだ", "cls": "understand", "prev": "Wi-Fiの情報を覚えています。", "complete": true}
+{"text": "好きな色 昔は緑だったけど今は青", "cls": "understand", "prev": null, "complete": true}
+{"text": "実家の郵便番号 区画整理で変わった", "cls": "understand", "prev": null, "complete": true}
+{"text": "姉が結婚して 姓が変わった", "cls": "understand", "prev": "お姉さんの名前はゆかりさんですね。", "complete": true}
+{"text": "前に話した旅行先 結局行かなかったんだよね", "cls": "understand", "prev": "旅行先は京都で覚えています。", "complete": true}
+{"text": "牛乳飲めないって言ったけど 豆乳は飲む", "cls": "understand", "prev": null, "complete": true}
+{"text": "記憶させた本 読み終わった", "cls": "understand", "prev": null, "complete": true}
+{"text": "部屋番号 302から305に移った", "cls": "understand", "prev": null, "complete": true}
+{"text": "通勤は新橋経由じゃなくて品川経由になった", "cls": "understand", "prev": "最寄りは新橋で覚えています。", "complete": true}
+{"text": "あー あのさ 昨日言った予定はそのまま", "cls": "understand", "prev": "昨日の予定を覚えています。", "complete": true}
+{"text": "妻は辛いの平気で 俺だけダメなんだよ", "cls": "understand", "prev": null, "complete": true}
+{"text": "前に言った好み まだ変わってない", "cls": "understand", "prev": "好みを更新しますか?", "complete": true}
+{"text": "職場の最寄りは今も新橋", "cls": "understand", "prev": null, "complete": true}
+{"text": "田中先生の医院は駅前に移転した", "cls": "understand", "prev": "歯医者は田中先生で覚えています。", "complete": true}
+{"text": "猫の名前 結局モモに決まった", "cls": "understand", "prev": null, "complete": true}
+{"text": "パスワードのヒント 今も犬の名前", "cls": "understand", "prev": "ヒントを更新しますか?", "complete": true}
+{"text": "誕生日 実は戸籍上は3月15日なんだよね", "cls": "understand", "prev": null, "complete": true}
+{"text": "車検は来年の5月", "cls": "understand", "prev": "車検の日は覚えていません。", "complete": true}
+{"text": "弟が同じマンションに越してきた", "cls": "understand", "prev": null, "complete": true}
+{"text": "覚えててくれるの便利だね", "cls": "agree", "prev": null, "complete": true}
+{"text": "住所は覚えさせといたほうがいいと思う", "cls": "agree", "prev": "住所を覚えておきますか?", "complete": true}
+{"text": "好みまで覚えてくれるのはちょっとやりすぎな気もする", "cls": "agree", "prev": "コーヒーの好みも覚えておきますか?", "complete": true}
+{"text": "正確だね", "cls": "agree", "prev": "誕生日は3月14日ですね。", "complete": true}
+{"text": "それがいい", "cls": "agree", "prev": "住所は番地まで覚えるのがよさそうです。", "complete": true}
+{"text": "悪くない", "cls": "agree", "prev": "記憶を名前順に並べました。", "complete": true}
+{"text": "微妙かな", "cls": "agree", "prev": "好みを自動で更新することもできます。", "complete": true}
+{"text": "賛成", "cls": "agree", "prev": "古いメモは消したほうがよさそうです。", "complete": true}
+{"text": "その記憶の仕方はわかりやすい", "cls": "agree", "prev": "住所は現住所と実家に分けて覚えます。", "complete": true}
+{"text": "前に言ったこと持ち出されるのは 正直ちょっと嫌かな", "cls": "agree", "prev": null, "complete": true}
+{"text": "誕生日を覚える機能は あって正解だと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "パスワードのヒントまで覚えるのはやめといたほうがいいね", "cls": "agree", "prev": null, "complete": true}
+{"text": "えっと 実家の住所は覚えなくていいと思うんだよね 使わないし", "cls": "agree", "prev": null, "complete": true}
+{"text": "俺の好みの理解 だいぶ合ってきたと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "記憶を消すのは簡単なほうがいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "猫の名前まで知ってるのは なんかいいね", "cls": "agree", "prev": "モモさんは元気ですか?", "complete": true}
+{"text": "田中さんの会社名を覚えてくれてたのは正解だった", "cls": "agree", "prev": null, "complete": true}
+{"text": "古いメモは消していいと思う もう使わないし", "cls": "agree", "prev": "3年前のメモが残っています。", "complete": true}
+{"text": "好みって毎回聞かれるより覚えててくれたほうが楽だよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "住所を口で言うより覚えさせとくほうが確実だと思うな", "cls": "agree", "prev": null, "complete": true}
+{"text": "記憶の件数 そんなにいらないんじゃないかな", "cls": "agree", "prev": "記憶は最大で100件持てます。", "complete": true}
+{"text": "なんかさ 覚えてもらったほうが会話が早くていいわ", "cls": "agree", "prev": null, "complete": true}
+{"text": "妻の誕生日を先に言ってくれるの 気が利いてると思う", "cls": "agree", "prev": "来週は奥さんの誕生日です。", "complete": true}
+{"text": "言い直したのをちゃんと上書きしてくれるのは助かるやり方だね", "cls": "agree", "prev": null, "complete": true}
+{"text": "記憶の一覧が見えるのは安心できていいと思う", "cls": "agree", "prev": "記憶の一覧を出しました。", "complete": true}
+{"text": "うんと アレルギーは絶対覚えててほしい 命に関わるし", "cls": "agree", "prev": null, "complete": true}
+{"text": "コーヒーの好みぐらいなら覚えててもらって困らないよ", "cls": "agree", "prev": null, "complete": true}
+{"text": "実家の番号は覚えさせといて正解だったね", "cls": "agree", "prev": "実家の番号に掛けました。", "complete": true}
+{"text": "前に教えた本の好み けっこう当たってるよ", "cls": "agree", "prev": "この作家はお好みに合うと思います。", "complete": true}
+{"text": "靴のサイズは覚えとく価値あると思う 通販で使うし", "cls": "agree", "prev": null, "complete": true}
+{"text": "記憶を全部消すって選択肢 あったほうがいいよね", "cls": "agree", "prev": null, "complete": true}
+{"text": "ホテルの好みまで覚えててくれるのは 出張多い身としては嬉しい機能", "cls": "agree", "prev": null, "complete": true}
+{"text": "覚え方が雑だと思う もっと丁寧に聞いてほしい", "cls": "agree", "prev": "住所を覚えました。", "complete": true}
+{"text": "好みが変わったときの聞き方 あれはいいと思う", "cls": "agree", "prev": null, "complete": true}
+{"text": "記憶 思ったより役に立ってる", "cls": "agree", "prev": null, "complete": true}
+{"text": "住所は覚えさせない派なんだよね俺", "cls": "agree", "prev": "住所を覚えておきますか?", "complete": true}
+{"text": "これでいいと思う", "cls": "agree", "prev": "記憶をこの形で整理しました。", "complete": true}
+{"text": "そのほうが正しいね", "cls": "agree", "prev": "戸籍上の日付で覚えるのがよさそうです。", "complete": true}
+{"text": "覚えといてよかった", "cls": "agree", "prev": null, "complete": true}
+{"text": "記憶 いらないかも", "cls": "agree", "prev": null, "complete": true}
+{"text": "何回言っても覚えてくれないじゃん", "cls": "empathy", "prev": "住所をもう一度教えてください。", "complete": true}
+{"text": "住所また聞かれた めんどい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "覚えてないの まじか", "cls": "empathy", "prev": "その情報は記憶にありません。", "complete": true}
+{"text": "また忘れてる", "cls": "empathy", "prev": "猫のお名前を教えてください。", "complete": true}
+{"text": "疲れた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "めんどくさい", "cls": "empathy", "prev": "もう一度番号を教えてもらえますか?", "complete": true}
+{"text": "困った", "cls": "empathy", "prev": null, "complete": true}
+{"text": "もう嫌", "cls": "empathy", "prev": "住所が3件あります。どれを使いますか?", "complete": true}
+{"text": "前に言ったのに なんで毎回説明しなきゃいけないんだよ", "cls": "empathy", "prev": "好みを教えてください。", "complete": true}
+{"text": "好みまで一から教え直すの 正直しんどい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "えっと 誕生日を間違って覚えられてて 妻に怒られた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "記憶消えてるんだけど 全部言い直すの気が重い", "cls": "empathy", "prev": "記憶は0件です。", "complete": true}
+{"text": "実家の住所が古いままで 荷物が届かなかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "母さんの番号 間違って登録されてて掛けたら別の人だった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "なんかさ 覚えさせたはずのことが出てこなくて焦った", "cls": "empathy", "prev": null, "complete": true}
+{"text": "アレルギーの情報忘れられてたの ちょっと怖い", "cls": "empathy", "prev": null, "complete": true}
+{"text": "何を覚えさせたか自分でも忘れてて ぐちゃぐちゃになってる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "猫の名前 間違って呼ばれると地味に悲しい", "cls": "empathy", "prev": "ミミさんは元気ですか?", "complete": true}
+{"text": "好み変えたのに古いほうで提案されるの 疲れる", "cls": "empathy", "prev": "ブラックコーヒーの店を出しました。", "complete": true}
+{"text": "車のナンバー 覚えさせようとして3回失敗してる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "住所を何度も言うの 恥ずかしいんだよね外だと", "cls": "empathy", "prev": null, "complete": true}
+{"text": "覚えてもらったことが なんか信用できなくなってきた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "うんと 田中さんの会社 違う名前で覚えられてて気まずかった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "パスワードのヒント消したかったのに消えてない もう", "cls": "empathy", "prev": "ヒントはまだ残っています。", "complete": true}
+{"text": "定期の期限を忘れられてて 改札で止められた", "cls": "empathy", "prev": null, "complete": true}
+{"text": "好みを説明するのって 思ったより難しくてつらい", "cls": "empathy", "prev": "どんな味が好きですか?", "complete": true}
+{"text": "記憶が多すぎて どれが最新かわかんなくて困ってる", "cls": "empathy", "prev": null, "complete": true}
+{"text": "妻の誕生日 去年も忘れたんだよね俺", "cls": "empathy", "prev": null, "complete": true}
+{"text": "引っ越しの手続きが全部住所まわりで詰まってて しんどい", "cls": "empathy", "prev": null, "complete": true}
+{"text": "覚えてほしいことがありすぎて 整理する気力がない", "cls": "empathy", "prev": null, "complete": true}
+{"text": "常宿の名前 なんだったか自分でも思い出せなくてもやもやする", "cls": "empathy", "prev": "宿の情報は記憶にありません。", "complete": true}
+{"text": "あのー 覚えさせたのに違うって言われるの 地味に傷つく", "cls": "empathy", "prev": "その情報は記録されていません。", "complete": true}
+{"text": "姉の名前を間違えられて 電話で気まずくなった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "覚えさせるのに毎回同じ言い方しないとだめで 疲れる", "cls": "empathy", "prev": "覚える内容をもう一度言ってください。", "complete": true}
+{"text": "記憶を消したら 必要なやつまで消えてて 最悪", "cls": "empathy", "prev": "記憶を全部消しました。", "complete": true}
+{"text": "靴のサイズ間違えて覚えられてて 返品する羽目になった", "cls": "empathy", "prev": null, "complete": true}
+{"text": "何回も言い直してるのに直らない もう疲れたよ", "cls": "empathy", "prev": "誕生日は8月14日ですね。", "complete": true}
+{"text": "覚えてくれてると思ってたのに ゼロからで泣きそう", "cls": "empathy", "prev": null, "complete": true}
+{"text": "ホテルの好み 毎回聞かれる。飽きた", "cls": "empathy", "prev": "禁煙と喫煙、どちらにしますか?", "complete": true}
+{"text": "ちゃんと覚えててくれた!", "cls": "cheer", "prev": "誕生日は3月14日ですね。", "complete": true}
+{"text": "住所一発で出た", "cls": "cheer", "prev": null, "complete": true}
+{"text": "覚えてた!", "cls": "cheer", "prev": "猫のモモさんですね。", "complete": true}
+{"text": "やった", "cls": "cheer", "prev": "上書きが終わりました。", "complete": true}
+{"text": "出た!", "cls": "cheer", "prev": "実家の住所はこちらです。", "complete": true}
+{"text": "できた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "当たり", "cls": "cheer", "prev": "常宿はホテルメッツですね。", "complete": true}
+{"text": "すごい", "cls": "cheer", "prev": "去年の旅行先は奈良でしたね。", "complete": true}
+{"text": "正解!", "cls": "cheer", "prev": "お姉さんはゆかりさんですね。", "complete": true}
+{"text": "誕生日ちゃんと言ってくれたから 妻に褒められたよ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "母さんの番号 覚えてたから助かった 間に合った", "cls": "cheer", "prev": null, "complete": true}
+{"text": "えっと 好みの通りの店出てきて 大正解だった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "猫の名前で呼んでくれた うれしい", "cls": "cheer", "prev": "モモさんのごはんの時間ですね。", "complete": true}
+{"text": "実家の住所 前に覚えさせたやつで荷物届いた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "記憶の整理 一気に終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "好み覚えてもらったら 提案が全部刺さるようになった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "田中さんの会社名 ばっちり出てきた", "cls": "cheer", "prev": "田中さんはサイバーエージェントですね。", "complete": true}
+{"text": "なんかさ 覚えさせた本の話ができて 会話盛り上がった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "常宿の名前 聞かれる前に出てきてめっちゃ楽だった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "靴のサイズ覚えててくれて 通販が一瞬で終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "アレルギー覚えててくれたおかげで 店で助かった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "定期の期限 教えてくれたから更新間に合った", "cls": "cheer", "prev": "定期券の期限は今日までです。", "complete": true}
+{"text": "車検の日 思い出せてよかった ギリギリだった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "上書きうまくいった", "cls": "cheer", "prev": "部屋番号を305に更新しました。", "complete": true}
+{"text": "覚えさせた住所で タクシー呼ぶのが一言で済んだ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "記憶を全部見直したら ちゃんと最新になってた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "姉の名前で覚えてくれてて 間違えなくてすんだ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "好みの変更 ちゃんと反映されてた えらい", "cls": "cheer", "prev": "ラテの店を3件出しました。", "complete": true}
+{"text": "うんと パスワードのヒント消えてるの確認できた よかった", "cls": "cheer", "prev": "ヒントの記録はありません。", "complete": true}
+{"text": "覚えてもらってたおかげで 引っ越しの手続きが早く終わった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "妻の誕生日 今年は忘れなかったよ 覚えててくれたから", "cls": "cheer", "prev": null, "complete": true}
+{"text": "コーヒーの好み 店員より正確で嬉しかった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "歯医者の名前 すぐ出てきて予約が取れた", "cls": "cheer", "prev": "田中先生の医院ですね。", "complete": true}
+{"text": "月曜在宅って覚えててくれたから 朝の会話が楽だった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "覚えてくれてて嬉しい", "cls": "cheer", "prev": "牛乳は飲めないんでしたね。", "complete": true}
+{"text": "実家の郵便番号 間違いなく出た", "cls": "cheer", "prev": "郵便番号は530からですね。", "complete": true}
+{"text": "Wi-Fi 新しいほうでちゃんと繋がった", "cls": "cheer", "prev": null, "complete": true}
+{"text": "部屋番号の変更 ちゃんと伝わってたわ", "cls": "cheer", "prev": null, "complete": true}
+{"text": "旅行先の記憶から いい店見つけられた", "cls": "cheer", "prev": null, "complete": true}
+{"text": "覚えさせた甲斐あった", "cls": "cheer", "prev": "靴のサイズは27で注文しました。", "complete": true}
+{"text": "え それ覚えてたの", "cls": "surprise", "prev": "去年の旅行先は奈良でしたね。", "complete": true}
+{"text": "住所知ってたんだ", "cls": "surprise", "prev": "桜上水の住所で手配します。", "complete": true}
+{"text": "うそでしょ", "cls": "surprise", "prev": "記憶は0件です。", "complete": true}
+{"text": "まじか", "cls": "surprise", "prev": "誕生日は8月で登録されています。", "complete": true}
+{"text": "消えてる!", "cls": "surprise", "prev": "住所の記録はありません。", "complete": true}
+{"text": "そんなことある?", "cls": "surprise", "prev": "同じ住所が5件あります。", "complete": true}
+{"text": "え まじで", "cls": "surprise", "prev": "定期券は先週で切れています。", "complete": true}
+{"text": "知ってたんだ", "cls": "surprise", "prev": "弟さんは同じマンションでしたね。", "complete": true}
+{"text": "誕生日 言った覚えないのに知ってたのびっくり", "cls": "surprise", "prev": null, "complete": true}
+{"text": "母さんの番号 変わったの俺も知らなかった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "えっと 去年言った旅行先まで覚えてたの?すごい記憶力", "cls": "surprise", "prev": null, "complete": true}
+{"text": "実家の住所 姉が勝手に登録してたらしい", "cls": "surprise", "prev": null, "complete": true}
+{"text": "好みが全然違うので覚えられてて え?ってなった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "猫の名前まで記憶されてるとは思わなかった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "記憶って千件も持てるの 知らなかった", "cls": "surprise", "prev": "記憶は最大1000件まで持てます。", "complete": true}
+{"text": "田中さんの会社 いつのまにか社名変わってたんだ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "なんかさ 消したはずの住所がまだ残ってて驚いた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "常宿 閉館してたって本当?", "cls": "surprise", "prev": "ホテルメッツは先月で閉館しています。", "complete": true}
+{"text": "靴のサイズ 俺が言ったのより大きく登録されてた なんで", "cls": "surprise", "prev": null, "complete": true}
+{"text": "アレルギー そばじゃなくて小麦で覚えられてた え", "cls": "surprise", "prev": null, "complete": true}
+{"text": "定期の期限 もう切れてたの?", "cls": "surprise", "prev": "定期券の期限は昨日でした。", "complete": true}
+{"text": "妻の誕生日 俺が覚えさせた日と本人が言う日が違う", "cls": "surprise", "prev": null, "complete": true}
+{"text": "車検 来年じゃなくて今年だったの?", "cls": "surprise", "prev": "車検は今年の5月で覚えています。", "complete": true}
+{"text": "うんと 記憶の一覧見たら知らないメモが入ってた", "cls": "surprise", "prev": null, "complete": true}
+{"text": "好きな色 青って言った記憶ないんだけど", "cls": "surprise", "prev": "好きな色は青で覚えています。", "complete": true}
+{"text": "歯医者 田中先生いなくなってたの知らなかった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "パスワードのヒント こんな昔に覚えさせてたんだ", "cls": "surprise", "prev": "ヒントは3年前に記録されています。", "complete": true}
+{"text": "前に言った本 もう絶版だって", "cls": "surprise", "prev": null, "complete": true}
+{"text": "実家の郵便番号 変わってたの初めて知った", "cls": "surprise", "prev": null, "complete": true}
+{"text": "Wi-Fiのパスワード まだ古いほうで覚えてたのか", "cls": "surprise", "prev": "古いパスワードが残っています。", "complete": true}
+{"text": "部屋番号 俺の言い間違いで登録されてた まじか", "cls": "surprise", "prev": null, "complete": true}
+{"text": "弟の名前まで知ってるの?言ったっけ", "cls": "surprise", "prev": "弟さんのけんたさんですね。", "complete": true}
+{"text": "記憶が全部消えてる なにこれ", "cls": "surprise", "prev": null, "complete": true}
+{"text": "覚えてることの中に 俺の血液型あるんだけど いつ言った", "cls": "surprise", "prev": null, "complete": true}
+{"text": "月曜在宅 火曜で登録されてた。え いつから", "cls": "surprise", "prev": "火曜は在宅ですね。", "complete": true}
+{"text": "姉の結婚 俺より先に知ってたのか", "cls": "surprise", "prev": "お姉さんの姓は変わっていますね。", "complete": true}
+{"text": "覚えてるって言ってた住所 全然別の区だった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "前に教えた好み 真逆で記憶されてる なんでこうなった", "cls": "surprise", "prev": null, "complete": true}
+{"text": "あの ホテルの名前 俺が言ったのと違うのが出てきた", "cls": "surprise", "prev": "常宿はホテルメトロですね。", "complete": true}
+{"text": "記憶 消したのに戻ってる", "cls": "surprise", "prev": null, "complete": true}
+{"text": "うん", "cls": "flow", "prev": "この住所で覚えておいていいですか?", "complete": true}
+{"text": "それでお願い", "cls": "flow", "prev": "誕生日は3月14日で登録します。", "complete": true}
+{"text": "そう", "cls": "flow", "prev": "実家は大阪でしたよね?", "complete": true}
+{"text": "はい", "cls": "flow", "prev": "好みはブラックコーヒーで記録しますか?", "complete": true}
+{"text": "そうそう", "cls": "flow", "prev": "猫のお名前はモモさんですね。", "complete": true}
+{"text": "大丈夫", "cls": "flow", "prev": "記憶を上書きしますが、よろしいですか?", "complete": true}
+{"text": "お願い", "cls": "flow", "prev": "靴のサイズを26.5で覚えておきましょうか?", "complete": true}
+{"text": "うん それでいい", "cls": "flow", "prev": "会社の最寄り駅は新橋で保存します。", "complete": true}
+{"text": "あ はい それで", "cls": "flow", "prev": "奥さんの誕生日は11月2日ですね。", "complete": true}
+{"text": "うんと じゃあそれで", "cls": "flow", "prev": "常宿はホテルメッツで登録しますか?", "complete": true}
+{"text": "いいよ 消して", "cls": "flow", "prev": "Wi-Fiの古いパスワードは削除しますか?", "complete": true}
+{"text": "うん 覚えといて", "cls": "flow", "prev": "この住所を今後使うように覚えますか?", "complete": true}
+{"text": "そうだね 上書きで", "cls": "flow", "prev": "部屋番号を302から305に変更しますか?", "complete": true}
+{"text": "そのままで", "cls": "flow", "prev": "月曜在宅の設定は残しますか?", "complete": true}
+{"text": "うん いらない", "cls": "flow", "prev": "実家の郵便番号は消してもいいですか?", "complete": true}
+{"text": "お願いします", "cls": "flow", "prev": "アレルギー情報をそばとして記録しますね。", "complete": true}
+{"text": "じゃあそれで", "cls": "flow", "prev": "田中さんの会社はサイバーエージェントで覚えますか?", "complete": true}
+{"text": "うんうん", "cls": "flow", "prev": "定期券の期限は来月末ですね。", "complete": true}
+{"text": "はい 大丈夫です", "cls": "flow", "prev": "記憶を全部消すと戻せません。よろしいですか?", "complete": true}
+{"text": "そうして", "cls": "flow", "prev": "好きな色は緑から青に変えますか?", "complete": true}
+{"text": "うん そっちで", "cls": "flow", "prev": "一蘭ではなく富士そばのほうで覚えますね。", "complete": true}
+{"text": "いいですよ", "cls": "flow", "prev": "車のナンバーを記録してもよろしいですか?", "complete": true}
+{"text": "まあいいか", "cls": "flow", "prev": "歯医者は田中先生のままにしますか?", "complete": true}
+{"text": "そうです", "cls": "flow", "prev": "お姉さんのお名前はゆかりさんですね?", "complete": true}
+{"text": "うん それ", "cls": "flow", "prev": "旅行先は京都で記録しますか、それとも奈良ですか?", "complete": true}
+{"text": "前者で", "cls": "flow", "prev": "誕生日は3月14日と3月15日、どちらで覚えますか?", "complete": true}
+{"text": "どっちでもいいよ", "cls": "flow", "prev": "住所は町名までにしますか、番地までにしますか?", "complete": true}
+{"text": "うん そのとおり", "cls": "flow", "prev": "牛乳は飲めないけれど豆乳は大丈夫、ですね。", "complete": true}
+{"text": "じゃあ番地まで", "cls": "flow", "prev": "住所は番地まで覚えますか?", "complete": true}
+{"text": "いや いいや", "cls": "flow", "prev": "古いメモも一緒に消しましょうか?", "complete": true}
+{"text": "ううん やめとく", "cls": "flow", "prev": "パスワードのヒントも覚えておきますか?", "complete": true}
+{"text": "いい そのまま", "cls": "flow", "prev": "車検の日を来年5月で上書きしますか?", "complete": true}
+{"text": "うん よろしく", "cls": "flow", "prev": "弟さんの引っ越し先も覚えておきますね。", "complete": true}
+{"text": "あー はい", "cls": "flow", "prev": "本の好みは村上春樹で合っていますか?", "complete": true}
+{"text": "まあ それで", "cls": "flow", "prev": "記憶の一覧は名前順で出しますか?", "complete": true}
+{"text": "そうしよう", "cls": "flow", "prev": "好みが変わったら都度上書きする形にしますか?", "complete": true}
+{"text": "うん 今のでいい", "cls": "flow", "prev": "今言われた内容で保存してよろしいですか?", "complete": true}
+{"text": "はいはい", "cls": "flow", "prev": "ホテルの好みは禁煙で記録しますね。", "complete": true}
+{"text": "いいね それで", "cls": "flow", "prev": "実家の番号は母さんの番号と別に覚えますか?", "complete": true}
+{"text": "違う", "cls": "correct", "prev": "誕生日は3月15日ですね。", "complete": true}
+{"text": "いや大阪", "cls": "correct", "prev": "ご実家は京都でしたね。", "complete": true}
+{"text": "15日", "cls": "correct", "prev": "誕生日を3月14日で覚えました。", "complete": true}
+{"text": "モモじゃない ももこ", "cls": "correct", "prev": "猫のモモさんですね。", "complete": true}
+{"text": "逆", "cls": "correct", "prev": "牛乳は飲めて豆乳がだめ、ですね。", "complete": true}
+{"text": "違うって", "cls": "correct", "prev": "会社の最寄りは品川で登録しました。", "complete": true}
+{"text": "新橋のほう", "cls": "correct", "prev": "最寄り駅は品川で覚えておきます。", "complete": true}
+{"text": "いや違う それは前の住所", "cls": "correct", "prev": "桜上水の住所で覚えておきます。", "complete": true}
+{"text": "そうじゃなくて ブラックじゃなくてラテになったって言ったじゃん", "cls": "correct", "prev": "コーヒーはブラックで記録してあります。", "complete": true}
+{"text": "さっき言ったのは11月2日 12月じゃない", "cls": "correct", "prev": "奥さんの誕生日は12月2日ですね。", "complete": true}
+{"text": "えっと 田中先生じゃなくて田口先生", "cls": "correct", "prev": "歯医者は田中先生で覚えました。", "complete": true}
+{"text": "違う違う そばじゃなくて小麦", "cls": "correct", "prev": "アレルギーはそばで記録します。", "complete": true}
+{"text": "26.5じゃなくて27に変えたんだよ", "cls": "correct", "prev": "靴のサイズは26.5ですね。", "complete": true}
+{"text": "あ ごめん 番号は090じゃなくて080から", "cls": "correct", "prev": "090で始まる番号で覚えました。", "complete": true}
+{"text": "いや 消してって言ったのは古いほう", "cls": "correct", "prev": "新しいパスワードを消しました。", "complete": true}
+{"text": "ちがう 覚えてじゃなくて消して", "cls": "correct", "prev": "住所を覚えました。", "complete": true}
+{"text": "一蘭じゃない 富士そば", "cls": "correct", "prev": "好きなラーメン屋は一蘭で登録しました。", "complete": true}
+{"text": "うんと 来月末じゃなくて今月末", "cls": "correct", "prev": "定期券の期限は来月末ですね。", "complete": true}
+{"text": "302じゃなくて305って言った", "cls": "correct", "prev": "部屋番号は302で覚えています。", "complete": true}
+{"text": "姉じゃなくて妹の名前ね", "cls": "correct", "prev": "お姉さんのゆかりさんですね。", "complete": true}
+{"text": "緑って言ったのは昔で 今は青", "cls": "correct", "prev": "好きな色は緑ですね。", "complete": true}
+{"text": "違う 品川じゃなくて練馬ナンバー", "cls": "correct", "prev": "車は品川ナンバーで登録しました。", "complete": true}
+{"text": "ホテルメッツじゃなくてホテルメトロ", "cls": "correct", "prev": "常宿はホテルメッツですね。", "complete": true}
+{"text": "そっちじゃなくて実家の郵便番号のほう", "cls": "correct", "prev": "現住所の郵便番号は154からですね。", "complete": true}
+{"text": "いや そういう意味じゃなくて 覚えといてほしいのは名前だけ", "cls": "correct", "prev": "田中さんの会社と住所を覚えました。", "complete": true}
+{"text": "月曜じゃなくて火曜に変わったって", "cls": "correct", "prev": "月曜は在宅ですね。", "complete": true}
+{"text": "上書きじゃなくて追加って言ったんだけど", "cls": "correct", "prev": "好みを上書きしました。", "complete": true}
+{"text": "京都じゃない 奈良", "cls": "correct", "prev": "旅行先は京都で記録しました。", "complete": true}
+{"text": "5月じゃなくて4月 来年の", "cls": "correct", "prev": "車検は来年5月ですね。", "complete": true}
+{"text": "ゆかりじゃなくてゆかこ", "cls": "correct", "prev": "ゆかりさんで覚えました。", "complete": true}
+{"text": "あー 違う 村上春樹じゃなくて村上龍", "cls": "correct", "prev": "好きな作家は村上春樹ですね。", "complete": true}
+{"text": "犬の名前じゃなくて猫の名前がヒント", "cls": "correct", "prev": "ヒントは犬の名前で記録しました。", "complete": true}
+{"text": "世田谷は今の家 実家は大阪だって", "cls": "correct", "prev": "ご実家は世田谷区ですね。", "complete": true}
+{"text": "それ弟の話 俺のじゃない", "cls": "correct", "prev": "同じマンションに引っ越したのですね。", "complete": true}
+{"text": "全部じゃなくてメモだけ消して", "cls": "correct", "prev": "記憶を全部消しますね。", "complete": true}
+{"text": "違う 辛いのが苦手なのは俺 妻は平気", "cls": "correct", "prev": "奥さんは辛いものが苦手ですね。", "complete": true}
+{"text": "言ったのはWi-Fiのパスワードで 銀行のじゃない", "cls": "correct", "prev": "銀行のパスワードは覚えられません。", "complete": true}
+{"text": "3月のほう", "cls": "correct", "prev": "誕生日は8月14日で覚えています。", "complete": true}
+{"text": "番号じゃなくて住所を覚えてって言ったの", "cls": "correct", "prev": "電話番号を覚えました。", "complete": true}
+{"text": "えっとね", "cls": "hold", "prev": null, "complete": false}
+{"text": "あのさ 前に言った住所なんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "で なんか", "cls": "hold", "prev": "住所を覚えました。", "complete": false}
+{"text": "覚えといてほしいことがあって", "cls": "hold", "prev": null, "complete": false}
+{"text": "うんと 母さんの番号がさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "実家のことなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "好みの話でさ", "cls": "hold", "prev": "コーヒーの好みを覚えています。", "complete": false}
+{"text": "あー あのー", "cls": "hold", "prev": null, "complete": false}
+{"text": "誕生日のやつなんだけど えっと", "cls": "hold", "prev": "誕生日は3月14日ですね。", "complete": false}
+{"text": "前に覚えさせたやつでさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "猫の名前ね それが", "cls": "hold", "prev": null, "complete": false}
+{"text": "田中さんの会社なんだけどさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "なんかさ 記憶のことで", "cls": "hold", "prev": null, "complete": false}
+{"text": "住所変わってて", "cls": "hold", "prev": null, "complete": false}
+{"text": "靴のサイズなんだけど えー", "cls": "hold", "prev": "靴のサイズは26.5で覚えています。", "complete": false}
+{"text": "妻の誕生日がね", "cls": "hold", "prev": null, "complete": false}
+{"text": "あの 常宿の", "cls": "hold", "prev": null, "complete": false}
+{"text": "覚えてる?って聞きたいんじゃなくて", "cls": "hold", "prev": "猫の名前は覚えています。", "complete": false}
+{"text": "アレルギーの件でさ ちょっと", "cls": "hold", "prev": null, "complete": false}
+{"text": "うーんと 定期の期限がね", "cls": "hold", "prev": "定期券の期限は来月末ですね。", "complete": false}
+{"text": "車のナンバーなんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "昨日言ったことなんだけど あれ", "cls": "hold", "prev": null, "complete": false}
+{"text": "パスワードのヒントの", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと待って えっと", "cls": "hold", "prev": "記憶を消しますか?", "complete": false}
+{"text": "記憶を消したいんだけど その", "cls": "hold", "prev": null, "complete": false}
+{"text": "歯医者の先生の名前がさ", "cls": "hold", "prev": null, "complete": false}
+{"text": "好きな色ってさ 前に", "cls": "hold", "prev": "好きな色は緑で覚えています。", "complete": false}
+{"text": "部屋番号のことで", "cls": "hold", "prev": null, "complete": false}
+{"text": "Wi-Fiのパスワードなんだけど あの", "cls": "hold", "prev": null, "complete": false}
+{"text": "姉の名前なんだけどね", "cls": "hold", "prev": "お姉さんはゆかりさんですね。", "complete": false}
+{"text": "覚えといてほしいんだけど えっと なんだっけ", "cls": "hold", "prev": null, "complete": false}
+{"text": "旅行先の話してて", "cls": "hold", "prev": null, "complete": false}
+{"text": "月曜在宅の件で", "cls": "hold", "prev": "月曜は在宅で覚えています。", "complete": false}
+{"text": "なんだっけ あの コーヒーの", "cls": "hold", "prev": null, "complete": false}
+{"text": "実家の郵便番号がですね", "cls": "hold", "prev": null, "complete": false}
+{"text": "前に言ったかもしれないんだけど", "cls": "hold", "prev": null, "complete": false}
+{"text": "上書きしてほしいのが", "cls": "hold", "prev": "同じ項目がすでにあります。", "complete": false}
+{"text": "車検の日をね", "cls": "hold", "prev": null, "complete": false}
+{"text": "弟の話なんだけど それで", "cls": "hold", "prev": null, "complete": false}
+{"text": "ちょっと確認なんだけど うんと", "cls": "hold", "prev": "住所を更新しました。", "complete": false}
+{"text": "ありがとう", "cls": "none", "prev": "住所を覚えました。", "complete": true}
+{"text": "またね", "cls": "none", "prev": null, "complete": true}
+{"text": "おやすみ", "cls": "none", "prev": "今日の記憶を保存しました。", "complete": true}
+{"text": "よし", "cls": "none", "prev": null, "complete": true}
+{"text": "じゃあね", "cls": "none", "prev": null, "complete": true}
+{"text": "ふーん", "cls": "none", "prev": null, "complete": true}
+{"text": "覚えててくれてありがとう 助かった", "cls": "none", "prev": "実家の住所はこちらです。", "complete": true}
+{"text": "住所教えてくれてありがとね", "cls": "none", "prev": null, "complete": true}
+{"text": "あー はいはい", "cls": "none", "prev": null, "complete": true}
+{"text": "おつかれ", "cls": "none", "prev": null, "complete": true}
+{"text": "ただいま", "cls": "none", "prev": null, "complete": true}
+{"text": "こんばんは 今日も頼むね", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがと 助かったよ 番号", "cls": "none", "prev": "母さんの番号は090から始まります。", "complete": true}
+{"text": "じゃあまた明日", "cls": "none", "prev": null, "complete": true}
+{"text": "えーっと うん いや なんでもない", "cls": "none", "prev": null, "complete": true}
+{"text": "ごめん 間違えた なんでもない", "cls": "none", "prev": "何を覚えますか?", "complete": true}
+{"text": "はいよ", "cls": "none", "prev": null, "complete": true}
+{"text": "あ いいや", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとう 覚えといてくれて", "cls": "none", "prev": "誕生日を記録しました。", "complete": true}
+{"text": "よろしく", "cls": "none", "prev": null, "complete": true}
+{"text": "いってきます", "cls": "none", "prev": null, "complete": true}
+{"text": "あー", "cls": "none", "prev": null, "complete": true}
+{"text": "ふむ", "cls": "none", "prev": "記憶は12件あります。", "complete": true}
+{"text": "ごめんごめん", "cls": "none", "prev": "聞き取れませんでした。", "complete": true}
+{"text": "すみません ありがとうございました", "cls": "none", "prev": "アレルギー情報を記録しました。", "complete": true}
+{"text": "お疲れさま 今日はもういいや", "cls": "none", "prev": null, "complete": true}
+{"text": "えー あー うん", "cls": "none", "prev": null, "complete": true}
+{"text": "助かった 住所", "cls": "none", "prev": "実家の住所を出しました。", "complete": true}
+{"text": "どうも", "cls": "none", "prev": "定期券の期限を覚えました。", "complete": true}
+{"text": "あ もしもし", "cls": "none", "prev": null, "complete": true}
+{"text": "はーい", "cls": "none", "prev": null, "complete": true}
+{"text": "おはよ 今日もよろしく", "cls": "none", "prev": null, "complete": true}
+{"text": "あーもう いや なんでもないなんでもない", "cls": "none", "prev": null, "complete": true}
+{"text": "ありがとう また頼むね", "cls": "none", "prev": "猫の名前を覚えました。", "complete": true}
+{"text": "ばいばい", "cls": "none", "prev": null, "complete": true}
+{"text": "今日はここまで ありがとね", "cls": "none", "prev": "記憶を整理しました。", "complete": true}
+{"text": "こんにちは", "cls": "none", "prev": null, "complete": true}
+{"text": "サンキュー 記憶のやつ", "cls": "none", "prev": "好みを更新しました。", "complete": true}
