@@ -2,3 +2,4 @@ out/
 .venv/
 data/all.jsonl
 data/real-candidates.jsonl
+__pycache__/
