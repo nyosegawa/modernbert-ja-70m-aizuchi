@@ -2,8 +2,8 @@
 """合成データの検査。形式の検証、重複の除去、クラスごとの件数を出す。
 
 使い方:
-  python3 training/aizuchi/scripts/check_data.py            # 検査して集計を表示
-  python3 training/aizuchi/scripts/check_data.py --write    # 重複と不正行を除いて data/all.jsonl に書く
+  python3 scripts/check_data.py            # 検査して集計を表示
+  python3 scripts/check_data.py --write    # 重複と不正行を除いて data/all.jsonl に書く
 """
 import json, sys, re, unicodedata, collections, pathlib
 

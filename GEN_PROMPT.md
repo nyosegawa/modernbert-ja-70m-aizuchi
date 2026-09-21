@@ -1,10 +1,10 @@
 あなたは音声アシスタント ASIST の相槌分類器(ModernBERT-ja-70m)の学習データを書く。
-まず /Users/sakasegawa/src/github.com/nyosegawa/asist/training/aizuchi/LABELS.md を読むこと。
+まず /Users/sakasegawa/src/github.com/nyosegawa/asist-aizuchi-training/LABELS.md を読むこと。
 
 ## 作るもの
 
 場面「{DOMAIN}」について、13クラス × 40件 = 520件を JSONL で書き、
-/Users/sakasegawa/src/github.com/nyosegawa/asist/training/aizuchi/data/{SLUG}.jsonl に Write ツールで保存する。
+/Users/sakasegawa/src/github.com/nyosegawa/asist-aizuchi-training/data/{SLUG}.jsonl に Write ツールで保存する。
 1行1件、形は LABELS.md のとおり。Bash や Python で文を組み合わせて量産してはいけない。全件を自分で書く。
 ファイルは1回で書き切れなければ、まず前半を Write し、残りは Bash の `cat >> file <<'EOF'` で追記してよい。
 最後に `wc -l` と、各 cls の件数を `python3` で数えて 40 ずつあることを確かめる。40 に満たないクラスがあれば追記する。
