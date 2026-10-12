@@ -1,8 +1,8 @@
 Terms of use for the synthetic aizuchi data
 
-The files in this directory (the "Data") were written by Claude (model
-claude-fable-5-1, made by Anthropic) on 2026-09-20, following the instructions
-in GEN_PROMPT.md and LABELS.md. The prompts, the label design and the selection
+The files in this directory (the "Data") were written by Claude (models
+claude-fable-5-1 and claude-opus-5-5, made by Anthropic) in September and
+October 2026, following the instructions in GEN_PROMPT.md and LABELS.md. The prompts, the label design and the selection
 of the rows are by Sakasegawa. Generated text may not be protected by copyright
 in your jurisdiction; to the extent any rights exist in the Data, Sakasegawa
 makes them available to you under the following conditions.

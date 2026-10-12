@@ -14,13 +14,13 @@ as the dataset [sakasegawa/aizuchi-synthetic-ja](https://huggingface.co/datasets
 ## Data
 
 `data/<situation>.jsonl` holds the synthetic utterances for one of 20 situations a voice assistant
-meets, 40 per class and 13 classes each. Each line is `{"text", "cls", "prev", "complete"}`: the
+meets, about 40 per class and 13 classes each. Each line is `{"text", "cls", "prev", "complete"}`: the
 user's utterance written like speech-recognition output, its class, the assistant's previous
 utterance or `null`, and whether the utterance is finished (false only for `hold`).
 
-Claude (claude-fable-5-1) wrote every row on 2026-09-20, running as Claude Code subagents under a
-Claude Max plan. [GEN_PROMPT.md](GEN_PROMPT.md) and [LABELS.md](LABELS.md) are the instructions it
-was given, kept as they were, in Japanese. They were written for the voice assistant
+Claude (claude-fable-5-1 and claude-opus-5-5) wrote every row in September and October 2026, running
+in Claude Code under a Claude Max plan. [GEN_PROMPT.md](GEN_PROMPT.md) and [LABELS.md](LABELS.md) are
+the instructions it was given, in Japanese. They were written for the voice assistant
 [ASIST](https://github.com/nyosegawa/asist), where the model is used. No real conversation logs are
 included.
 
