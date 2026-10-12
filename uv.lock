@@ -40,34 +40,6 @@ wheels = [
 ]
 
 [[package]]
-name = "asist-aizuchi-train"
-version = "0.0.1"
-source = { virtual = "." }
-dependencies = [
-    { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
-    { name = "numpy", version = "2.5.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
-    { name = "onnx" },
-    { name = "onnxruntime" },
-    { name = "onnxscript" },
-    { name = "scikit-learn" },
-    { name = "torch" },
-    { name = "transformers" },
-    { name = "wandb" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "numpy", specifier = ">=2.0" },
-    { name = "onnx", specifier = ">=1.17" },
-    { name = "onnxruntime", specifier = ">=1.20" },
-    { name = "onnxscript", specifier = ">=0.2" },
-    { name = "scikit-learn", specifier = ">=1.5" },
-    { name = "torch", specifier = ">=2.6" },
-    { name = "transformers", specifier = ">=4.51" },
-    { name = "wandb", specifier = ">=0.30.0" },
-]
-
-[[package]]
 name = "certifi"
 version = "2026.7.22"
 source = { registry = "https://pypi.org/simple" }
@@ -619,6 +591,34 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/59/8f/3298e3f334832bc28dd144af6b99cdc93502a8687e71922ea68b0a319929/ml_dtypes-0.6.0-cp315-cp315t-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:e2d6149f3a57f405bcad5fb41e03218b8373936253f23e1ca84c0108abbc3392", size = 430823, upload-time = "2026-08-13T14:14:36.44Z" },
     { url = "https://files.pythonhosted.org/packages/93/d2/f2dbf118f42ce4c325a139c9236737f436b7f8e00cd18701c99ef2405e6f/ml_dtypes-0.6.0-cp315-cp315t-win_amd64.whl", hash = "sha256:ce7563e0b1a4482cbc1b4a6272145e54e4489e54fe7428f94908c3d87103abfa", size = 465119, upload-time = "2026-08-13T14:14:37.776Z" },
     { url = "https://files.pythonhosted.org/packages/5a/ff/bda40387b5c5c64254595f4d81a12351770856acc5de4e6d43606a31f161/ml_dtypes-0.6.0-cp315-cp315t-win_arm64.whl", hash = "sha256:f6cb525101b6b903779188c1e9e9490c343b455ab822883e02cf01e5547338d2", size = 572666, upload-time = "2026-08-13T14:14:38.993Z" },
+]
+
+[[package]]
+name = "modernbert-ja-70m-aizuchi"
+version = "0.0.1"
+source = { virtual = "." }
+dependencies = [
+    { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
+    { name = "numpy", version = "2.5.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
+    { name = "onnx" },
+    { name = "onnxruntime" },
+    { name = "onnxscript" },
+    { name = "scikit-learn" },
+    { name = "torch" },
+    { name = "transformers" },
+    { name = "wandb" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "numpy", specifier = ">=2.0" },
+    { name = "onnx", specifier = ">=1.17" },
+    { name = "onnxruntime", specifier = ">=1.20" },
+    { name = "onnxscript", specifier = ">=0.2" },
+    { name = "scikit-learn", specifier = ">=1.5" },
+    { name = "torch", specifier = ">=2.6" },
+    { name = "transformers", specifier = ">=4.51" },
+    { name = "wandb", specifier = ">=0.30.0" },
 ]
 
 [[package]]

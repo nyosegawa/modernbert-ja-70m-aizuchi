@@ -181,7 +181,7 @@ def main():
     ap.add_argument('--batch', type=int, default=32)
     ap.add_argument('--seed', type=int, default=0)
     ap.add_argument('--eval_every', type=int, default=100)
-    ap.add_argument('--wandb', default='asist-aizuchi')
+    ap.add_argument('--wandb', default='modernbert-ja-70m-aizuchi')
     ap.add_argument('--val_scenes', default=','.join(VAL_SCENES),
                     help='検証に外す場面(カンマ区切り)。空なら場面を外さず乱数で5%を検証にする(最終モデル用)')
     args = ap.parse_args()

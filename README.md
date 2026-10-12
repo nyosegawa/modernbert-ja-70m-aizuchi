@@ -1,49 +1,101 @@
-# 相槌分類器の学習
+# modernbert-ja-70m-aizuchi
 
-ユーザーの発話の途中・直後に ASIST が最初に出す音(相槌の種類)を決める分類器。
-sbintuitions/modernbert-ja-70m を fine-tune し、ONNX(int8)で本体の runtime から動かす。
-クラスの定義は [LABELS.md](LABELS.md)、データの生成に使った指示は [GEN_PROMPT.md](GEN_PROMPT.md)。
+Training code and synthetic data for
+[sakasegawa/modernbert-ja-70m-aizuchi](https://huggingface.co/sakasegawa/modernbert-ja-70m-aizuchi),
+a small Japanese classifier that decides which kind of backchannel (相槌, aizuchi) a listener should
+give first, and whether the user has finished the sentence. It fine-tunes
+[sbintuitions/modernbert-ja-70m](https://huggingface.co/sbintuitions/modernbert-ja-70m) and exports
+the result to ONNX (fp32 and int8).
 
-## データ
+The classes, the input and output, the evaluation and the limitations are described in the
+[model card](https://huggingface.co/sakasegawa/modernbert-ja-70m-aizuchi). The data is also published
+as the dataset [sakasegawa/aizuchi-synthetic-ja](https://huggingface.co/datasets/sakasegawa/aizuchi-synthetic-ja).
 
-`data/<場面>.jsonl` は20の場面ごとに Agent が書いた合成データ(各 13クラス × 40件)。
-1行の形は `{"text", "cls", "prev", "complete"}`。周囲の雑音や無関係な発話は入れない。
-実ログはテレビの音が混じった日があるため学習には使わない。
+## Data
+
+`data/<situation>.jsonl` holds the synthetic utterances for one of 20 situations a voice assistant
+meets, 40 per class and 13 classes each. Each line is `{"text", "cls", "prev", "complete"}`: the
+user's utterance written like speech-recognition output, its class, the assistant's previous
+utterance or `null`, and whether the utterance is finished (false only for `hold`).
+
+Claude (claude-fable-5-1) wrote every row on 2026-09-20, running as Claude Code subagents under a
+Claude Max plan. [GEN_PROMPT.md](GEN_PROMPT.md) and [LABELS.md](LABELS.md) are the instructions it
+was given, kept as they were, in Japanese. They were written for the voice assistant
+[ASIST](https://github.com/nyosegawa/asist), where the model is used. No real conversation logs are
+included.
 
 ```bash
-python3 scripts/check_data.py --write   # 形式の検証、句読点を無視した重複の除去 → data/all.jsonl
+python3 scripts/check_data.py --write   # validate, drop duplicates that differ only in punctuation, write data/all.jsonl
 ```
 
-2026-09-20 時点で重複除去後 9,045件。none と flow は短い定型が場面をまたいで重なるため少なめ(430前後)。
+`data/all.jsonl` is generated and ignored by Git. It has 9,045 rows, each with `src` set to its
+situation.
 
-## 学習
+## Use of Claude's outputs
+
+Claude was used under Anthropic's [Consumer Terms](https://www.anthropic.com/legal/consumer-terms),
+which apply to Claude Code on the Free, Pro and Max plans
+([Claude Code legal and compliance](https://code.claude.com/docs/en/legal-and-compliance)). The
+Consumer Terms forbid using the services to develop products or services that compete with
+Anthropic's, including training AI models, and the
+[Usage Policy](https://www.anthropic.com/legal/aup) forbids training models on outputs without
+authorization in the sense of model scraping and distillation.
+
+Anthropic's help article
+[Can I use my Outputs to train an AI model?](https://support.claude.com/en/articles/12326764)
+(updated 2026-03-16) explains where that line is. It allows training models that do not compete with
+Anthropic's own models and names specialized classifiers, among them content categorization, as
+examples. It forbids general-purpose chatbots, models for open-ended text generation, using outputs as
+training targets, and supporting a third party who tries to do those things.
+
+This model is a 70M-parameter encoder that sorts an utterance into 13 classes and returns two
+probabilities. It generates no text and cannot answer a question, so it falls under the specialized
+classifiers the help article allows. The data is published under terms that keep it out of the
+uses the help article forbids (see below), so that publishing it does not support a third party in
+training a competing model.
+
+This is the author's reading of Anthropic's terms as of 2026-10-12, not legal advice.
+
+## Training
 
 ```bash
 uv sync
-.venv/bin/wandb login                    # 任意。未ログインなら標準出力と out/<run>/log.jsonl だけに記録する
-.venv/bin/python scripts/train.py --out out/run1                      # hobby/travel/shopping を検証に外す
-.venv/bin/python scripts/train.py --out out/final --val_scenes "" --epochs 4   # 全場面で学習(最終モデル)
-.venv/bin/python scripts/errors.py out/run1                           # 混同行列と間違えた例
-.venv/bin/python scripts/export_onnx.py out/final                     # aizuchi.onnx / aizuchi.int8.onnx / tokenizer.json / labels.json
+.venv/bin/wandb login   # optional; without it the log goes to stdout and out/<run>/log.jsonl
+.venv/bin/python scripts/train.py --out out/run1                                 # hold out hobby, travel and shopping
+.venv/bin/python scripts/train.py --out out/final --val_scenes "" --epochs 4    # train on all situations (the released model)
+.venv/bin/python scripts/errors.py out/run1                                      # confusion matrix and misclassified rows
+.venv/bin/python scripts/export_onnx.py out/final                                # aizuchi.onnx, aizuchi.int8.onnx, tokenizer.json, labels.json
 ```
 
-入力は「直前のアシスタント発話 [SEP] ユーザーの部分認識」で、句読点と空白は両方から落とす
-(ASR の句読点は付いたり付かなかったりで、check だけ「?」が多いなど生成データに偏りがあるため)。
-出力は cls(13クラス)と complete(言い切っているか)の2ヘッド。
-学習時の水増しは prev の脱落(3割)とトークン境界の前方切り出し(6割)で、切った行は complete=False、
-元の4割未満か4文字未満の切り出しには cls の損失を掛けない。詳細は `scripts/train.py` の冒頭。
+The input is the assistant's previous utterance and the user's partial transcript as a sentence pair,
+with punctuation and whitespace removed from both. The model has two heads on the `<s>` vector: the
+class (13 classes) and completeness. During training `prev` is dropped with probability 0.3, and the
+text is cut at a token boundary with probability 0.6, which makes the row incomplete; a cut that keeps
+less than 40% of the text or fewer than 4 characters gets no class loss. The details are at the top
+of `scripts/train.py`.
 
-## 結果(2026-09-20)
+The ONNX export matches PyTorch: the fp32 model gives the same probabilities, and the int8 model
+differs by at most 0.08 with the same predicted class. Padded batches give the same probabilities as
+single sentences with the fp32 model; the int8 model quantizes activations per run, so its
+probabilities move by up to about 0.02 with the contents of the batch.
 
-| 実験 | 検証 | macro-F1(全文) | 75%で切った文 | 50%で切った文 | 言い切り AUC(全文+切り出し) |
+## Results (2026-09-20)
+
+| run | validation set | macro-F1, full sentences | cut at 75% | cut at 50% | completeness AUC |
 |---|---|---|---|---|---|
-| run1 | 未見の3場面(1,382件) | 0.910 | 0.80 | 0.72 | 0.93 |
-| final | 乱数5%(452件) | 0.863 | 0.74 | 0.63 | - |
+| run1 | 3 unseen situations, 1,382 rows | 0.910 | 0.80 | 0.72 | 0.93 (full and cut sentences) |
+| final | random 5%, 452 rows | 0.863 | 0.74 | 0.63 | 0.99 (full sentences) |
 
-final の値が低いのは検証に smalltalk・coding のような難しい場面が入るため。
-残る誤りの大半は cheer/surprise、empathy/surprise、check/understand のように人が付けても割れる例で、
-生成データのラベル自体が揺れている行も多い。本番の物差しは実ログに手で付けたテストセット(未作成)。
+`final` scores lower because its random validation set includes harder situations such as small talk
+and coding. Most remaining errors are between cheer and surprise, empathy and surprise, and check and
+understand, where people also disagree. On an Apple M5 CPU with one thread, one sentence takes 3 ms
+with fp32 and 1.7 ms with int8.
 
-ONNX は batch=1 で torch と一致(fp32 は確率差 0、int8 は最大 0.08 で argmax は一致)。
-padding を含む batch では traced graph の mask 経路が異なり確率がずれるので、本番は1文ずつ推論する。
-M5 の CPU で1文 fp32 3ms、int8 1.7ms。
+## License
+
+The code is under the MIT license ([LICENSE](LICENSE)).
+
+The data is not under the MIT license. Its terms of use are in [data/LICENSE](data/LICENSE): it may
+be used to train and evaluate classifiers and other models that do not generate open-ended text, and
+not to train general-purpose chatbots, text-generation models or models that compete with
+Anthropic's, nor as training targets for imitating Claude.
